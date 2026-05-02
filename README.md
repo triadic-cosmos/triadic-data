@@ -1,6 +1,6 @@
-# triadic-data
+# Triadic Data
 
-**triadic-data** contains the datasets, trained models, and generated artifacts  
+**Triadic Data** contains the datasets, trained models, and generated artifacts  
 produced by the **Triadic Toys**.  
 All content in this repository is generated *exclusively* by the toy universes  
 and is provided for reproducibility, inspection, and educational use.
