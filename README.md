@@ -10,8 +10,10 @@ This repository is the data companion to:
 - **triadic-toys** — runnable Java toy universes (Apache License, Version 2.0)  
 - **triadic-cosmos** — canonical books and papers (CC BY‑NC‑ND 4.0)
 
-All files in **triadic-data** are released under the **MIT License**,  
-matching the licensing of the toy projects that generate them.
+All files in **triadic-data** are released under the **MIT License**.
+
+The toy projects that generate these artifacts are licensed separately under the  
+**Apache License, Version 2.0**, which governs the source code in the `triadic-toys` repository.
 
 ---
 
@@ -46,7 +48,7 @@ Typical contents include:
 ---
 
 ### **Artifacts**
-- **Toy Cosmos** — example output images (universe evolution, galleries)  
+- **Toy Cosmos** — example output images
 - **Toy Writer** — example generated stories  
 
 The folder structure mirrors the expectations of the toy projects  
