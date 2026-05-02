@@ -7,7 +7,7 @@ and is provided for reproducibility, inspection, and educational use.
 
 This repository is the data companion to:
 
-- **triadic-toys** — runnable Java toy universes (MIT License)  
+- **triadic-toys** — runnable Java toy universes (Apache License, Version 2.0)  
 - **triadic-cosmos** — canonical books and papers (CC BY‑NC‑ND 4.0)
 
 All files in **triadic-data** are released under the **MIT License**,  
@@ -35,23 +35,19 @@ Everything originates from the Triadic Toys themselves.
 
 Typical contents include:
 
-### **Datasets**
-- token dictionaries and libraries (Toy Story)  
-- paged datasets for Paged‑Pre‑CAS models  
-- curriculum datasets for learning tasks  
-- world snapshots and state dumps (Toy Life, Toy Maze Runner)
-
 ### **Trained Models**
-- Paged‑Pre‑CAS networks (Toy Story)  
-- PRE and non‑PRE networks (Toy Solver)  
-- trained agents and generations (Toy Life)  
-- selection folders and ensembles
+- **Toy Architect** 
+- **Toy Board** 
+- **Toy Life** 
+- **Toy Solver** 
+- **Toy Story** 
+- **Toy Writer**
+
+---
 
 ### **Artifacts**
-- image galleries (Toy Cosmos universe evolution)  
-- logs, CSV statistics, and evaluation summaries  
-- shuffled libraries and paged dataset files  
-- tournament results (Toy Octadia)
+- **Toy Cosmos** — example output images (universe evolution, galleries)  
+- **Toy Writer** — example generated stories  
 
 The folder structure mirrors the expectations of the toy projects  
 (e.g., paths such as `../../triadic-data/...`).
@@ -83,7 +79,7 @@ of the Triadic Cosmos. Licensed under CC BY‑NC‑ND 4.0.
 
 ### **triadic-toys**  
 Runnable Java toy universes that generate all data stored here.  
-Source code is MIT‑licensed.
+Source code is Apache Licensed, Version 2.0.
 
 ### **triadic-data** *(this repository)*  
 Generated datasets, trained models, and artifacts produced by the toys.  
