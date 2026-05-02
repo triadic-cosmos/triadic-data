@@ -23,8 +23,7 @@ The goal of this repository is to:
 
 - store **trained models** produced by the toy universes  
 - provide **datasets** required to run or reproduce experiments  
-- archive **generated artifacts** such as galleries, logs, statistics,  
-  selection folders, and paged datasets  
+- archive **generated artifacts** such as galleries, logs, statistics or model output
 - ensure that all Triadic Toys can be run **without retraining**  
 - support transparent, inspectable, and reproducible research
 
@@ -58,8 +57,7 @@ The folder structure mirrors the expectations of the toy projects
 
 ## Licensing
 
-All data, models, and artifacts in this repository are licensed under the **MIT License**,  
-consistent with the licensing of the Triadic Toys that generate them.
+All data, models, and artifacts in this repository are licensed under the **MIT License**.
 
 This means:
 
