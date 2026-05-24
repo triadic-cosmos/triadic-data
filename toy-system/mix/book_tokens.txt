@@ -1,0 +1,406 @@
+﻿<ADJ> cold <NOUN> night <VERB> press <PRESENT-3S> <ADP> against <ADJ> silent <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> wait <PRESENT-3S> <ADP> near <ADJ> broken <NOUN> stump <PERIOD> <EOL>
+<ADJ> distant <NOUN> cracking <VERB> echo <PRESENT-3S> <ADP> through <ADJ> dark <NOUN> pine <PLURAL> <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> watch <PRESENT-3S> <ADP> from <PERFECT> shadow <ADJ> hollow <PERIOD> <EOL>
+<PRON> he <VERB> sense <PRESENT-3S> <PRON> something <ADJ> wrong <ADV> nearby <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> between <ADJ> twisted <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ADJ> cold <NOUN> wind <VERB> scrape <PRESENT-3S> <ADP> across <ADJ> brittle <NOUN> leave <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <NOUN> silence <VERB> choke <PRESENT-3S> <DET> the <NOUN> clearing <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> step <PRESENT-3S> <ADV> closer <ADP> with <ADJ> hungry <NOUN> intent <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> bolt <PRESENT-3S> <ADP> across <ADJ> dead <NOUN> brush <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> shout <PRESENT-3S> <INGV> warn <ADP> into <ADJ> cold <NOUN> dark <PERIOD> <EOL>
+<DET> the <NOUN> fox <NOUN> chase <PLURAL> <ADV> fast <ADP> along <ADJ> narrow <NOUN> trail <PERIOD> <EOL>
+<NOUN> branch <PLURAL> <VERB> whip <PRESENT> <ADP> past <INGV> flee <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> stumble <PRESENT-3S> <ADP> near <ADJ> rotten <NOUN> log <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> leap <PRESENT-3S> <ADV> forward <INGV> block <NOUN> fox <PERIOD> <EOL>
+<PRON> he <VERB> swing <PRESENT-3S> <NOUN> branch <ADV> hard <ADV> downward <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> fear <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> behind <PERFECT> fall <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<NOUN> forest <VERB> breathe <PRESENT-3S> <ADJ> dark <NOUN> lesson <PLURAL> <VERB> learn <PAST> <NOUN> tonight <PERIOD> <EOL>
+
+<ADJ> violent <NOUN> storm <VERB> tear <PRESENT-3S> <ADP> across <ADJ> hollow <NOUN> forest <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> crouch <PRESENT-3S> <ADP> under <ADJ> shattered <NOUN> root <PLURAL> <PERIOD> <EOL>
+<NOUN> thunder <VERB> roll <PRESENT-3S> <ADP> through <ADJ> twisted <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> prowl <PRESENT-3S> <ADP> near <ADJ> flooded <NOUN> ditch <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> cling <PRESENT-3S> <PART> to <BASE> slick <NOUN> bark <PERIOD> <EOL>
+<NOUN> lightning <NOUN> carve <PLURAL> <VERB> jag <PAST> <NOUN> scar <PLURAL> <ADP> across <NOUN> sky <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> from <INGV> crash <NOUN> debris <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> sprint <PRESENT-3S> <ADP> through <INGV> rise <NOUN> water <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> scream <PRESENT-3S> <INGV> warn <ADP> into <INGV> roar <NOUN> wind <EXCLAMATION> <EOL>
+<PERFECT> fall <NOUN> tree <PLURAL> <VERB> block <PRESENT> <ADJ> narrow <NOUN> escape <NOUN> path <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> over <PERFECT> shatter <NOUN> trunk <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> swirl <NOUN> mud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> from <INGV> sink <NOUN> ground <PERIOD> <EOL>
+<NOUN> storm <VERB> rage <PRESENT-3S> <ADP> around <INGV> tremble <NOUN> trio <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> fear <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADJ> sharp <ADJ> painful <NOUN> breath <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> toward <ADJ> broken <NOUN> ridge <PERIOD> <EOL>
+<PROPN> dawn <VERB> bleed <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <PERFECT> ruin <NOUN> forest <PERIOD> <EOL>
+
+<ING> choke <NOUN> dust <NOUN> swirl <PLURAL> <ADP> inside <PERFECT> collapse <NOUN> tunnel <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> through <ADJ> narrow <NOUN> stone <NOUN> gap <PERIOD> <EOL>
+<ADJ> dripping <NOUN> water <VERB> echo <PRESENT-3S> <ADP> along <ADJ> jagged <NOUN> wall <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> whisper <PRESENT-3S> <INGV> warn <ADP> behind <PRON> him <PERIOD> <EOL>
+<ADJ> distant <ADJ> rumble <NOUN> shake <PLURAL> <ADJ> loose <NOUN> gravel <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADV> deeper <ADP> into <INGV> crush <NOUN> dark <PERIOD> <EOL>
+<ADJ> sudden <NOUN> collapse <VERB> roar <PRESENT-3S> <ADP> behind <PERFECT> trap <NOUN> trio <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> panic <PRESENT-3S> <ADP> under <INGV> fall <NOUN> dust <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> choke <NOUN> dark <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> scrape <PRESENT-3S> <VERB> claw <PRESENT-3S> <ADP> along <NOUN> stone <PERIOD> <EOL>
+<ADJ> narrow <NOUN> passage <VERB> twist <PRESENT-3S> <ADP> toward <ADJ> deeper <NOUN> void <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <ADJ> hidden <NOUN> pit <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> past <INGV> crumble <NOUN> ledge <PERIOD> <EOL>
+<ING> echo <NOUN> breath <PLURAL> <VERB> tremble <PRESENT> <ADP> through <ADJ> tight <NOUN> cavern <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> toward <ADJ> faint <NOUN> draft <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <INGV> rise <NOUN> air <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> fear <PERIOD> <EOL>
+<ADJ> pale <NOUN> moonlight <VERB> bleed <PRESENT-3S> <ADP> through <PERFECT> crack <NOUN> exit <PERIOD> <EOL>
+
+<ING> suffocate <NOUN> mist <NOUN> coil <PLURAL> <ADP> across <PERFECT> drown <NOUN> clearing <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> through <INGV> shift <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<PROPN> warped <VERB> echo <PRESENT-3S> <NOUN> pulse <ADP> under <PROPN> pale <PROPN> fog <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> toward <NOUN> flickering <NOUN> outline <PERIOD> <EOL>
+<ADJ> unseen <NOUN> footstep <PLURAL> <VERB> press <PRESENT-3S> <ADV> closer <ADP> behind <PRON> them <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> emerge <PRESENT-3S> <ADP> from <INGV> dissolve <NOUN> mist <PERIOD> <EOL>
+<ADJ> distant <NOUN> wail <PLURAL> <VERB> distort <PRESENT> <ADP> through <NOUN> thickening <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <NOUN> melting <NOUN> silhouette <PLURAL> <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> between <INGV> tremble <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crush <NOUN> fog <PERIOD> <EOL>
+<ING> shift <NOUN> ground <NOUN> ripple <PLURAL> <ADP> beneath <PRONA> their <NOUN> foot <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> sink <ADJ> hollow <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> echo <NOUN> void <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <NOUN> rabbit <ADP> toward <ADJ> faint <NOUN> glow <PERIOD> <EOL>
+<ING> swirl <NOUN> mist <VERB> peel <PRESENT-3S> <ADV> away <INGV> reveal <ADJ> broken <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> dread <PERIOD> <EOL>
+<ING> echo <NOUN> cry <PLURAL> <NOUN> fade <ADP> into <NOUN> thinning <NOUN> fog <PERIOD> <EOL>
+<PROPN> dawn <VERB> fracture <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <ADJ> haunted <NOUN> clearing <PERIOD> <EOL>
+
+<ING> crush <NOUN> pressure <NOUN> hum <PLURAL> <ADP> through <PERFECT> drown <NOUN> valley <EXCLAMATION> <EOL>
+<ING> drift <NOUN> silt <NOUN> swirl <PLURAL> <ADP> around <INGV> tremble <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> sink <PRESENT-3S> <ADP> near <ADJ> fractured <NOUN> reef <PERIOD> <EOL>
+<ADJ> warped <NOUN> current <PLURAL> <NOUN> twist <ADP> along <ADJ> broken <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> paddle <PRESENT-3S> <ADP> through <INGV> shimmer <NOUN> haze <PERIOD> <EOL>
+<ADJ> distant <NOUN> pulse <PLURAL> <VERB> throb <PRESENT> <ADP> under <INGV> shift <NOUN> water <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> glide <PRESENT-3S> <ADP> between <INGV> bend <NOUN> light <PERIOD> <EOL>
+<ADJ> sudden <NOUN> tremor <VERB> crack <PRESENT-3S> <ADP> across <ADJ> deep <NOUN> trench <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flail <PRESENT-3S> <ADP> near <INGV> sink <ADJ> hollow <PERIOD> <EOL>
+<ING> drift <NOUN> shadow <PLURAL> <VERB> distort <PRESENT> <ADP> around <INGV> rise <NOUN> bubble <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> swirl <NOUN> pressure <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> lunge <PRESENT-3S> <ADP> through <ADJ> fractured <NOUN> glow <EXCLAMATION> <EOL>
+<ING> echo <NOUN> roar <PLURAL> <NOUN> warp <ADV> inside <PERFECT> drown <NOUN> cavern <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> drift <PRESENT-3S> <ADP> toward <ADJ> faint <NOUN> surface <PERIOD> <EOL>
+<NOUN> shimmering <NOUN> beam <PLURAL> <VERB> pierce <PRESENT> <ADP> through <ADJ> murky <NOUN> depth <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> push <PRESENT-3S> <NOUN> fox <ADP> from <INGV> sink <NOUN> pit <PERIOD> <EOL>
+<ING> tremble <NOUN> current <PLURAL> <VERB> settle <PRESENT> <ADP> around <ADJ> broken <NOUN> ridge <PERIOD> <EOL>
+<ADJ> pale <NOUN> daylight <VERB> ripple <PRESENT-3S> <ADP> across <INGV> rise <NOUN> water <PERIOD> <EOL>
+
+<ING> vibrate <NOUN> swarm <NOUN> surge <PLURAL> <ADP> across <INGV> tremble <NOUN> clearing <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> rise <ADJ> wingbeat <NOUN> storm <PERIOD> <EOL>
+<ING> chitter <NOUN> cloud <PLURAL> <BASE> ripple <ADP> through <ADJ> brittle <NOUN> air <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> beneath <INGV> crawl <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <INGV> pierce <NOUN> drone <PERIOD> <EOL>
+<ING> skitter <NOUN> shape <PLURAL> <NOUN> swarm <ADP> across <ADJ> shattered <NOUN> root <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> sting <NOUN> cloud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> vibrate <NOUN> dust <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> swirl <NOUN> wing <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <ADJ> hiss <NOUN> burst <PLURAL> <ADP> from <INGV> crawl <NOUN> mound <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> swarm <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> from <INGV> churn <NOUN> insect <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> over <INGV> rise <NOUN> stinger <NOUN> cloud <PERIOD> <EOL>
+<ING> echo <NOUN> wing <PLURAL> <VERB> tremble <PRESENT> <ADP> across <ADJ> hollow <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> safe <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> through <INGV> vibrate <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> dread <PERIOD> <EOL>
+<ING> chitter <NOUN> swarm <VERB> fade <PRESENT-3S> <ADP> into <INGV> die <NOUN> wind <PERIOD> <EOL>
+
+<ING> pulse <NOUN> critter <NOUN> swarm <VERB> surge <PRESENT-3S> <ADP> beyond <INGV> shimmer <NOUN> crater <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> glow <NOUN> tendril <NOUN> mist <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <NOUN> clicking <NOUN> membrane <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> near <INGV> ripple <ADJ> alien <NOUN> pool <PERIOD> <EOL>
+<ADJ> strange <ADJ> hum <NOUN> vibrate <PLURAL> <ADP> within <NOUN> shifting <PROPN> dome <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADP> beside <NOUN> quivering <NOUN> spore <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> lash <PROPN> tendril <NOUN> cloud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crawl <PROPN> biolight <PROPN> fog <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <ADJ> dripping <ADJ> alien <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <NOUN> screech <VERB> burst <PRESENT-3S> <ADP> from <INGV> split <NOUN> egg <NOUN> mound <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> against <INGV> twist <NOUN> limb <NOUN> shadow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> beyond <INGV> surge <NOUN> critter <NOUN> mass <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> tendril <NOUN> swarm <PERIOD> <EOL>
+<ING> echo <NOUN> pulse <PLURAL> <NOUN> fade <ADP> along <ADJ> hollow <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> safe <NOUN> rise <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> through <PROPN> dim <ADJ> alien <PROPN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> tremble <PRESENT-3S> <ADP> under <INGV> die <NOUN> glow <PERIOD> <EOL>
+<NOUN> quivering <NOUN> critter <NOUN> swarm <VERB> retreat <PRESENT-3S> <ADP> beyond <ADJ> silent <NOUN> crater <PERIOD> <EOL>
+
+<ING> pulse <NOUN> lava <NOUN> surge <PLURAL> <ADP> beyond <INGV> shimmer <NOUN> fissure <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> glow <NOUN> ember <NOUN> mist <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <INGV> crack <PROPN> basalt <NOUN> wall <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> near <INGV> ripple <ADJ> molten <NOUN> pool <PERIOD> <EOL>
+<ADJ> deep <ADJ> rumble <NOUN> vibrate <PLURAL> <ADP> within <INGV> shift <ADJ> cavern <NOUN> spine <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADP> beside <INGV> quiver <NOUN> heat <NOUN> spore <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> lash <PROPN> ember <PROPN> cloud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crawl <ADJ> magma <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <ADJ> dripping <ADJ> molten <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <BASE> crack <NOUN> burst <PLURAL> <ADP> from <INGV> split <NOUN> lava <NOUN> vent <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> against <INGV> twist <NOUN> heat <NOUN> shadow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> beyond <INGV> surge <ADJ> molten <NOUN> tide <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> ember <NOUN> swarm <PERIOD> <EOL>
+<ING> echo <NOUN> tremor <NOUN> fade <PLURAL> <ADP> along <ADJ> hollow <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> safe <NOUN> rise <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> through <ADJ> dim <ADJ> molten <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> tremble <PRESENT-3S> <ADP> under <INGV> die <NOUN> ember <NOUN> glow <PERIOD> <EOL>
+<PROPN> quivering <NOUN> lava <NOUN> surge <VERB> retreat <PRESENT-3S> <ADP> beyond <ADJ> silent <NOUN> fissure <PERIOD> <EOL>
+
+<ADJ> twisted <NOUN> root <PLURAL> <VERB> surge <PRESENT> <ADP> across <INGV> awaken <NOUN> grove <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> past <INGV> grasp <NOUN> vine <PLURAL> <PERIOD> <EOL>
+<ING> bark <NOUN> mouth <PLURAL> <ADJ> open <ADP> along <ADJ> hollow <NOUN> trunk <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <INGV> loom <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> beside <INGV> pulse <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ADJ> distant <NOUN> groan <PLURAL> <VERB> tremble <PRESENT> <ADP> through <INGV> live <NOUN> wood <PERIOD> <EOL>
+<PROPN> thorned <VERB> tendril <PRESENT-3S> <NOUN> coil <ADP> around <ADJ> broken <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <BASE> crack <NOUN> burst <PLURAL> <ADP> from <PROPN> splitting <NOUN> oak <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> snap <NOUN> jaw <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> against <INGV> lash <NOUN> vine <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crush <NOUN> leave <PLURAL> <PERIOD> <EOL>
+<ING> root <NOUN> limb <PLURAL> <BASE> drag <ADP> across <INGV> shift <NOUN> soil <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> petal <PLURAL> <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <ADJ> grasping <NOUN> canopy <PERIOD> <EOL>
+<ADJ> thorned <NOUN> vine <PLURAL> <VERB> tighten <PRESENT> <ADP> around <ADJ> narrow <NOUN> path <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <NOUN> rabbit <ADP> toward <ADJ> faint <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> carve <PRESENT-3S> <VERB> path <PRESENT-3S> <ADP> through <INGV> thrash <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ING> tremble <NOUN> branch <PLURAL> <VERB> loosen <PRESENT> <ADP> under <INGV> die <NOUN> groan <PERIOD> <EOL>
+<ING> live <NOUN> grove <VERB> recoil <PRESENT-3S> <ADP> from <INGV> fade <NOUN> light <PERIOD> <EOL>
+<PROPN> dawn <VERB> bleed <PRESENT-3S> <ADJ> pale <NOUN> glow <ADP> across <ADJ> silent <NOUN> wood <PERIOD> <EOL>
+
+<ING> flicker <NOUN> second <PLURAL> <VERB> warp <PRESENT> <ADP> across <PERFECT> break <NOUN> ravine <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> through <INGV> repeat <NOUN> echo <PLURAL> <PERIOD> <EOL>
+<ADJ> fractured <NOUN> moment <PLURAL> <NOUN> pulse <ADP> under <ADJ> pale <NOUN> dust <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> inside <INGV> loop <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <INGV> drift <NOUN> second <PLURAL> <PERIOD> <EOL>
+<PERFECT> warp <NOUN> time <VERB> hum <PRESENT-3S> <ADP> along <INGV> shift <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<ING> echo <NOUN> step <PLURAL> <VERB> overlap <PRESENT> <ADP> behind <PRON> them <PERIOD> <EOL>
+<ADJ> sudden <NOUN> rewind <VERB> snap <PRESENT-3S> <ADP> across <ADJ> hollow <NOUN> air <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> repeat <NOUN> cliff <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <ADJ> staggering <NOUN> loop <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> collapse <NOUN> second <PLURAL> <PERIOD> <EOL>
+<ING> flicker <NOUN> ground <NOUN> shift <PLURAL> <ADP> beneath <PRONA> their <NOUN> foot <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> vanish <NOUN> moment <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> fracture <NOUN> time <PERIOD> <EOL>
+<ING> echo <NOUN> cry <PLURAL> <VERB> distort <PRESENT-3S> <ADP> across <INGV> loop <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <NOUN> rabbit <ADP> toward <ADJ> stable <NOUN> breath <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> fade <NOUN> loop <PLURAL> <PERIOD> <EOL>
+<ING> tremble <NOUN> second <PLURAL> <VERB> settle <PRESENT> <ADP> under <ADJ> pale <NOUN> wind <PERIOD> <EOL>
+<ADJ> broken <NOUN> time <VERB> release <PRESENT-3S> <ADJ> hollow <NOUN> ravine <PERIOD> <EOL>
+<PROPN> dawn <VERB> return <PRESENT-3S> <ADJ> single <NOUN> moment <ADP> across <ADJ> silent <NOUN> ridge <PERIOD> <EOL>
+
+<ING> shatter <NOUN> reflection <PLURAL> <NOUN> ripple <ADP> across <PERFECT> break <NOUN> hall <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> bend <VERB> glass <PRESENT-3S> <NOUN> light <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <INGV> drift <NOUN> mirror <NOUN> shard <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> near <INGV> tremble <ADJ> silver <NOUN> wall <PERIOD> <EOL>
+<PROPN> warped <VERB> face <PRESENT-3S> <NOUN> pulse <ADP> within <INGV> shift <NOUN> pane <PLURAL> <PERIOD> <EOL>
+<ADJ> cold <NOUN> echo <PLURAL> <VERB> hum <PRESENT> <ADP> along <ADJ> hollow <NOUN> mirror <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADP> beside <INGV> flicker <NOUN> double <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <NOUN> fracture <VERB> snap <PRESENT-3S> <ADP> through <PERFECT> mirror <NOUN> dark <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> past <NOUN> twisting <NOUN> reflection <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> collapse <NOUN> glare <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> near <INGV> rise <VERB> glass <PRESENT-3S> <NOUN> tide <EXCLAMATION> <EOL>
+<NOUN> shimmering <NOUN> figure <PLURAL> <VERB> distort <PRESENT> <ADP> across <INGV> bend <NOUN> floor <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <NOUN> splitting <NOUN> image <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> from <INGV> shatter <NOUN> path <PERIOD> <EOL>
+<ING> echo <NOUN> fracture <PLURAL> <NOUN> fade <ADP> along <ADJ> silent <NOUN> hall <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> real <NOUN> light <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> die <NOUN> reflection <PLURAL> <PERIOD> <EOL>
+<ING> tremble <NOUN> mirror <PLURAL> <VERB> loosen <PRESENT> <ADP> under <INGV> fade <NOUN> hum <PERIOD> <EOL>
+<ADJ> broken <NOUN> image <PLURAL> <VERB> release <PRESENT> <ADJ> hollow <NOUN> corridor <PERIOD> <EOL>
+<PROPN> dawn <VERB> return <PRESENT-3S> <ADJ> steady <NOUN> light <ADP> across <ADJ> empty <NOUN> hall <PERIOD> <EOL>
+
+<ADJ> cold <NOUN> mist <VERB> coil <PRESENT-3S> <ADP> across <INGV> tremble <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crouch <PRESENT-3S> <ADP> near <ADJ> fractured <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<ADJ> distant <NOUN> echo <PLURAL> <NOUN> pulse <ADP> beneath <ADJ> hollow <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> watch <PRESENT-3S> <ADP> from <INGV> fade <NOUN> grove <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> along <INGV> twist <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ING> shift <NOUN> shadow <PLURAL> <NOUN> ripple <ADP> under <PROPN> pale <PROPN> fog <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> past <INGV> sink <ADJ> hollow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> whisper <PRESENT-3S> <INGV> warn <ADP> through <ADJ> brittle <NOUN> air <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> prowl <PRESENT-3S> <ADP> near <INGV> crack <NOUN> stump <PERIOD> <EOL>
+<ADJ> sudden <NOUN> tremor <VERB> snap <PRESENT-3S> <ADP> across <ADJ> broken <NOUN> ground <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> lash <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> toward <ADJ> faint <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> swirl <NOUN> dust <PERIOD> <EOL>
+<ADJ> warped <NOUN> echo <PLURAL> <VERB> hum <PRESENT> <ADP> along <ADJ> shattered <NOUN> trunk <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> stumble <PRESENT-3S> <ADP> near <INGV> glow <NOUN> fissure <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> rise <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> tremble <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> dim <ADJ> safe <ADJ> hollow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> sink <NOUN> root <PLURAL> <PERIOD> <EOL>
+<PROPN> dawn <VERB> bleed <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <ADJ> silent <NOUN> clearing <PERIOD> <EOL>
+
+<ING> haunt <NOUN> shadow <PLURAL> <NOUN> coil <ADP> across <ADJ> hollow <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crouch <PRESENT-3S> <ADP> near <INGV> tremble <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> watch <PRESENT-3S> <ADP> from <INGV> fade <NOUN> grove <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> beneath <INGV> shift <NOUN> silhouette <PLURAL> <PERIOD> <EOL>
+<ADJ> cold <NOUN> wind <VERB> scrape <PRESENT-3S> <ADP> across <ADJ> brittle <NOUN> leave <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> past <INGV> loom <NOUN> shadow <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> whisper <PRESENT-3S> <INGV> warn <ADP> through <ADJ> pale <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> prowl <PRESENT-3S> <ADP> near <INGV> flicker <NOUN> outline <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <ADJ> hush <NOUN> press <PLURAL> <ADP> against <ADJ> silent <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> grasp <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> toward <ADJ> faint <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> swirl <NOUN> dark <PERIOD> <EOL>
+<ADJ> warped <NOUN> figure <PLURAL> <NOUN> pulse <ADP> beneath <ADJ> broken <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> stumble <PRESENT-3S> <ADP> near <PERFECT> shadow <ADJ> hollow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crawl <NOUN> gloom <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> tremble <NOUN> silhouette <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> dim <ADJ> safe <NOUN> clearing <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> sink <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <INGV> rise <NOUN> dread <PERIOD> <EOL>
+<PROPN> dawn <VERB> fracture <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <ADJ> haunted <NOUN> grove <PERIOD> <EOL>
+
+<DET> the <NOUN> observatory <VERB> stand <PAST> <ADV> alone <ADP> on <DET> the <NOUN> ridge <COMMA> <DET> a <ADJ> narrow <NOUN> spine <ADP> of <NOUN> stone <ING> rise <ADP> above <DET> the <NOUN> valley <PERIOD> <EOL>
+<DET> every <NOUN> night <COMMA> <DET> the <NOUN> caretaker <VERB> light <PAST> <DET> the <NOUN> copper <NOUN> lamp <PLURAL> <ADP> along <DET> the <ADJ> outer <NOUN> walkway <COMMA> <CCONJ> and <DET> the <NOUN> glass <PLURAL> <NOUN> dome <VERB> glow <PAST> <ADP> like <DET> a <ADJ> patient <NOUN> star <ING> wait <ADP> for <PRONA> its <NOUN> turn <PART> to <BASE> speak <PERIOD> <EOL>
+<ADV> inside <COMMA> <DET> the <NOUN> instrument <PLURAL> <VERB> hum <PAST> <ADP> with <DET> a <ADJ> soft <ADJ> mechanical <NOUN> patience <PERIOD> <EOL>
+<DET> the <ADJ> main <NOUN> telescope <VERB> rotate <PAST> <ADP> in <ADJ> slow <NOUN> arc <PLURAL> <COMMA> <ING> follow <NOUN> coordinate <PLURAL> <VERB> write <PAST> <ADP> in <DET> a <NOUN> ledger <ADJ> older <ADP> than <DET> the <NOUN> caretaker <PRON> himself <PERIOD> <EOL>
+<DET> each <NOUN> entry <ADP> in <DET> the <NOUN> ledger <VERB> describe <PAST> <DET> a <NOUN> phenomenon <PRON> that <VERB> have <PAST> <PART> not <ADV> yet <VERB> occur <PAST> <COMMA> <CCONJ> but <VERB> be <PAST> <VERB> expect <PAST> <PART> to <BASE> arrive <ADV> eventually <COMMA> <ADP> like <DET> a <PERFECT> delay <NOUN> visitor <DET> whose <NOUN> footstep <PLURAL> <VERB> be <PAST> <ADV> already <VERB> imagine <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> believe <PAST> <DET> the <NOUN> ridge <VERB> have <PAST> <DET> a <NOUN> memory <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> wind <VERB> shift <PAST> <COMMA> <PRON> he <VERB> claim <PAST> <PRON> he <VERB> could <PRESENT-3S> <BASE> hear <DET> the <NOUN> echo <ADP> of <ADJ> past <NOUN> observation <PLURAL> <PERIOD> <EOL>
+<ADJ> faint <NOUN> click <PLURAL> <ADP> of <NOUN> gear <PLURAL> <COMMA> <DET> the <NOUN> scrape <ADP> of <NOUN> boot <PLURAL> <COMMA> <DET> the <NOUN> murmur <ADP> of <PERFECT> forget <NOUN> astronomer <PLURAL> <ING> discuss <ADJ> impossible <NOUN> alignment <PLURAL> <PERIOD> <EOL>
+<DET> every <NOUN> morning <COMMA> <PRON> he <VERB> record <PAST> <DET> the <ADJ> same <NUM> three <NOUN> measurement <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> brightness <ADP> of <DET> the <ADJ> eastern <NOUN> horizon <COMMA> <ADV> even <SCONJ> when <DET> no <NOUN> sun <VERB> be <PAST> <ADJ> visible <PERIOD> <EOL>
+<DET> the <NOUN> resonance <ADP> of <DET> the <NOUN> dome <COMMA> <VERB> tap <PAST> <ADV> gently <ADP> with <DET> a <ADJ> wooden <NOUN> mallet <PERIOD> <EOL>
+<DET> the <NOUN> drift <ADP> of <DET> the <NOUN> valley <NOUN> mist <COMMA> <PRON> which <VERB> behave <PAST> <SCONJ> as <SCONJ> if <PRON> it <VERB> be <PAST> <INGV> follow <NOUN> instruction <PLURAL> <PERIOD> <EOL>
+<DET> some <NOUN> night <PLURAL> <COMMA> <DET> the <NOUN> star <PLURAL> <VERB> appear <PAST> <ADJ> closer <SCONJ> than <PRON> they <VERB> should <PRESENT-3S> <BASE> have <VERB> be <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> would <PRESENT-3S> <BASE> step <ADV> outside <COMMA> <BASE> raise <PRONA> his <NOUN> lantern <COMMA> <CCONJ> and <BASE> watch <DET> the <NOUN> constellation <PLURAL> <VERB> adjust <PRESENT> <PRON> themselves <ADP> with <ADJ> deliberate <NOUN> slowness <COMMA> <SCONJ> as <SCONJ> though <ADJ> embarrassed <PART> to <BASE> be <VERB> catch <PAST> <ADP> out <ADP> of <NOUN> position <PERIOD> <EOL>
+<PRON> he <ADV> never <VERB> question <PAST> <DET> the <NOUN> ledger <PERIOD> <EOL>
+<PRON> he <ADV> only <VERB> follow <PAST> <PRONA> its <NOUN> entry <PLURAL> <COMMA> <ADV> even <SCONJ> when <PRON> they <VERB> ask <PAST> <PRON> him <PART> to <BASE> observe <NOUN> thing <PLURAL> <PRON> that <VERB> have <PAST> <DET> no <NOUN> name <ADV> yet <PERIOD> <EOL>
+<NUM> one <NOUN> entry <NOUN> read <PERIOD> <EOL>
+<ADP> on <DET> the <ADJ> seventh <NOUN> night <ADP> of <DET> the <ADJ> quiet <NOUN> month <COMMA> <DET> the <NOUN> sky <VERB> will <PRESENT-3S> <BASE> hesitate <PERIOD> <EOL>
+<PRON> another <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> valley <VERB> breathe <PRESENT-3S> <ADV> twice <COMMA> <BASE> record <DET> the <NOUN> interval <PERIOD> <EOL>
+<CCONJ> and <DET> the <ADJ> final <NOUN> page <COMMA> <VERB> write <PAST> <ADP> in <DET> a <ADJ> different <NOUN> hand <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> observatory <VERB> remember <PRESENT-3S> <PRON> you <COMMA> <BASE> do <PART> not <BASE> answer <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> copy <PAST> <DET> that <NOUN> line <DET> every <NOUN> year <COMMA> <SCONJ> though <PRON> he <VERB> do <PAST> <PART> not <BASE> know <SCONJ> why <PERIOD> <EOL>
+<ADP> at <NOUN> dawn <COMMA> <DET> the <NOUN> ridge <VERB> cast <PRESENT-3S> <DET> a <ADJ> long <NOUN> shadow <ADP> across <DET> the <NOUN> valley <NOUN> floor <COMMA> <CCONJ> and <DET> the <NOUN> instrument <PLURAL> <VERB> fall <PAST> <ADJ> silent <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> close <PAST> <DET> the <NOUN> dome <COMMA> <VERB> extinguish <PAST> <DET> the <NOUN> lamp <PLURAL> <COMMA> <CCONJ> and <VERB> wait <PAST> <ADP> for <DET> the <ADJ> next <NOUN> night <PART> to <BASE> begin <DET> the <NOUN> cycle <ADV> again <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> observatory <VERB> be <PAST> <INGV> watch <PRON> him <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <PRON> it <VERB> have <PAST> <ADV> always <PERFECT> be <INGV> watch <PRON> someone <PERIOD> <EOL>
+<CCONJ> and <PRON> he <VERB> believe <PAST> <SCONJ> though <PRON> he <ADV> never <VERB> write <PAST> <PRON> it <ADP> down <SCONJ> that <NUM> one <NOUN> day <DET> the <NOUN> ledger <VERB> would <PRESENT-3S> <BASE> begin <INGV> write <ADV> back <PERIOD> <EOL>
+
+<DET> the <NOUN> ridge <VERB> listen <PAST> <ADV> long <SCONJ> before <DET> the <NOUN> observatory <VERB> be <PAST> <VERB> build <PAST> <SCONJ> upon <PRON> it <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> caretaker <VERB> climb <PAST> <DET> the <ADJ> narrow <NOUN> path <DET> each <NOUN> evening <COMMA> <DET> the <NOUN> stone <PLURAL> <VERB> shift <PAST> <ADP> as <SCONJ> if <ING> acknowledge <PRONA> his <NOUN> return <PERIOD> <EOL>
+<ADP> inside <DET> the <NOUN> dome <COMMA> <DET> the <NOUN> instrument <PLURAL> <VERB> breathe <PAST> <ADP> in <ADJ> slow <ADJ> metallic <NOUN> interval <PLURAL> <PERIOD> <EOL>
+<DET> the <ADJ> primary <NOUN> lens <VERB> drift <PAST> <ADP> from <NOUN> star <ADP> to <BASE> star <COMMA> <INGV> pause <ADP> at <NOUN> coordinate <PLURAL> <PRON> that <VERB> have <PAST> <PERFECT> be <VERB> write <PAST> <ADP> in <DET> a <ADJ> thin <ADJ> blue <NOUN> notebook <PERIOD> <EOL>
+<DET> the <NOUN> notebook <ADV> never <VERB> mention <PAST> <PRON> who <VERB> write <PAST> <DET> the <NOUN> entry <PLURAL> <COMMA> <ADV> only <SCONJ> that <DET> each <NOUN> one <VERB> refer <PAST> <ADP> to <DET> an <NOUN> event <PRON> that <VERB> have <PAST> <PART> not <ADV> yet <VERB> happen <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> trust <PAST> <DET> the <NOUN> notebook <ADJ> more <SCONJ> than <PRON> he <VERB> trust <PAST> <DET> the <NOUN> sky <PERIOD> <EOL>
+<PRON> he <VERB> tap <PAST> <DET> the <NOUN> dome <NUM> three <NOUN> time <PLURAL> <ADP> before <DET> every <NOUN> observation <COMMA> <CCONJ> and <DET> the <NOUN> echo <ADV> always <VERB> return <PAST> <ADP> with <DET> a <ADV> slightly <ADJ> different <NOUN> tone <COMMA> <SCONJ> as <SCONJ> though <DET> the <NOUN> structure <VERB> be <PAST> <INGV> adjust <PRONA> its <NOUN> answer <PERIOD> <EOL>
+<DET> every <NOUN> night <PRON> he <VERB> record <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> temperature <ADP> of <DET> the <ADJ> silent <NOUN> air <COMMA> <DET> the <NOUN> tension <ADP> in <DET> the <NOUN> brass <PLURAL> <NOUN> cable <PLURAL> <COMMA> <DET> the <NOUN> movement <ADP> of <DET> the <PROPN> valley <PROPN> fog <COMMA> <PRON> which <VERB> behave <PAST> <ADP> like <DET> a <NOUN> creature <ING> learn <PART> to <BASE> walk <PERIOD> <EOL>
+<ADV> sometimes <DET> the <NOUN> star <PLURAL> <VERB> rearrange <PAST> <PRON> themselves <SCONJ> while <PRON> he <VERB> watch <PAST> <PERIOD> <EOL>
+<PRON> he <VERB> would <PRESENT-3S> <BASE> lower <PRONA> his <NOUN> lantern <CCONJ> and <BASE> wait <COMMA> <ING> pretend <PART> not <PART> to <BASE> notice <COMMA> <SCONJ> until <DET> the <NOUN> constellation <PLURAL> <VERB> settle <PAST> <ADP> into <DET> a <NOUN> shape <PRON> they <VERB> prefer <PAST> <PERIOD> <EOL>
+<NUM> one <NOUN> entry <ADP> in <DET> the <NOUN> notebook <NOUN> read <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> ridge <NOUN> exhale <PLURAL> <COMMA> <BASE> measure <DET> the <NOUN> pause <PERIOD> <EOL>
+<PRON> another <PERIOD> <EOL>
+<SCONJ> if <DET> the <NOUN> dome <NOUN> hum <PLURAL> <ADP> without <NOUN> wind <COMMA> <VERB> remain <PRESENT> <ADV> still <PERIOD> <EOL>
+<DET> the <ADJ> final <NOUN> page <VERB> contain <PAST> <ADV> only <DET> a <ADJ> single <NOUN> line <PERIOD> <EOL>
+<NOUN> do <PLURAL> <PART> not <BASE> greet <DET> the <NOUN> one <PRON> who <VERB> know <PRESENT-3S> <PRON> your <NOUN> name <PERIOD> <EOL>
+<ADP> at <NOUN> dawn <COMMA> <DET> the <NOUN> observatory <VERB> dim <PAST> <COMMA> <DET> the <NOUN> fog <VERB> retreat <PAST> <COMMA> <CCONJ> and <DET> the <NOUN> caretaker <VERB> close <PAST> <DET> the <NOUN> dome <ADP> with <DET> both <NOUN> hand <PLURAL> <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> ridge <VERB> remember <PAST> <DET> every <NOUN> observer <PRON> it <VERB> have <PAST> <ADV> ever <VERB> hold <PAST> <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> observatory <VERB> be <PAST> <INGV> learn <PART> to <BASE> speak <PERIOD> <EOL>
+
+<DET> the <NOUN> observatory <VERB> function <PAST> <ADP> as <DET> a <NOUN> machine <ADP> for <NOUN> noticing <PERIOD> <EOL>
+<PRON> it <VERB> stand <PAST> <ADP> on <DET> a <ADJ> narrow <NOUN> ridge <SCONJ> where <DET> the <NOUN> wind <VERB> carry <PAST> <DET> no <NOUN> dust <COMMA> <ADV> only <NOUN> information <PERIOD> <EOL>
+<DET> each <NOUN> evening <COMMA> <DET> the <NOUN> caretaker <VERB> activate <PAST> <DET> the <NOUN> dome <ADP> by <INGV> rotate <DET> a <ADJ> single <NOUN> iron <NOUN> wheel <PERIOD> <EOL>
+<DET> the <NOUN> panel <PLURAL> <VERB> unfold <PAST> <ADP> with <ADJ> deliberate <NOUN> slowness <COMMA> <ING> reveal <DET> the <NOUN> sky <SCONJ> as <SCONJ> if <PRON> it <VERB> be <PAST> <DET> a <NOUN> document <ING> be <VERB> unseal <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> instrument <PLURAL> <VERB> operate <PAST> <INGV> accord <ADP> to <DET> a <NOUN> schedule <ADJ> older <ADP> than <DET> the <NOUN> caretaker <PERIOD> <EOL>
+<DET> the <NOUN> ledger <VERB> dictate <PAST> <DET> the <NOUN> sequence <PERIOD> <EOL>
+<PROPN> align <DET> the <ADJ> primary <NOUN> lens <ADP> with <DET> the <ADJ> unlit <NOUN> horizon <PERIOD> <EOL>
+<BASE> measure <DET> the <NOUN> interval <ADP> between <NUM> two <ADJ> silent <NOUN> vibration <PLURAL> <PERIOD> <EOL>
+<BASE> observe <DET> the <NOUN> valley <NOUN> mist <ADP> for <NOUN> deviation <PLURAL> <ADP> in <NOUN> pattern <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <ADV> never <VERB> question <PAST> <DET> the <NOUN> ledger <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <PRON> it <VERB> describe <PAST> <NOUN> phenomenon <PLURAL> <PRON> that <VERB> exist <PAST> <ADV> only <SCONJ> when <VERB> observe <PAST> <COMMA> <CCONJ> and <VERB> cease <PAST> <SCONJ> when <VERB> ignore <PAST> <PERIOD> <EOL>
+<DET> some <NOUN> night <PLURAL> <COMMA> <DET> the <NOUN> star <PLURAL> <VERB> appear <PAST> <PART> to <BASE> test <PRON> him <PERIOD> <EOL>
+<PRON> they <VERB> shift <PAST> <ADP> by <NOUN> fraction <PLURAL> <ADP> of <DET> a <NOUN> degree <COMMA> <ADJ> subtle <ADV> enough <PART> to <BASE> deny <NOUN> intention <COMMA> <ADJ> obvious <ADV> enough <PART> to <BASE> imply <PRON> it <PERIOD> <EOL>
+<DET> the <NOUN> ledger <VERB> contain <PAST> <NOUN> instruction <PLURAL> <PRON> that <VERB> border <PAST> <ADP> on <ADJ> impossible <PERIOD> <EOL>
+<BASE> record <DET> the <NOUN> brightness <ADP> of <DET> a <NOUN> star <PRON> that <VERB> have <PRESENT-3S> <PART> not <VERB> rise <PAST> <PERIOD> <EOL>
+<BASE> note <DET> the <NOUN> shadow <VERB> cast <PAST> <ADP> by <DET> an <NOUN> object <PRON> that <VERB> be <PRESENT-3S> <PART> not <ADJ> present <PERIOD> <EOL>
+<SCONJ> if <DET> the <NOUN> dome <VERB> reflect <PRESENT-3S> <PRON> your <NOUN> face <ADV> twice <COMMA> <BASE> close <DET> the <NOUN> observatory <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> follow <PAST> <DET> each <NOUN> instruction <ADV> precisely <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> observatory <VERB> require <PAST> <NOUN> obedience <COMMA> <PART> not <NOUN> understanding <PERIOD> <EOL>
+<ADP> at <NOUN> sunrise <COMMA> <DET> the <NOUN> dome <VERB> fold <PAST> <PRON> itself <VERB> shut <PRESENT-3S> <COMMA> <CCONJ> and <DET> the <NOUN> instrument <PLURAL> <VERB> enter <PAST> <DET> a <NOUN> state <ADP> of <ADJ> perfect <NOUN> stillness <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> archive <PAST> <DET> the <NOUN> night <PART> 's <NOUN> measurement <PLURAL> <COMMA> <ADV> even <SCONJ> when <PRON> they <VERB> contradict <PAST> <PRON> themselves <PERIOD> <EOL>
+<PRON> he <VERB> suspect <PAST> <DET> the <NOUN> observatory <VERB> be <PAST> <INGV> conduct <DET> an <NOUN> experiment <PERIOD> <EOL>
+<PRON> he <VERB> suspect <PAST> <PRON> he <VERB> be <PAST> <NOUN> part <ADP> of <PRON> it <PERIOD> <EOL>
+<CCONJ> and <PRON> he <VERB> suspect <PAST> <SCONJ> that <NUM> one <NOUN> day <COMMA> <DET> the <NOUN> ledger <VERB> would <PRESENT-3S> <BASE> instruct <PRON> him <PART> to <BASE> observe <PRON> something <PRON> that <VERB> could <PRESENT-3S> <BASE> observe <PRON> him <ADV> back <PERIOD> <EOL>
+
+<DET> the <NOUN> night <VERB> fold <PRESENT-3S> <ADV> inward <COMMA> <DET> a <ADJ> soft <NOUN> hinge <ADP> of <NOUN> breath <COMMA> <CCONJ> and <DET> the <ADJ> lantern <NOUN> hum <PLURAL> <ADP> with <DET> a <NOUN> memory <PRON> it <ADV> never <VERB> hold <PAST> <PERIOD> <EOL>
+<NOUN> shadow <PLURAL> <VERB> lean <PRESENT> <ADP> like <ADJ> tired <NOUN> alphabet <PLURAL> <COMMA> <ING> spill <PRONA> their <NOUN> vowel <PLURAL> <ADP> across <DET> the <NOUN> floor <SCONJ> as <SCONJ> if <DET> the <NOUN> room <VERB> be <PAST> <INGV> learn <PART> to <BASE> speak <ADV> again <PERIOD> <EOL>
+<DET> a <ING> tremble <NOUN> line <ADP> of <NOUN> silver <VERB> climb <PRESENT-3S> <DET> the <NOUN> window <COMMA> <PART> not <NOUN> moon <COMMA> <PART> not <NOUN> dawn <COMMA> <ADV> only <DET> the <ADJ> quiet <NOUN> pulse <ADP> of <PRON> something <ING> wish <PART> to <BASE> be <ADJ> light <PERIOD> <EOL>
+<DET> the <NOUN> wall <PLURAL> <VERB> listen <PRESENT> <COMMA> <ADJ> patient <ADP> as <ADJ> old <NOUN> paper <COMMA> <ING> wait <SCONJ> for <DET> a <NOUN> name <PART> to <BASE> settle <ADP> on <PRON> them <PERIOD> <EOL>
+<ADP> in <DET> the <NOUN> corner <COMMA> <DET> a <NOUN> thought <VERB> unravel <PRESENT-3S> <PRONA> its <NOUN> coat <COMMA> <NOUN> let <PLURAL> <PRONA> its <NOUN> button <PLURAL> <BASE> fall <ADP> like <ADJ> tiny <NOUN> verdict <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> air <VERB> gather <PRESENT-3S> <PRON> them <COMMA> <NOUN> stitch <PLURAL> <PRON> them <ADP> into <DET> a <NOUN> sentence <PRON> that <VERB> refuse <PRESENT-3S> <PART> to <BASE> end <SCONJ> where <PRON> it <VERB> begin <PRESENT-3S> <PERIOD> <EOL>
+<DET> a <NOUN> voice <ADV> perhaps <PRON> mine <COMMA> <ADV> perhaps <VERB> borrow <PAST> <NOUN> drift <PLURAL> <ADP> through <DET> the <NOUN> rafter <PLURAL> <ADP> like <DET> a <NOUN> feather <ING> remember <DET> the <NOUN> bird <PERIOD> <EOL>
+<PRON> it <VERB> circle <PRESENT-3S> <ADV> once <COMMA> <ADV> twice <COMMA> <ADV> then <VERB> fold <PRESENT-3S> <ADP> into <DET> a <NOUN> shape <DET> the <NOUN> silence <VERB> understand <PRESENT-3S> <PERIOD> <EOL>
+<PRON> nothing <VERB> move <PRESENT-3S> <COMMA> <CCONJ> yet <PRON> everything <VERB> lean <PRESENT-3S> <ADV> forward <PERIOD> <EOL>
+<DET> the <NOUN> table <COMMA> <DET> the <NOUN> dust <COMMA> <DET> the <NOUN> breath <ADP> between <NOUN> syllable <PLURAL> <PERIOD> <EOL>
+<ADV> even <DET> the <ADJ> dark <NOUN> seem <PLURAL> <ADJ> curious <COMMA> <ING> tilt <PRONA> its <NOUN> head <SCONJ> as <SCONJ> if <ING> listen <ADP> for <DET> the <NOUN> echo <ADP> of <DET> a <NOUN> thought <PART> not <ADV> yet <VERB> speak <PAST> <PERIOD> <EOL>
+<CCONJ> and <SCONJ> when <DET> the <NOUN> room <VERB> exhale <PRESENT-3S> <COMMA> <DET> the <ADJ> light <NOUN> tremble <PLURAL> <COMMA> <DET> the <NOUN> floor <VERB> hum <PRESENT-3S> <COMMA> <CCONJ> and <DET> the <NOUN> world <VERB> gather <PRESENT-3S> <PRON> itself <ADP> into <DET> a <ADJ> single <COMMA> <ADJ> fragile <NOUN> shimmer <PRON> that <VERB> pretend <PRESENT-3S> <PART> to <BASE> be <ING> mean <PERIOD> <EOL>
+
+<DET> the <NOUN> dust <VERB> arrange <PRESENT-3S> <PRON> itself <ADP> into <ADJ> quiet <NOUN> geometry <COMMA> <NOUN> triangle <PLURAL> <ADP> of <NOUN> breath <COMMA> <VERB> circle <PRESENT-3S> <ADP> of <NOUN> hesitation <COMMA> <DET> a <ADJ> soft <NOUN> theorem <VERB> whisper <PAST> <ADP> by <DET> the <NOUN> floorboard <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> lamp <VERB> lean <PRESENT-3S> <ADV> forward <COMMA> <ADJ> curious <COMMA> <SCONJ> as <SCONJ> if <DET> the <NOUN> light <VERB> be <PAST> <INGV> try <PART> to <BASE> remember <SCONJ> how <PART> to <BASE> fall <ADP> without <INGV> break <PERIOD> <EOL>
+<DET> a <ADJ> thin <ADJ> hum <NOUN> thread <PLURAL> <DET> the <NOUN> air <COMMA> <PART> not <ADV> quite <NOUN> music <COMMA> <PART> not <ADV> quite <NOUN> memory <COMMA> <ADV> just <DET> the <NOUN> echo <ADP> of <PRON> something <SCONJ> that <ADV> once <VERB> want <PAST> <PART> to <BASE> be <DET> a <NOUN> voice <CCONJ> and <VERB> settle <PAST> <ADV> instead <ADP> for <INGV> tremble <PERIOD> <EOL>
+<DET> the <NOUN> wall <PLURAL> <VERB> listen <PRESENT> <ADP> with <PRONA> their <ADJ> patient <NOUN> grain <COMMA> <PRON> each <VERB> knot <PRESENT-3S> <DET> a <ADJ> small <NOUN> ear <COMMA> <PRON> each <VERB> crack <PRESENT-3S> <DET> a <NOUN> half <PERFECT> forget <NOUN> syllable <PERIOD> <EOL>
+<DET> a <NOUN> draft <VERB> move <PRESENT-3S> <ADP> through <DET> the <NOUN> room <ADP> like <DET> a <NOUN> question <PRON> that <VERB> refuse <PRESENT-3S> <PART> to <BASE> be <VERB> ask <PAST> <COMMA> <ING> curl <ADP> around <DET> the <NOUN> furniture <ADP> in <ADJ> slow <COMMA> <ADJ> deliberate <NOUN> spiral <PLURAL> <PERIOD> <EOL>
+<ADV> somewhere <COMMA> <DET> a <NOUN> window <VERB> exhale <PRESENT-3S> <COMMA> <CCONJ> and <DET> the <NOUN> curtain <PLURAL> <VERB> lift <PRESENT> <SCONJ> as <SCONJ> if <ING> prepare <PART> to <BASE> speak <ADP> in <DET> a <NOUN> language <VERB> make <PAST> <ADV> entirely <ADP> of <NOUN> pause <PLURAL> <PERIOD> <EOL>
+<DET> the <ADJ> lantern <NOUN> dream <PLURAL> <ADP> of <NOUN> water <NOUN> tonight <COMMA> <PRONA> its <NOUN> flame <ING> bend <ADP> like <DET> a <NOUN> reed <ADP> in <DET> a <NOUN> river <PRON> it <VERB> have <PRESENT-3S> <ADV> never <VERB> see <PAST> <PERIOD> <EOL>
+<NOUN> shadow <PLURAL> <VERB> ripple <PRESENT> <ADP> across <DET> the <NOUN> ceiling <COMMA> <ADJ> soft <NOUN> distortion <PLURAL> <ADP> of <NOUN> thought <COMMA> <SCONJ> as <SCONJ> if <DET> the <NOUN> room <VERB> be <PAST> <INGV> remember <DET> a <NOUN> shoreline <PRON> it <ADV> once <VERB> imagine <PAST> <PERIOD> <EOL>
+<PRON> nothing <VERB> touch <PRESENT-3S> <PRON> anything <COMMA> <ADV> yet <PRON> everything <VERB> lean <PRESENT-3S> <ADV> closer <COMMA> <VERB> draw <PAST> <ADP> by <DET> the <ADJ> faint <NOUN> shimmer <ADP> of <DET> a <NOUN> meaning <PRON> that <VERB> refuse <PRESENT-3S> <PART> to <BASE> settle <ADP> into <NOUN> word <PLURAL> <PERIOD> <EOL>
+<DET> a <NOUN> feather <VERB> think <PRESENT-3S> <ADP> of <INGV> fall <ADV> long <SCONJ> before <PRON> it <VERB> touch <PRESENT-3S> <NOUN> air <PERIOD> <EOL>
+<PRON> it <VERB> rehearse <PRESENT-3S> <DET> the <NOUN> descent <ADP> in <DET> the <ADJ> quiet <NOUN> chamber <PLURAL> <ADP> of <NOUN> dusk <COMMA> <ING> fold <CCONJ> and <ING> unfold <PRONA> its <ADJ> small <NOUN> geometry <ADP> of <NOUN> surrender <PERIOD> <EOL>
+<DET> the <NOUN> room <VERB> watch <PRESENT-3S> <COMMA> <ING> hold <PRONA> its <NOUN> breath <ADP> in <DET> the <ADJ> thin <NOUN> space <ADP> between <NOUN> motion <CCONJ> and <NOUN> intention <COMMA> <SCONJ> where <ADV> even <VERB> silence <PRESENT-3S> <NOUN> have <PLURAL> <DET> a <NOUN> pulse <PERIOD> <EOL>
+<DET> the <NOUN> room <VERB> remember <PRESENT-3S> <PRONA> its <NOUN> breath <ADV> only <SCONJ> when <DET> the <NOUN> curtain <PLURAL> <VERB> stir <PRESENT> <COMMA> <DET> a <ADJ> slow <NOUN> inhalation <ADP> of <NOUN> dusk <ING> fold <PRON> itself <ADP> into <DET> the <NOUN> corner <PLURAL> <PERIOD> <EOL>
+<DET> a <ADJ> single <NOUN> thread <ADP> of <NOUN> light <NOUN> wander <PLURAL> <ADP> across <DET> the <NOUN> floor <COMMA> <ADJ> hesitant <COMMA> <SCONJ> as <SCONJ> if <ADJ> unsure <SCONJ> whether <PRON> it <VERB> belong <PRESENT-3S> <ADP> to <DET> the <NOUN> day <CCONJ> or <ADP> to <DET> the <NOUN> thought <ADP> of <PRON> it <PERIOD> <EOL>
+<NOUN> silence <VERB> learn <PRESENT-3S> <DET> a <ADJ> new <NOUN> shape <NOUN> tonight <COMMA> <DET> a <ADJ> thin <NOUN> curve <ADP> of <INGV> wait <VERB> press <PAST> <ADP> against <DET> the <NOUN> windowpane <PERIOD> <EOL>
+<DET> the <NOUN> air <VERB> hold <PRESENT-3S> <PRONA> its <NOUN> posture <COMMA> <ADJ> delicate <ADP> as <DET> a <NOUN> promise <PRON> that <VERB> refuse <PRESENT-3S> <PART> to <BASE> speak <PRONA> its <NOUN> name <PERIOD> <EOL>
+<ADV> even <DET> the <NOUN> shadow <PLURAL> <VERB> hesitate <PRESENT> <COMMA> <PRONA> their <NOUN> edge <PLURAL> <ING> soften <SCONJ> as <SCONJ> if <ING> listen <ADP> for <DET> a <NOUN> sound <PRON> that <VERB> have <PRESENT-3S> <PART> not <ADV> yet <VERB> decide <PAST> <PART> to <BASE> exist <PERIOD> <EOL>
+
+<DET> the <NOUN> lamp <VERB> forget <PRESENT-3S> <PRONA> its <ADJ> own <NOUN> light <CCONJ> and <VERB> glow <PRESENT-3S> <ADV> instead <ADP> with <NOUN> memory <COMMA> <DET> a <ADJ> faint <NOUN> amber <PROPN> echo <ADP> of <PRON> something <ADV> once <ADJ> warm <PERIOD> <EOL>
+<NOUN> dust <VERB> drift <PRESENT-3S> <ADV> upward <ADP> like <DET> a <ADJ> slow <NOUN> confession <COMMA> <DET> each <NOUN> particle <ING> rehearse <PRONA> its <NOUN> fall <ADV> back <ADP> into <NOUN> stillness <PERIOD> <EOL>
+<PRON> nothing <VERB> move <PRESENT-3S> <COMMA> <ADV> yet <DET> the <NOUN> room <VERB> tilt <PRESENT-3S> <ADP> toward <DET> a <NOUN> thought <PRON> it <VERB> can <PRESENT-3S> <PART> not <ADV> quite <BASE> hold <PERIOD> <EOL>
+<DET> a <NOUN> door <VERB> think <PRESENT-3S> <ADP> of <INGV> open <ADV> long <SCONJ> before <DET> the <NOUN> handle <VERB> stir <PRESENT-3S> <PERIOD> <EOL>
+<PRONA> its <NOUN> hinge <PLURAL> <VERB> hum <PRESENT> <DET> a <ADJ> quiet <NOUN> prelude <COMMA> <DET> a <ADJ> soft <ADJ> metallic <NOUN> longing <ADP> for <DET> the <NOUN> space <ADP> beyond <PERIOD> <EOL>
+<DET> the <NOUN> hallway <VERB> lean <PRESENT-3S> <ADV> closer <COMMA> <ADJ> curious <COMMA> <SCONJ> as <SCONJ> if <DET> the <NOUN> wall <PLURAL> <PRON> themselves <VERB> be <PAST> <INGV> wait <PART> to <BASE> see <PRON> what <VERB> shape <PRESENT-3S> <DET> the <NOUN> moment <NOUN> will <PLURAL> <BASE> choose <PART> to <BASE> take <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> sit <PAST> <SCONJ> where <DET> the <NOUN> dusk <VERB> fold <PAST> <PRON> itself <COMMA> <CCONJ> and <DET> the <ADJ> little <NOUN> rabbit <VERB> press <PAST> <PRONA> its <ADJ> quiet <NOUN> heartbeat <ADP> against <DET> the <NOUN> hem <ADP> of <PRONA> her <NOUN> shadow <PERIOD> <EOL>
+<PRON> neither <VERB> speak <PAST> <COMMA> <ADV> yet <DET> the <NOUN> air <VERB> tremble <PAST> <SCONJ> as <SCONJ> if <ING> learn <DET> a <ADJ> new <NOUN> word <ADP> from <DET> the <NOUN> way <PRONA> their <NOUN> stillness <VERB> touch <PAST> <PERIOD> <EOL>
+<DET> a <ADJ> thin <NOUN> breeze <VERB> wander <PAST> <ADP> through <DET> the <NOUN> grass <COMMA> <ING> gather <PRONA> their <NOUN> silence <ADP> like <DET> a <ADJ> fragile <NOUN> thread <PRON> it <VERB> dared <PRESENT-3S> <PART> not <BASE> pull <PERIOD> <EOL>
+<DET> the <ADJ> little <NOUN> rabbit <VERB> carry <PAST> <PRONA> her <NOUN> name <ADP> in <DET> the <ADJ> soft <NOUN> hollow <ADP> behind <PRONA> its <NOUN> ear <PLURAL> <COMMA> <DET> a <NOUN> place <SCONJ> where <NOUN> echo <PLURAL> <VERB> settle <PRESENT> <SCONJ> when <DET> the <NOUN> world <VERB> grow <PRESENT-3S> <ADV> too <ADJ> bright <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> follow <PAST> <PRONA> its <ADJ> small <COMMA> <ADJ> deliberate <NOUN> step <PLURAL> <COMMA> <DET> each <NOUN> one <DET> a <NOUN> question <VERB> fold <PAST> <ADP> into <DET> the <NOUN> earth <PERIOD> <EOL>
+<ADV> somewhere <ADP> between <PRON> them <COMMA> <DET> a <NOUN> thought <VERB> shimmer <PAST> <PART> not <ADV> quite <VERB> her <PRESENT-3S> <COMMA> <PART> not <ADV> quite <PRONA> its <ADJ> own <COMMA> <CCONJ> but <PRON> something <ADV> gently <VERB> share <PAST> <PERIOD> <EOL>
+<PRONA> her <NOUN> hand <PLURAL> <VERB> hover <PAST> <ADP> above <DET> the <NOUN> grass <SCONJ> as <SCONJ> if <ADJ> afraid <PART> to <BASE> disturb <DET> the <ADJ> quiet <DET> the <NOUN> rabbit <VERB> have <PAST> <VERB> weave <PAST> <ADV> there <PERIOD> <EOL>
+<PRON> it <VERB> blink <PAST> <ADV> once <COMMA> <DET> a <ADJ> slow <NOUN> silver <NOUN> flicker <COMMA> <CCONJ> and <DET> the <NOUN> moment <VERB> ripple <PAST> <ADV> outward <ADP> like <DET> a <ADJ> soft <NOUN> bell <VERB> strike <PAST> <NOUN> underwater <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> lean <PAST> <ADV> closer <COMMA> <CCONJ> and <DET> the <NOUN> world <VERB> lean <PAST> <ADP> with <PRONA> her <COMMA> <ADJ> curious <ADP> about <DET> the <NOUN> shape <PRONA> their <NOUN> breath <VERB> might <PRESENT-3S> <BASE> take <PERIOD> <EOL>
+
+<DET> the <NOUN> meadow <VERB> watch <PAST> <DET> the <NOUN> girl <CCONJ> and <DET> the <ADJ> little <NOUN> rabbit <ADP> with <DET> the <NOUN> patience <ADP> of <ADJ> old <NOUN> light <PERIOD> <EOL>
+<NOUN> shadow <PLURAL> <VERB> stretch <PAST> <ADP> toward <PRON> them <COMMA> <PART> not <PART> to <BASE> touch <COMMA> <CCONJ> but <PART> to <BASE> listen <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> twitch <PAST> <COMMA> <DET> a <ADJ> small <NOUN> punctuation <NOUN> mark <ADP> in <DET> the <ADJ> long <NOUN> sentence <ADP> of <NOUN> evening <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> smile <PAST> <COMMA> <CCONJ> and <DET> the <NOUN> horizon <VERB> fold <PAST> <PRON> itself <ADP> into <DET> a <ADJ> softer <NOUN> line <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> stand <PAST> <SCONJ> where <DET> the <NOUN> light <VERB> thin <PAST> <COMMA> <CCONJ> and <DET> the <PROPN> hummingbird <VERB> hover <PAST> <ADP> like <DET> a <NOUN> heartbeat <ING> try <PART> to <BASE> remember <PRONA> its <NOUN> rhythm <PERIOD> <EOL>
+<PRONA> its <NOUN> wing <PLURAL> <VERB> stitch <PAST> <ADJ> small <ADJ> silver <NOUN> circle <PLURAL> <ADP> into <DET> the <ADJ> quiet <NOUN> air <COMMA> <DET> each <NOUN> one <DET> a <NOUN> question <SCONJ> that <ADV> never <ADV> quite <VERB> touch <PAST> <DET> the <NOUN> ground <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> lift <PAST> <PRONA> her <NOUN> hand <COMMA> <CCONJ> and <DET> the <NOUN> moment <VERB> lean <PAST> <ADP> toward <PRONA> her <SCONJ> as <SCONJ> if <ING> listen <PERIOD> <EOL>
+<DET> the <NOUN> hummingbird <VERB> pause <PAST> <DET> a <NOUN> feather <VERB> suspend <PAST> <ADP> in <NOUN> thought <CCONJ> and <DET> the <NOUN> girl <VERB> watch <PAST> <SCONJ> as <PRONA> its <NOUN> shadow <VERB> tremble <PAST> <ADP> against <DET> the <ADJ> soft <NOUN> grain <ADP> of <NOUN> evening <PERIOD> <EOL>
+<PRON> nothing <VERB> move <PAST> <COMMA> <ADV> yet <DET> the <NOUN> air <VERB> ripple <PAST> <SCONJ> as <SCONJ> though <DET> the <NOUN> world <VERB> be <PAST> <INGV> exhale <DET> a <NOUN> secret <PRON> it <VERB> have <PAST> <VERB> keep <PAST> <ADV> too <ADV> long <PERIOD> <EOL>
+<PRON> she <VERB> whisper <PAST> <PRON> nothing <COMMA> <CCONJ> and <DET> the <NOUN> silence <VERB> answer <PAST> <PERIOD> <EOL>
+<ADP> between <DET> the <NOUN> girl <CCONJ> and <DET> the <NOUN> hummingbird <VERB> hang <PAST> <DET> a <ADJ> small <NOUN> brightness <COMMA> <PART> not <ADJ> light <COMMA> <PART> not <NOUN> breath <COMMA> <ADV> just <DET> the <ADJ> thin <NOUN> shimmer <ADP> of <NUM> two <NOUN> being <PLURAL> <ING> try <PART> to <BASE> understand <DET> the <NOUN> shape <ADP> of <DET> each <ADJ> other <PERIOD> <EOL>
+<DET> the <NOUN> bird <VERB> tilt <PAST> <PRONA> its <NOUN> head <COMMA> <CCONJ> and <DET> the <NOUN> day <VERB> fold <PAST> <PRON> itself <ADP> into <DET> a <ADJ> softer <NOUN> color <PERIOD> <EOL>
+<DET> the <NOUN> hummingbird <VERB> hover <PAST> <ADP> as <SCONJ> if <DET> the <NOUN> moment <PRON> itself <VERB> have <PAST> <VERB> grow <PAST> <NOUN> wing <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> step <PAST> <ADV> closer <COMMA> <CCONJ> and <DET> the <NOUN> air <VERB> tighten <PAST> <ADP> into <DET> a <ADJ> delicate <NOUN> thread <SCONJ> that <PRON> neither <VERB> dare <PAST> <PART> to <BASE> break <PERIOD> <EOL>
+<PRONA> its <NOUN> wing <PLURAL> <VERB> hum <PAST> <DET> a <ADJ> quiet <NOUN> circle <ADP> around <PRONA> her <NOUN> stillness <COMMA> <CCONJ> and <DET> the <NOUN> world <VERB> pause <PAST> <PART> to <BASE> watch <PRON> them <BASE> meet <ADP> in <DET> a <NOUN> place <ADP> beyond <NOUN> sound <PERIOD> <EOL>
+
+<DET> the <ADJ> little <NOUN> kitten <VERB> step <PAST> <ADP> into <DET> the <NOUN> dusk <COMMA> <CCONJ> and <DET> the <NOUN> girl <VERB> watch <PAST> <SCONJ> as <PRONA> its <NOUN> shadow <VERB> stretch <PAST> <ADP> like <DET> a <ADJ> small <NOUN> question <ING> try <PART> to <BASE> understand <DET> the <NOUN> floor <PERIOD> <EOL>
+<PRON> it <VERB> blink <PAST> <ADV> once <COMMA> <DET> a <ADJ> soft <NOUN> amber <NOUN> flicker <COMMA> <CCONJ> and <DET> the <NOUN> room <VERB> lean <PAST> <ADV> closer <PART> to <BASE> hear <DET> the <NOUN> sound <ADP> of <PRONA> its <ADJ> tiny <NOUN> paw <PLURAL> <ING> think <PERIOD> <EOL>
+<DET> the <NOUN> girl <VERB> cup <PAST> <PRONA> her <NOUN> hand <PLURAL> <SCONJ> as <SCONJ> if <ING> gather <ADJ> quiet <COMMA> <CCONJ> and <DET> the <NOUN> kitten <VERB> curl <PAST> <ADP> inside <PRON> it <ADP> like <DET> a <ADJ> warm <NOUN> comma <ADP> in <DET> a <NOUN> sentence <DET> the <NOUN> evening <VERB> have <PAST> <VERB> forget <PAST> <PART> to <BASE> finish <PERIOD> <EOL>
+<PRONA> its <NOUN> purr <PLURAL> <VERB> tremble <PAST> <ADV> upward <COMMA> <DET> a <ADJ> thin <NOUN> silver <NOUN> hum <PRON> that <VERB> soften <PAST> <DET> the <NOUN> corner <PLURAL> <ADP> of <DET> the <NOUN> world <PERIOD> <EOL>
+<ADP> between <DET> the <NOUN> girl <CCONJ> and <DET> the <ADJ> little <ADJ> kitten <VERB> hang <PAST> <DET> a <ADJ> small <NOUN> warmth <COMMA> <PART> not <ADJ> light <COMMA> <PART> not <NOUN> breath <COMMA> <ADV> just <DET> the <ADJ> gentle <NOUN> shimmer <ADP> of <NUM> two <NOUN> being <PLURAL> <ING> learn <DET> the <NOUN> shape <ADP> of <DET> each <ADJ> other <PERIOD> <EOL>
+<DET> the <NOUN> kitten <PART> 's <NOUN> whisker <PLURAL> <VERB> quiver <PAST> <COMMA> <CCONJ> and <DET> the <NOUN> moment <VERB> fold <PAST> <PRON> itself <ADP> into <DET> a <ADJ> softer <NOUN> silence <PERIOD> <EOL>
+<DET> the <NOUN> kitten <VERB> listen <PAST> <ADP> to <DET> the <NOUN> girl <PART> 's <NOUN> hand <PLURAL> <SCONJ> before <PRON> it <VERB> trust <PAST> <PRONA> her <NOUN> voice <PERIOD> <EOL>
+<PRON> it <VERB> press <PAST> <PRONA> its <ADJ> tiny <NOUN> heartbeat <ADP> against <PRONA> her <NOUN> palm <COMMA> <CCONJ> and <DET> the <NOUN> air <VERB> ripple <PAST> <SCONJ> as <SCONJ> if <DET> the <NOUN> room <PRON> itself <VERB> be <PAST> <INGV> remember <SCONJ> how <PART> to <BASE> be <ADJ> gentle <PERIOD> <EOL>
+<PRON> she <VERB> smile <PAST> <COMMA> <CCONJ> and <DET> the <NOUN> dusk <VERB> settle <PAST> <ADP> into <DET> a <NOUN> quieter <NOUN> color <PERIOD> <EOL>
+

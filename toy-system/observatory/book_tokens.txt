@@ -1,0 +1,75 @@
+﻿<DET> the <NOUN> observatory <VERB> stand <PAST> <ADV> alone <ADP> on <DET> the <NOUN> ridge <COMMA> <DET> a <ADJ> narrow <NOUN> spine <ADP> of <NOUN> stone <ING> rise <ADP> above <DET> the <NOUN> valley <PERIOD> <EOL>
+<DET> every <NOUN> night <COMMA> <DET> the <NOUN> caretaker <VERB> light <PAST> <DET> the <NOUN> copper <NOUN> lamp <PLURAL> <ADP> along <DET> the <ADJ> outer <NOUN> walkway <COMMA> <CCONJ> and <DET> the <NOUN> glass <PLURAL> <NOUN> dome <VERB> glow <PAST> <ADP> like <DET> a <ADJ> patient <NOUN> star <ING> wait <ADP> for <PRONA> its <NOUN> turn <PART> to <BASE> speak <PERIOD> <EOL>
+<ADV> inside <COMMA> <DET> the <NOUN> instrument <PLURAL> <VERB> hum <PAST> <ADP> with <DET> a <ADJ> soft <ADJ> mechanical <NOUN> patience <PERIOD> <EOL>
+<DET> the <ADJ> main <NOUN> telescope <VERB> rotate <PAST> <ADP> in <ADJ> slow <NOUN> arc <PLURAL> <COMMA> <ING> follow <NOUN> coordinate <PLURAL> <VERB> write <PAST> <ADP> in <DET> a <NOUN> ledger <ADJ> older <ADP> than <DET> the <NOUN> caretaker <PRON> himself <PERIOD> <EOL>
+<DET> each <NOUN> entry <ADP> in <DET> the <NOUN> ledger <VERB> describe <PAST> <DET> a <NOUN> phenomenon <PRON> that <VERB> have <PAST> <PART> not <ADV> yet <VERB> occur <PAST> <COMMA> <CCONJ> but <VERB> be <PAST> <VERB> expect <PAST> <PART> to <BASE> arrive <ADV> eventually <COMMA> <ADP> like <DET> a <PERFECT> delay <NOUN> visitor <DET> whose <NOUN> footstep <PLURAL> <VERB> be <PAST> <ADV> already <VERB> imagine <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> believe <PAST> <DET> the <NOUN> ridge <VERB> have <PAST> <DET> a <NOUN> memory <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> wind <VERB> shift <PAST> <COMMA> <PRON> he <VERB> claim <PAST> <PRON> he <VERB> could <PRESENT-3S> <BASE> hear <DET> the <NOUN> echo <ADP> of <ADJ> past <NOUN> observation <PLURAL> <PERIOD> <EOL>
+<ADJ> faint <NOUN> click <PLURAL> <ADP> of <NOUN> gear <PLURAL> <COMMA> <DET> the <NOUN> scrape <ADP> of <NOUN> boot <PLURAL> <COMMA> <DET> the <NOUN> murmur <ADP> of <PERFECT> forget <NOUN> astronomer <PLURAL> <ING> discuss <ADJ> impossible <NOUN> alignment <PLURAL> <PERIOD> <EOL>
+<DET> every <NOUN> morning <COMMA> <PRON> he <VERB> record <PAST> <DET> the <ADJ> same <NUM> three <NOUN> measurement <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> brightness <ADP> of <DET> the <ADJ> eastern <NOUN> horizon <COMMA> <ADV> even <SCONJ> when <DET> no <NOUN> sun <VERB> be <PAST> <ADJ> visible <PERIOD> <EOL>
+<DET> the <NOUN> resonance <ADP> of <DET> the <NOUN> dome <COMMA> <VERB> tap <PAST> <ADV> gently <ADP> with <DET> a <ADJ> wooden <NOUN> mallet <PERIOD> <EOL>
+<DET> the <NOUN> drift <ADP> of <DET> the <NOUN> valley <NOUN> mist <COMMA> <PRON> which <VERB> behave <PAST> <SCONJ> as <SCONJ> if <PRON> it <VERB> be <PAST> <INGV> follow <NOUN> instruction <PLURAL> <PERIOD> <EOL>
+<DET> some <NOUN> night <PLURAL> <COMMA> <DET> the <NOUN> star <PLURAL> <VERB> appear <PAST> <ADJ> closer <SCONJ> than <PRON> they <VERB> should <PRESENT-3S> <BASE> have <VERB> be <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> would <PRESENT-3S> <BASE> step <ADV> outside <COMMA> <BASE> raise <PRONA> his <NOUN> lantern <COMMA> <CCONJ> and <BASE> watch <DET> the <NOUN> constellation <PLURAL> <VERB> adjust <PRESENT> <PRON> themselves <ADP> with <ADJ> deliberate <NOUN> slowness <COMMA> <SCONJ> as <SCONJ> though <ADJ> embarrassed <PART> to <BASE> be <VERB> catch <PAST> <ADP> out <ADP> of <NOUN> position <PERIOD> <EOL>
+<PRON> he <ADV> never <VERB> question <PAST> <DET> the <NOUN> ledger <PERIOD> <EOL>
+<PRON> he <ADV> only <VERB> follow <PAST> <PRONA> its <NOUN> entry <PLURAL> <COMMA> <ADV> even <SCONJ> when <PRON> they <VERB> ask <PAST> <PRON> him <PART> to <BASE> observe <NOUN> thing <PLURAL> <PRON> that <VERB> have <PAST> <DET> no <NOUN> name <ADV> yet <PERIOD> <EOL>
+<NUM> one <NOUN> entry <NOUN> read <PERIOD> <EOL>
+<ADP> on <DET> the <ADJ> seventh <NOUN> night <ADP> of <DET> the <ADJ> quiet <NOUN> month <COMMA> <DET> the <NOUN> sky <VERB> will <PRESENT-3S> <BASE> hesitate <PERIOD> <EOL>
+<PRON> another <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> valley <VERB> breathe <PRESENT-3S> <ADV> twice <COMMA> <BASE> record <DET> the <NOUN> interval <PERIOD> <EOL>
+<CCONJ> and <DET> the <ADJ> final <NOUN> page <COMMA> <VERB> write <PAST> <ADP> in <DET> a <ADJ> different <NOUN> hand <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> observatory <VERB> remember <PRESENT-3S> <PRON> you <COMMA> <BASE> do <PART> not <BASE> answer <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> copy <PAST> <DET> that <NOUN> line <DET> every <NOUN> year <COMMA> <SCONJ> though <PRON> he <VERB> do <PAST> <PART> not <BASE> know <SCONJ> why <PERIOD> <EOL>
+<ADP> at <NOUN> dawn <COMMA> <DET> the <NOUN> ridge <VERB> cast <PRESENT-3S> <DET> a <ADJ> long <NOUN> shadow <ADP> across <DET> the <NOUN> valley <NOUN> floor <COMMA> <CCONJ> and <DET> the <NOUN> instrument <PLURAL> <VERB> fall <PAST> <ADJ> silent <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> close <PAST> <DET> the <NOUN> dome <COMMA> <VERB> extinguish <PAST> <DET> the <NOUN> lamp <PLURAL> <COMMA> <CCONJ> and <VERB> wait <PAST> <ADP> for <DET> the <ADJ> next <NOUN> night <PART> to <BASE> begin <DET> the <NOUN> cycle <ADV> again <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> observatory <VERB> be <PAST> <INGV> watch <PRON> him <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <PRON> it <VERB> have <PAST> <ADV> always <PERFECT> be <INGV> watch <PRON> someone <PERIOD> <EOL>
+<CCONJ> and <PRON> he <VERB> believe <PAST> <SCONJ> though <PRON> he <ADV> never <VERB> write <PAST> <PRON> it <ADP> down <SCONJ> that <NUM> one <NOUN> day <DET> the <NOUN> ledger <VERB> would <PRESENT-3S> <BASE> begin <INGV> write <ADV> back <PERIOD> <EOL>
+
+<DET> the <NOUN> ridge <VERB> listen <PAST> <ADV> long <SCONJ> before <DET> the <NOUN> observatory <VERB> be <PAST> <VERB> build <PAST> <SCONJ> upon <PRON> it <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> caretaker <VERB> climb <PAST> <DET> the <ADJ> narrow <NOUN> path <DET> each <NOUN> evening <COMMA> <DET> the <NOUN> stone <PLURAL> <VERB> shift <PAST> <ADP> as <SCONJ> if <ING> acknowledge <PRONA> his <NOUN> return <PERIOD> <EOL>
+<ADP> inside <DET> the <NOUN> dome <COMMA> <DET> the <NOUN> instrument <PLURAL> <VERB> breathe <PAST> <ADP> in <ADJ> slow <ADJ> metallic <NOUN> interval <PLURAL> <PERIOD> <EOL>
+<DET> the <ADJ> primary <NOUN> lens <VERB> drift <PAST> <ADP> from <NOUN> star <ADP> to <BASE> star <COMMA> <INGV> pause <ADP> at <NOUN> coordinate <PLURAL> <PRON> that <VERB> have <PAST> <PERFECT> be <VERB> write <PAST> <ADP> in <DET> a <ADJ> thin <ADJ> blue <NOUN> notebook <PERIOD> <EOL>
+<DET> the <NOUN> notebook <ADV> never <VERB> mention <PAST> <PRON> who <VERB> write <PAST> <DET> the <NOUN> entry <PLURAL> <COMMA> <ADV> only <SCONJ> that <DET> each <NOUN> one <VERB> refer <PAST> <ADP> to <DET> an <NOUN> event <PRON> that <VERB> have <PAST> <PART> not <ADV> yet <VERB> happen <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> trust <PAST> <DET> the <NOUN> notebook <ADJ> more <SCONJ> than <PRON> he <VERB> trust <PAST> <DET> the <NOUN> sky <PERIOD> <EOL>
+<PRON> he <VERB> tap <PAST> <DET> the <NOUN> dome <NUM> three <NOUN> time <PLURAL> <ADP> before <DET> every <NOUN> observation <COMMA> <CCONJ> and <DET> the <NOUN> echo <ADV> always <VERB> return <PAST> <ADP> with <DET> a <ADV> slightly <ADJ> different <NOUN> tone <COMMA> <SCONJ> as <SCONJ> though <DET> the <NOUN> structure <VERB> be <PAST> <INGV> adjust <PRONA> its <NOUN> answer <PERIOD> <EOL>
+<DET> every <NOUN> night <PRON> he <VERB> record <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> temperature <ADP> of <DET> the <ADJ> silent <NOUN> air <COMMA> <DET> the <NOUN> tension <ADP> in <DET> the <NOUN> brass <PLURAL> <NOUN> cable <PLURAL> <COMMA> <DET> the <NOUN> movement <ADP> of <DET> the <PROPN> valley <PROPN> fog <COMMA> <PRON> which <VERB> behave <PAST> <ADP> like <DET> a <NOUN> creature <ING> learn <PART> to <BASE> walk <PERIOD> <EOL>
+<ADV> sometimes <DET> the <NOUN> star <PLURAL> <VERB> rearrange <PAST> <PRON> themselves <SCONJ> while <PRON> he <VERB> watch <PAST> <PERIOD> <EOL>
+<PRON> he <VERB> would <PRESENT-3S> <BASE> lower <PRONA> his <NOUN> lantern <CCONJ> and <BASE> wait <COMMA> <ING> pretend <PART> not <PART> to <BASE> notice <COMMA> <SCONJ> until <DET> the <NOUN> constellation <PLURAL> <VERB> settle <PAST> <ADP> into <DET> a <NOUN> shape <PRON> they <VERB> prefer <PAST> <PERIOD> <EOL>
+<NUM> one <NOUN> entry <ADP> in <DET> the <NOUN> notebook <NOUN> read <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> ridge <NOUN> exhale <PLURAL> <COMMA> <BASE> measure <DET> the <NOUN> pause <PERIOD> <EOL>
+<PRON> another <PERIOD> <EOL>
+<SCONJ> if <DET> the <NOUN> dome <NOUN> hum <PLURAL> <ADP> without <NOUN> wind <COMMA> <VERB> remain <PRESENT> <ADV> still <PERIOD> <EOL>
+<DET> the <ADJ> final <NOUN> page <VERB> contain <PAST> <ADV> only <DET> a <ADJ> single <NOUN> line <PERIOD> <EOL>
+<NOUN> do <PLURAL> <PART> not <BASE> greet <DET> the <NOUN> one <PRON> who <VERB> know <PRESENT-3S> <PRON> your <NOUN> name <PERIOD> <EOL>
+<ADP> at <NOUN> dawn <COMMA> <DET> the <NOUN> observatory <VERB> dim <PAST> <COMMA> <DET> the <NOUN> fog <VERB> retreat <PAST> <COMMA> <CCONJ> and <DET> the <NOUN> caretaker <VERB> close <PAST> <DET> the <NOUN> dome <ADP> with <DET> both <NOUN> hand <PLURAL> <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> ridge <VERB> remember <PAST> <DET> every <NOUN> observer <PRON> it <VERB> have <PAST> <ADV> ever <VERB> hold <PAST> <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> observatory <VERB> be <PAST> <INGV> learn <PART> to <BASE> speak <PERIOD> <EOL>
+
+<DET> the <NOUN> observatory <VERB> function <PAST> <ADP> as <DET> a <NOUN> machine <ADP> for <NOUN> noticing <PERIOD> <EOL>
+<PRON> it <VERB> stand <PAST> <ADP> on <DET> a <ADJ> narrow <NOUN> ridge <SCONJ> where <DET> the <NOUN> wind <VERB> carry <PAST> <DET> no <NOUN> dust <COMMA> <ADV> only <NOUN> information <PERIOD> <EOL>
+<DET> each <NOUN> evening <COMMA> <DET> the <NOUN> caretaker <VERB> activate <PAST> <DET> the <NOUN> dome <ADP> by <INGV> rotate <DET> a <ADJ> single <NOUN> iron <NOUN> wheel <PERIOD> <EOL>
+<DET> the <NOUN> panel <PLURAL> <VERB> unfold <PAST> <ADP> with <ADJ> deliberate <NOUN> slowness <COMMA> <ING> reveal <DET> the <NOUN> sky <SCONJ> as <SCONJ> if <PRON> it <VERB> be <PAST> <DET> a <NOUN> document <ING> be <VERB> unseal <PAST> <PERIOD> <EOL>
+<DET> the <NOUN> instrument <PLURAL> <VERB> operate <PAST> <INGV> accord <ADP> to <DET> a <NOUN> schedule <ADJ> older <ADP> than <DET> the <NOUN> caretaker <PERIOD> <EOL>
+<DET> the <NOUN> ledger <VERB> dictate <PAST> <DET> the <NOUN> sequence <PERIOD> <EOL>
+<PROPN> align <DET> the <ADJ> primary <NOUN> lens <ADP> with <DET> the <ADJ> unlit <NOUN> horizon <PERIOD> <EOL>
+<BASE> measure <DET> the <NOUN> interval <ADP> between <NUM> two <ADJ> silent <NOUN> vibration <PLURAL> <PERIOD> <EOL>
+<BASE> observe <DET> the <NOUN> valley <NOUN> mist <ADP> for <NOUN> deviation <PLURAL> <ADP> in <NOUN> pattern <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <ADV> never <VERB> question <PAST> <DET> the <NOUN> ledger <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <PRON> it <VERB> describe <PAST> <NOUN> phenomenon <PLURAL> <PRON> that <VERB> exist <PAST> <ADV> only <SCONJ> when <VERB> observe <PAST> <COMMA> <CCONJ> and <VERB> cease <PAST> <SCONJ> when <VERB> ignore <PAST> <PERIOD> <EOL>
+<DET> some <NOUN> night <PLURAL> <COMMA> <DET> the <NOUN> star <PLURAL> <VERB> appear <PAST> <PART> to <BASE> test <PRON> him <PERIOD> <EOL>
+<PRON> they <VERB> shift <PAST> <ADP> by <NOUN> fraction <PLURAL> <ADP> of <DET> a <NOUN> degree <COMMA> <ADJ> subtle <ADV> enough <PART> to <BASE> deny <NOUN> intention <COMMA> <ADJ> obvious <ADV> enough <PART> to <BASE> imply <PRON> it <PERIOD> <EOL>
+<DET> the <NOUN> ledger <VERB> contain <PAST> <NOUN> instruction <PLURAL> <PRON> that <VERB> border <PAST> <ADP> on <ADJ> impossible <PERIOD> <EOL>
+<BASE> record <DET> the <NOUN> brightness <ADP> of <DET> a <NOUN> star <PRON> that <VERB> have <PRESENT-3S> <PART> not <VERB> rise <PAST> <PERIOD> <EOL>
+<BASE> note <DET> the <NOUN> shadow <VERB> cast <PAST> <ADP> by <DET> an <NOUN> object <PRON> that <VERB> be <PRESENT-3S> <PART> not <ADJ> present <PERIOD> <EOL>
+<SCONJ> if <DET> the <NOUN> dome <VERB> reflect <PRESENT-3S> <PRON> your <NOUN> face <ADV> twice <COMMA> <BASE> close <DET> the <NOUN> observatory <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> follow <PAST> <DET> each <NOUN> instruction <ADV> precisely <PERIOD> <EOL>
+<PRON> he <VERB> believe <PAST> <DET> the <NOUN> observatory <VERB> require <PAST> <NOUN> obedience <COMMA> <PART> not <NOUN> understanding <PERIOD> <EOL>
+<ADP> at <NOUN> sunrise <COMMA> <DET> the <NOUN> dome <VERB> fold <PAST> <PRON> itself <VERB> shut <PRESENT-3S> <COMMA> <CCONJ> and <DET> the <NOUN> instrument <PLURAL> <VERB> enter <PAST> <DET> a <NOUN> state <ADP> of <ADJ> perfect <NOUN> stillness <PERIOD> <EOL>
+<DET> the <NOUN> caretaker <VERB> archive <PAST> <DET> the <NOUN> night <PART> 's <NOUN> measurement <PLURAL> <COMMA> <ADV> even <SCONJ> when <PRON> they <VERB> contradict <PAST> <PRON> themselves <PERIOD> <EOL>
+<PRON> he <VERB> suspect <PAST> <DET> the <NOUN> observatory <VERB> be <PAST> <INGV> conduct <DET> an <NOUN> experiment <PERIOD> <EOL>
+<PRON> he <VERB> suspect <PAST> <PRON> he <VERB> be <PAST> <NOUN> part <ADP> of <PRON> it <PERIOD> <EOL>
+<CCONJ> and <PRON> he <VERB> suspect <PAST> <SCONJ> that <NUM> one <NOUN> day <COMMA> <DET> the <NOUN> ledger <VERB> would <PRESENT-3S> <BASE> instruct <PRON> him <PART> to <BASE> observe <PRON> something <PRON> that <VERB> could <PRESENT-3S> <BASE> observe <PRON> him <ADV> back <PERIOD> <EOL>
+

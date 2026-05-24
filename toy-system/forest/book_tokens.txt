@@ -1,0 +1,258 @@
+﻿<ADJ> cold <NOUN> night <VERB> press <PRESENT-3S> <ADP> against <ADJ> silent <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> wait <PRESENT-3S> <ADP> near <ADJ> broken <NOUN> stump <PERIOD> <EOL>
+<ADJ> distant <NOUN> cracking <VERB> echo <PRESENT-3S> <ADP> through <ADJ> dark <NOUN> pine <PLURAL> <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> watch <PRESENT-3S> <ADP> from <PERFECT> shadow <ADJ> hollow <PERIOD> <EOL>
+<PRON> he <VERB> sense <PRESENT-3S> <PRON> something <ADJ> wrong <ADV> nearby <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> between <ADJ> twisted <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ADJ> cold <NOUN> wind <VERB> scrape <PRESENT-3S> <ADP> across <ADJ> brittle <NOUN> leave <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <NOUN> silence <VERB> choke <PRESENT-3S> <DET> the <NOUN> clearing <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> step <PRESENT-3S> <ADV> closer <ADP> with <ADJ> hungry <NOUN> intent <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> bolt <PRESENT-3S> <ADP> across <ADJ> dead <NOUN> brush <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> shout <PRESENT-3S> <INGV> warn <ADP> into <ADJ> cold <NOUN> dark <PERIOD> <EOL>
+<DET> the <NOUN> fox <NOUN> chase <PLURAL> <ADV> fast <ADP> along <ADJ> narrow <NOUN> trail <PERIOD> <EOL>
+<NOUN> branch <PLURAL> <VERB> whip <PRESENT> <ADP> past <INGV> flee <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> stumble <PRESENT-3S> <ADP> near <ADJ> rotten <NOUN> log <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> leap <PRESENT-3S> <ADV> forward <INGV> block <NOUN> fox <PERIOD> <EOL>
+<PRON> he <VERB> swing <PRESENT-3S> <NOUN> branch <ADV> hard <ADV> downward <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> fear <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> behind <PERFECT> fall <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<NOUN> forest <VERB> breathe <PRESENT-3S> <ADJ> dark <NOUN> lesson <PLURAL> <VERB> learn <PAST> <NOUN> tonight <PERIOD> <EOL>
+
+<ADJ> violent <NOUN> storm <VERB> tear <PRESENT-3S> <ADP> across <ADJ> hollow <NOUN> forest <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> crouch <PRESENT-3S> <ADP> under <ADJ> shattered <NOUN> root <PLURAL> <PERIOD> <EOL>
+<NOUN> thunder <VERB> roll <PRESENT-3S> <ADP> through <ADJ> twisted <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> prowl <PRESENT-3S> <ADP> near <ADJ> flooded <NOUN> ditch <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> cling <PRESENT-3S> <PART> to <BASE> slick <NOUN> bark <PERIOD> <EOL>
+<NOUN> lightning <NOUN> carve <PLURAL> <VERB> jag <PAST> <NOUN> scar <PLURAL> <ADP> across <NOUN> sky <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> from <INGV> crash <NOUN> debris <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> sprint <PRESENT-3S> <ADP> through <INGV> rise <NOUN> water <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> scream <PRESENT-3S> <INGV> warn <ADP> into <INGV> roar <NOUN> wind <EXCLAMATION> <EOL>
+<PERFECT> fall <NOUN> tree <PLURAL> <VERB> block <PRESENT> <ADJ> narrow <NOUN> escape <NOUN> path <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> over <PERFECT> shatter <NOUN> trunk <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> swirl <NOUN> mud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> from <INGV> sink <NOUN> ground <PERIOD> <EOL>
+<NOUN> storm <VERB> rage <PRESENT-3S> <ADP> around <INGV> tremble <NOUN> trio <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> fear <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADJ> sharp <ADJ> painful <NOUN> breath <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> toward <ADJ> broken <NOUN> ridge <PERIOD> <EOL>
+<PROPN> dawn <VERB> bleed <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <PERFECT> ruin <NOUN> forest <PERIOD> <EOL>
+
+<ING> choke <NOUN> dust <NOUN> swirl <PLURAL> <ADP> inside <PERFECT> collapse <NOUN> tunnel <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> through <ADJ> narrow <NOUN> stone <NOUN> gap <PERIOD> <EOL>
+<ADJ> dripping <NOUN> water <VERB> echo <PRESENT-3S> <ADP> along <ADJ> jagged <NOUN> wall <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> whisper <PRESENT-3S> <INGV> warn <ADP> behind <PRON> him <PERIOD> <EOL>
+<ADJ> distant <ADJ> rumble <NOUN> shake <PLURAL> <ADJ> loose <NOUN> gravel <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADV> deeper <ADP> into <INGV> crush <NOUN> dark <PERIOD> <EOL>
+<ADJ> sudden <NOUN> collapse <VERB> roar <PRESENT-3S> <ADP> behind <PERFECT> trap <NOUN> trio <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> panic <PRESENT-3S> <ADP> under <INGV> fall <NOUN> dust <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> choke <NOUN> dark <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> scrape <PRESENT-3S> <VERB> claw <PRESENT-3S> <ADP> along <NOUN> stone <PERIOD> <EOL>
+<ADJ> narrow <NOUN> passage <VERB> twist <PRESENT-3S> <ADP> toward <ADJ> deeper <NOUN> void <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <ADJ> hidden <NOUN> pit <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> past <INGV> crumble <NOUN> ledge <PERIOD> <EOL>
+<ING> echo <NOUN> breath <PLURAL> <VERB> tremble <PRESENT> <ADP> through <ADJ> tight <NOUN> cavern <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> toward <ADJ> faint <NOUN> draft <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <INGV> rise <NOUN> air <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> fear <PERIOD> <EOL>
+<ADJ> pale <NOUN> moonlight <VERB> bleed <PRESENT-3S> <ADP> through <PERFECT> crack <NOUN> exit <PERIOD> <EOL>
+
+<ING> suffocate <NOUN> mist <NOUN> coil <PLURAL> <ADP> across <PERFECT> drown <NOUN> clearing <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> through <INGV> shift <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<PROPN> warped <VERB> echo <PRESENT-3S> <NOUN> pulse <ADP> under <PROPN> pale <PROPN> fog <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> toward <NOUN> flickering <NOUN> outline <PERIOD> <EOL>
+<ADJ> unseen <NOUN> footstep <PLURAL> <VERB> press <PRESENT-3S> <ADV> closer <ADP> behind <PRON> them <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> emerge <PRESENT-3S> <ADP> from <INGV> dissolve <NOUN> mist <PERIOD> <EOL>
+<ADJ> distant <NOUN> wail <PLURAL> <VERB> distort <PRESENT> <ADP> through <NOUN> thickening <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <NOUN> melting <NOUN> silhouette <PLURAL> <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> between <INGV> tremble <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crush <NOUN> fog <PERIOD> <EOL>
+<ING> shift <NOUN> ground <NOUN> ripple <PLURAL> <ADP> beneath <PRONA> their <NOUN> foot <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> sink <ADJ> hollow <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> echo <NOUN> void <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <NOUN> rabbit <ADP> toward <ADJ> faint <NOUN> glow <PERIOD> <EOL>
+<ING> swirl <NOUN> mist <VERB> peel <PRESENT-3S> <ADV> away <INGV> reveal <ADJ> broken <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> dread <PERIOD> <EOL>
+<ING> echo <NOUN> cry <PLURAL> <NOUN> fade <ADP> into <NOUN> thinning <NOUN> fog <PERIOD> <EOL>
+<PROPN> dawn <VERB> fracture <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <ADJ> haunted <NOUN> clearing <PERIOD> <EOL>
+
+<ING> crush <NOUN> pressure <NOUN> hum <PLURAL> <ADP> through <PERFECT> drown <NOUN> valley <EXCLAMATION> <EOL>
+<ING> drift <NOUN> silt <NOUN> swirl <PLURAL> <ADP> around <INGV> tremble <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> sink <PRESENT-3S> <ADP> near <ADJ> fractured <NOUN> reef <PERIOD> <EOL>
+<ADJ> warped <NOUN> current <PLURAL> <NOUN> twist <ADP> along <ADJ> broken <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> paddle <PRESENT-3S> <ADP> through <INGV> shimmer <NOUN> haze <PERIOD> <EOL>
+<ADJ> distant <NOUN> pulse <PLURAL> <VERB> throb <PRESENT> <ADP> under <INGV> shift <NOUN> water <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> glide <PRESENT-3S> <ADP> between <INGV> bend <NOUN> light <PERIOD> <EOL>
+<ADJ> sudden <NOUN> tremor <VERB> crack <PRESENT-3S> <ADP> across <ADJ> deep <NOUN> trench <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flail <PRESENT-3S> <ADP> near <INGV> sink <ADJ> hollow <PERIOD> <EOL>
+<ING> drift <NOUN> shadow <PLURAL> <VERB> distort <PRESENT> <ADP> around <INGV> rise <NOUN> bubble <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> swirl <NOUN> pressure <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> lunge <PRESENT-3S> <ADP> through <ADJ> fractured <NOUN> glow <EXCLAMATION> <EOL>
+<ING> echo <NOUN> roar <PLURAL> <NOUN> warp <ADV> inside <PERFECT> drown <NOUN> cavern <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> drift <PRESENT-3S> <ADP> toward <ADJ> faint <NOUN> surface <PERIOD> <EOL>
+<NOUN> shimmering <NOUN> beam <PLURAL> <VERB> pierce <PRESENT> <ADP> through <ADJ> murky <NOUN> depth <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> push <PRESENT-3S> <NOUN> fox <ADP> from <INGV> sink <NOUN> pit <PERIOD> <EOL>
+<ING> tremble <NOUN> current <PLURAL> <VERB> settle <PRESENT> <ADP> around <ADJ> broken <NOUN> ridge <PERIOD> <EOL>
+<ADJ> pale <NOUN> daylight <VERB> ripple <PRESENT-3S> <ADP> across <INGV> rise <NOUN> water <PERIOD> <EOL>
+
+<ING> vibrate <NOUN> swarm <NOUN> surge <PLURAL> <ADP> across <INGV> tremble <NOUN> clearing <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> rise <ADJ> wingbeat <NOUN> storm <PERIOD> <EOL>
+<ING> chitter <NOUN> cloud <PLURAL> <BASE> ripple <ADP> through <ADJ> brittle <NOUN> air <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> beneath <INGV> crawl <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <INGV> pierce <NOUN> drone <PERIOD> <EOL>
+<ING> skitter <NOUN> shape <PLURAL> <NOUN> swarm <ADP> across <ADJ> shattered <NOUN> root <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> sting <NOUN> cloud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> vibrate <NOUN> dust <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> swirl <NOUN> wing <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <ADJ> hiss <NOUN> burst <PLURAL> <ADP> from <INGV> crawl <NOUN> mound <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> swarm <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> from <INGV> churn <NOUN> insect <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> over <INGV> rise <NOUN> stinger <NOUN> cloud <PERIOD> <EOL>
+<ING> echo <NOUN> wing <PLURAL> <VERB> tremble <PRESENT> <ADP> across <ADJ> hollow <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> safe <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> through <INGV> vibrate <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <ADJ> sudden <NOUN> dread <PERIOD> <EOL>
+<ING> chitter <NOUN> swarm <VERB> fade <PRESENT-3S> <ADP> into <INGV> die <NOUN> wind <PERIOD> <EOL>
+
+<ING> pulse <NOUN> critter <NOUN> swarm <VERB> surge <PRESENT-3S> <ADP> beyond <INGV> shimmer <NOUN> crater <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> glow <NOUN> tendril <NOUN> mist <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <NOUN> clicking <NOUN> membrane <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> near <INGV> ripple <ADJ> alien <NOUN> pool <PERIOD> <EOL>
+<ADJ> strange <ADJ> hum <NOUN> vibrate <PLURAL> <ADP> within <NOUN> shifting <PROPN> dome <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADP> beside <NOUN> quivering <NOUN> spore <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> lash <PROPN> tendril <NOUN> cloud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crawl <PROPN> biolight <PROPN> fog <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <ADJ> dripping <ADJ> alien <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <NOUN> screech <VERB> burst <PRESENT-3S> <ADP> from <INGV> split <NOUN> egg <NOUN> mound <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> against <INGV> twist <NOUN> limb <NOUN> shadow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> beyond <INGV> surge <NOUN> critter <NOUN> mass <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> tendril <NOUN> swarm <PERIOD> <EOL>
+<ING> echo <NOUN> pulse <PLURAL> <NOUN> fade <ADP> along <ADJ> hollow <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> safe <NOUN> rise <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> through <PROPN> dim <ADJ> alien <PROPN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> tremble <PRESENT-3S> <ADP> under <INGV> die <NOUN> glow <PERIOD> <EOL>
+<NOUN> quivering <NOUN> critter <NOUN> swarm <VERB> retreat <PRESENT-3S> <ADP> beyond <ADJ> silent <NOUN> crater <PERIOD> <EOL>
+
+<ING> pulse <NOUN> lava <NOUN> surge <PLURAL> <ADP> beyond <INGV> shimmer <NOUN> fissure <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> glow <NOUN> ember <NOUN> mist <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <INGV> crack <PROPN> basalt <NOUN> wall <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> near <INGV> ripple <ADJ> molten <NOUN> pool <PERIOD> <EOL>
+<ADJ> deep <ADJ> rumble <NOUN> vibrate <PLURAL> <ADP> within <INGV> shift <ADJ> cavern <NOUN> spine <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADP> beside <INGV> quiver <NOUN> heat <NOUN> spore <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> lash <PROPN> ember <PROPN> cloud <EXCLAMATION> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crawl <ADJ> magma <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <ADJ> dripping <ADJ> molten <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <BASE> crack <NOUN> burst <PLURAL> <ADP> from <INGV> split <NOUN> lava <NOUN> vent <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> against <INGV> twist <NOUN> heat <NOUN> shadow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> beyond <INGV> surge <ADJ> molten <NOUN> tide <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> ember <NOUN> swarm <PERIOD> <EOL>
+<ING> echo <NOUN> tremor <NOUN> fade <PLURAL> <ADP> along <ADJ> hollow <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> safe <NOUN> rise <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> through <ADJ> dim <ADJ> molten <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> tremble <PRESENT-3S> <ADP> under <INGV> die <NOUN> ember <NOUN> glow <PERIOD> <EOL>
+<PROPN> quivering <NOUN> lava <NOUN> surge <VERB> retreat <PRESENT-3S> <ADP> beyond <ADJ> silent <NOUN> fissure <PERIOD> <EOL>
+
+<ADJ> twisted <NOUN> root <PLURAL> <VERB> surge <PRESENT> <ADP> across <INGV> awaken <NOUN> grove <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> past <INGV> grasp <NOUN> vine <PLURAL> <PERIOD> <EOL>
+<ING> bark <NOUN> mouth <PLURAL> <ADJ> open <ADP> along <ADJ> hollow <NOUN> trunk <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <INGV> loom <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> beside <INGV> pulse <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ADJ> distant <NOUN> groan <PLURAL> <VERB> tremble <PRESENT> <ADP> through <INGV> live <NOUN> wood <PERIOD> <EOL>
+<PROPN> thorned <VERB> tendril <PRESENT-3S> <NOUN> coil <ADP> around <ADJ> broken <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <BASE> crack <NOUN> burst <PLURAL> <ADP> from <PROPN> splitting <NOUN> oak <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> snap <NOUN> jaw <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> against <INGV> lash <NOUN> vine <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crush <NOUN> leave <PLURAL> <PERIOD> <EOL>
+<ING> root <NOUN> limb <PLURAL> <BASE> drag <ADP> across <INGV> shift <NOUN> soil <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> bite <NOUN> petal <PLURAL> <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <ADJ> grasping <NOUN> canopy <PERIOD> <EOL>
+<ADJ> thorned <NOUN> vine <PLURAL> <VERB> tighten <PRESENT> <ADP> around <ADJ> narrow <NOUN> path <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <NOUN> rabbit <ADP> toward <ADJ> faint <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> carve <PRESENT-3S> <VERB> path <PRESENT-3S> <ADP> through <INGV> thrash <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ING> tremble <NOUN> branch <PLURAL> <VERB> loosen <PRESENT> <ADP> under <INGV> die <NOUN> groan <PERIOD> <EOL>
+<ING> live <NOUN> grove <VERB> recoil <PRESENT-3S> <ADP> from <INGV> fade <NOUN> light <PERIOD> <EOL>
+<PROPN> dawn <VERB> bleed <PRESENT-3S> <ADJ> pale <NOUN> glow <ADP> across <ADJ> silent <NOUN> wood <PERIOD> <EOL>
+
+<ING> flicker <NOUN> second <PLURAL> <VERB> warp <PRESENT> <ADP> across <PERFECT> break <NOUN> ravine <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> through <INGV> repeat <NOUN> echo <PLURAL> <PERIOD> <EOL>
+<ADJ> fractured <NOUN> moment <PLURAL> <NOUN> pulse <ADP> under <ADJ> pale <NOUN> dust <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> inside <INGV> loop <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <INGV> drift <NOUN> second <PLURAL> <PERIOD> <EOL>
+<PERFECT> warp <NOUN> time <VERB> hum <PRESENT-3S> <ADP> along <INGV> shift <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<ING> echo <NOUN> step <PLURAL> <VERB> overlap <PRESENT> <ADP> behind <PRON> them <PERIOD> <EOL>
+<ADJ> sudden <NOUN> rewind <VERB> snap <PRESENT-3S> <ADP> across <ADJ> hollow <NOUN> air <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> repeat <NOUN> cliff <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <ADJ> staggering <NOUN> loop <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> collapse <NOUN> second <PLURAL> <PERIOD> <EOL>
+<ING> flicker <NOUN> ground <NOUN> shift <PLURAL> <ADP> beneath <PRONA> their <NOUN> foot <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> near <INGV> vanish <NOUN> moment <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> fracture <NOUN> time <PERIOD> <EOL>
+<ING> echo <NOUN> cry <PLURAL> <VERB> distort <PRESENT-3S> <ADP> across <INGV> loop <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <NOUN> rabbit <ADP> toward <ADJ> stable <NOUN> breath <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> fade <NOUN> loop <PLURAL> <PERIOD> <EOL>
+<ING> tremble <NOUN> second <PLURAL> <VERB> settle <PRESENT> <ADP> under <ADJ> pale <NOUN> wind <PERIOD> <EOL>
+<ADJ> broken <NOUN> time <VERB> release <PRESENT-3S> <ADJ> hollow <NOUN> ravine <PERIOD> <EOL>
+<PROPN> dawn <VERB> return <PRESENT-3S> <ADJ> single <NOUN> moment <ADP> across <ADJ> silent <NOUN> ridge <PERIOD> <EOL>
+
+<ING> shatter <NOUN> reflection <PLURAL> <NOUN> ripple <ADP> across <PERFECT> break <NOUN> hall <EXCLAMATION> <EOL>
+<DET> the <NOUN> rabbit <VERB> stagger <PRESENT-3S> <ADP> under <INGV> bend <VERB> glass <PRESENT-3S> <NOUN> light <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> crawl <PRESENT-3S> <ADP> past <INGV> drift <NOUN> mirror <NOUN> shard <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> near <INGV> tremble <ADJ> silver <NOUN> wall <PERIOD> <EOL>
+<PROPN> warped <VERB> face <PRESENT-3S> <NOUN> pulse <ADP> within <INGV> shift <NOUN> pane <PLURAL> <PERIOD> <EOL>
+<ADJ> cold <NOUN> echo <PLURAL> <VERB> hum <PRESENT> <ADP> along <ADJ> hollow <NOUN> mirror <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> breathe <PRESENT-3S> <ADP> beside <INGV> flicker <NOUN> double <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <NOUN> fracture <VERB> snap <PRESENT-3S> <ADP> through <PERFECT> mirror <NOUN> dark <EXCLAMATION> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> past <NOUN> twisting <NOUN> reflection <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> collapse <NOUN> glare <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> near <INGV> rise <VERB> glass <PRESENT-3S> <NOUN> tide <EXCLAMATION> <EOL>
+<NOUN> shimmering <NOUN> figure <PLURAL> <VERB> distort <PRESENT> <ADP> across <INGV> bend <NOUN> floor <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <NOUN> splitting <NOUN> image <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> from <INGV> shatter <NOUN> path <PERIOD> <EOL>
+<ING> echo <NOUN> fracture <PLURAL> <NOUN> fade <ADP> along <ADJ> silent <NOUN> hall <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> faint <ADJ> real <NOUN> light <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> die <NOUN> reflection <PLURAL> <PERIOD> <EOL>
+<ING> tremble <NOUN> mirror <PLURAL> <VERB> loosen <PRESENT> <ADP> under <INGV> fade <NOUN> hum <PERIOD> <EOL>
+<ADJ> broken <NOUN> image <PLURAL> <VERB> release <PRESENT> <ADJ> hollow <NOUN> corridor <PERIOD> <EOL>
+<PROPN> dawn <VERB> return <PRESENT-3S> <ADJ> steady <NOUN> light <ADP> across <ADJ> empty <NOUN> hall <PERIOD> <EOL>
+
+<ADJ> cold <NOUN> mist <VERB> coil <PRESENT-3S> <ADP> across <INGV> tremble <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crouch <PRESENT-3S> <ADP> near <ADJ> fractured <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<ADJ> distant <NOUN> echo <PLURAL> <NOUN> pulse <ADP> beneath <ADJ> hollow <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> watch <PRESENT-3S> <ADP> from <INGV> fade <NOUN> grove <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> along <INGV> twist <NOUN> root <PLURAL> <PERIOD> <EOL>
+<ING> shift <NOUN> shadow <PLURAL> <NOUN> ripple <ADP> under <PROPN> pale <PROPN> fog <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> past <INGV> sink <ADJ> hollow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> whisper <PRESENT-3S> <INGV> warn <ADP> through <ADJ> brittle <NOUN> air <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> prowl <PRESENT-3S> <ADP> near <INGV> crack <NOUN> stump <PERIOD> <EOL>
+<ADJ> sudden <NOUN> tremor <VERB> snap <PRESENT-3S> <ADP> across <ADJ> broken <NOUN> ground <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> lash <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> toward <ADJ> faint <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> swirl <NOUN> dust <PERIOD> <EOL>
+<ADJ> warped <NOUN> echo <PLURAL> <VERB> hum <PRESENT> <ADP> along <ADJ> shattered <NOUN> trunk <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> stumble <PRESENT-3S> <ADP> near <INGV> glow <NOUN> fissure <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> rise <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> tremble <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> dim <ADJ> safe <ADJ> hollow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> sink <NOUN> root <PLURAL> <PERIOD> <EOL>
+<PROPN> dawn <VERB> bleed <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <ADJ> silent <NOUN> clearing <PERIOD> <EOL>
+
+<ING> haunt <NOUN> shadow <PLURAL> <NOUN> coil <ADP> across <ADJ> hollow <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crouch <PRESENT-3S> <ADP> near <INGV> tremble <NOUN> stone <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> watch <PRESENT-3S> <ADP> from <INGV> fade <NOUN> grove <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> stalk <PRESENT-3S> <ADP> beneath <INGV> shift <NOUN> silhouette <PLURAL> <PERIOD> <EOL>
+<ADJ> cold <NOUN> wind <VERB> scrape <PRESENT-3S> <ADP> across <ADJ> brittle <NOUN> leave <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> slip <PRESENT-3S> <ADP> past <INGV> loom <NOUN> shadow <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> whisper <PRESENT-3S> <INGV> warn <ADP> through <ADJ> pale <NOUN> haze <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> prowl <PRESENT-3S> <ADP> near <INGV> flicker <NOUN> outline <PLURAL> <PERIOD> <EOL>
+<ADJ> sudden <ADJ> hush <NOUN> press <PLURAL> <ADP> against <ADJ> silent <NOUN> forest <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> flee <PRESENT-3S> <ADP> past <INGV> grasp <NOUN> shadow <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> drag <PRESENT-3S> <PRON> him <ADP> toward <ADJ> faint <NOUN> ridge <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> leap <PRESENT-3S> <ADP> through <INGV> swirl <NOUN> dark <PERIOD> <EOL>
+<ADJ> warped <NOUN> figure <PLURAL> <NOUN> pulse <ADP> beneath <ADJ> broken <NOUN> branch <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> stumble <PRESENT-3S> <ADP> near <PERFECT> shadow <ADJ> hollow <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> choke <PRESENT-3S> <ADP> under <INGV> crawl <NOUN> gloom <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> snarl <PRESENT-3S> <ADP> through <INGV> tremble <NOUN> silhouette <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> rabbit <VERB> crawl <PRESENT-3S> <ADP> toward <ADJ> dim <ADJ> safe <NOUN> clearing <PERIOD> <EOL>
+<DET> the <NOUN> raccoon <VERB> guide <PRESENT-3S> <PRON> them <ADP> past <INGV> sink <NOUN> shape <PLURAL> <PERIOD> <EOL>
+<DET> the <NOUN> fox <VERB> halt <PRESENT-3S> <ADP> under <INGV> rise <NOUN> dread <PERIOD> <EOL>
+<PROPN> dawn <VERB> fracture <PRESENT-3S> <ADJ> pale <NOUN> light <ADP> across <ADJ> haunted <NOUN> grove <PERIOD> <EOL>
+
