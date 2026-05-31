@@ -1,0 +1,210 @@
+﻿1. [0.83] 🟧Measure 🟩the 🟧fox 🟩halts 🟧near 🟩rippling 🟩molten 🟩shapes.
+2. [0.86] 🟩He 🟧believed 🟩the 🟩ledger 🟧described 🟩a 🟩memory.
+3. [0.89] 🟩The 🟩observatory 🟩was 🟩part 🟩of 🟧position.
+4. [0.86] 🟧Measure 🟩the 🟩observatory 🟧was 🟩part 🟩of 🟩position.
+5. [0.80] 🟩The 🟩fox 🟩halts 🟩under 🟥lighting.
+6. [0.86] 🟩The 🟩corner, 🟩a 🟧feather 🟧thinks 🟩of 🟧position.
+7. [0.87] 🟧Storm 🟩tears 🟩across 🟩the 🟩shadow.
+8. [0.80] 🟧Storm 🟧rages 🟩around 🟩broken 🟧stones.
+9. [0.81] 🟩The 🟩rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧shapes.
+10. [0.89] 🟩The 🟩rabbit 🟧flees 🟩past 🟧stinging 🟩cloud!
+11. [0.80] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧ridge.
+12. [0.80] 🟩Storm 🟧rages 🟩around 🟩trembling 🟧clearing.
+13. [0.83] 🟩The 🟩rabbit 🟩flees 🟩past 🟧cracking 🟧stump.
+14. [0.89] 🟩Sudden 🟩screech 🟩bursts 🟩from 🟧churning 🟩insects.
+15. [0.83] 🟩The 🟩fox 🟧leaps 🟩through 🟧lashing 🟩branch.
+16. [0.83] 🟧Sudden 🟧tremor 🟩snaps 🟧through 🟩lashing 🟩branch.
+17. [0.87] 🟧Thunder 🟩rolls 🟩through 🟩swirling 🟩dark!
+18. [0.83] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩swirling 🟧dark.
+19. [0.83] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩swirling 🟧dark!
+20. [0.87] 🟩Fallen 🟩trees 🟩block 🟩narrow 🟧path.
+
+1. [0.86] 🟩He 🟧believed 🟩the 🟩caretaker 🟧closed 🟩the 🟩interval.
+2. [0.89] 🟩The 🟩observatory 🟧was 🟩part 🟩of 🟧position.
+3. [0.80] 🟩The 🟩caretaker 🟧believed 🟩the 🟩fox 🟧halts 🟧near 🟧rippling 🟩molten 🟧shapes.
+4. [0.90] 🟩He 🟧believed 🟩the 🟩caretaker 🟧closed 🟩the 🟩shadow.
+5. [0.81] 🟩He 🟩believed 🟩the 🟩fox 🟧halts 🟩under 🟥lighting.
+6. [0.81] 🟩The 🟧rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧shapes.
+7. [0.89] 🟩Sudden 🟧rewind 🟩snaps 🟧through 🟩lashing 🟩branch.
+8. [0.80] 🟧Storm 🟧rages 🟩around 🟩trembling 🟩ridge.
+9. [0.89] 🟧Sudden 🟩tremor 🟩snaps 🟧through 🟩lashing 🟩branch.
+10. [0.87] 🟧Storm 🟩tears 🟩across 🟩hollow 🟩trunk.
+11. [0.89] 🟩Storm 🟩rages 🟩around 🟩broken 🟧stones 🟩gap.
+12. [0.83] 🟩The 🟩rabbit 🟧flees 🟩past 🟧cracking 🟧stump.
+13. [0.87] 🟧Storm 🟩rages 🟩around 🟩her 🟧hand.
+14. [0.83] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩swirling 🟩dark.
+15. [0.80] 🟧Storm 🟩tears 🟩across 🟧hollow 🟩ridge.
+16. [0.83] 🟩Sudden 🟧rewind 🟩snaps 🟧through 🟧swirling 🟩dark.
+17. [0.92] 🟩The 🟩raccoon 🟧drags 🟩him 🟧beyond 🟩surging 🟩molten 🟩shapes.
+18. [0.83] 🟩The 🟧rabbit 🟩staggers 🟧under 🟧crawling 🟩shadow.
+19. [0.80] 🟧Storm 🟧rages 🟩around 🟩broken 🟩stones.
+20. [0.87] 🟩Fallen 🟩trees 🟩block 🟩narrow 🟧path.
+
+1. [0.86] 🟩He 🟧believed 🟩the 🟩ledger 🟩dictated 🟩the 🟧rabbit 🟧slips 🟩near 🟩rippling 🟩molten 🟧shapes.
+2. [0.89] 🟩He 🟩believed 🟩the 🟧rabbit 🟧slips 🟧near 🟩rippling 🟩molten 🟩shapes.
+3. [0.83] 🟩He 🟧believed 🟩the 🟩observatory 🟧was 🟩part 🟩of 🟧position.
+4. [0.94] 🟩He 🟧believed 🟩the 🟩movement 🟩of 🟩position.
+5. [0.89] 🟧He 🟩believed 🟩the 🟩ridge 🟩a 🟧memory.
+6. [0.81] 🟧Dust 🟧arranges 🟩itself 🟩into 🟩the 🟩cycle 🟩again.
+7. [0.89] 🟩The 🟩observatory 🟩was 🟧waiting 🟩to 🟩speak.
+8. [0.80] 🟩The 🟩caretaker 🟧followed 🟩its 🟧wings.
+9. [0.89] 🟩The 🟧rabbit 🟩staggers 🟧under 🟩crawling 🟩shadow.
+10. [0.87] 🟧Storm 🟩rages 🟩around 🟩broken 🟩ridge.
+11. [0.83] 🟩Storm 🟩tears 🟩across 🟩sky 🟩wills 🟥hesitate.
+12. [0.81] 🟩The 🟧raccoon 🟩drags 🟩him 🟧from 🟧churning 🟩insects.
+13. [0.87] 🟧Storm 🟩rages 🟩around 🟩trembling 🟩ridge.
+14. [0.83] 🟩The 🟩raccoon 🟧drags 🟩him 🟧beyond 🟩surging 🟩molten 🟧shapes.
+15. [0.86] 🟩The 🟩rabbit 🟩slips 🟩near 🟧rippling 🟩molten 🟧pool.
+16. [0.81] 🟩The 🟩world 🟧gathers 🟩them 🟧through 🟩lashing 🟩branch.
+17. [0.83] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟧swirling 🟩dark.
+18. [0.88] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟩star 🟩waiting 🟧for 🟩noticing.
+19. [0.89] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟧churning 🟩insects.
+20. [0.89] 🟩The 🟧raccoon 🟧chokes 🟩under 🟩rising 🟩water.
+
+1. [0.89] 🟩He 🟧believed 🟩the 🟩brightness 🟩of 🟩position.
+2. [0.81] 🟩He 🟧believed 🟩the 🟩fox 🟩halts 🟩under 🟥lighting.
+3. [0.80] 🟩The 🟩caretaker 🟧closed 🟩the 🟧gentle.
+4. [0.94] 🟩The 🟩caretaker 🟧closed 🟩the 🟩observatory 🟩was.
+5. [0.90] 🟩The 🟩rabbit 🟧slips 🟩near 🟩rippling 🟩molten 🟧shapes.
+6. [0.94] 🟩The 🟩observatory 🟩was 🟩part 🟩of 🟧position.
+7. [0.91] 🟩The 🟩moments 🟩folded 🟩itself 🟩into 🟩the 🟩fox 🟧leaps 🟩through 🟩swirling 🟧dark.
+8. [0.86] 🟩The 🟩fox 🟩halts 🟧near 🟧rippling 🟩molten 🟧shapes.
+9. [0.81] 🟧Storm 🟩rages 🟩around 🟩the 🟩ceiling, 🟩soft 🟧hollow.
+10. [0.83] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟧churning 🟩insects.
+11. [0.86] 🟩The 🟩rabbit 🟩slips 🟩near 🟧rippling 🟩molten 🟧pool.
+12. [0.83] 🟩The 🟩raccoon 🟩drags 🟩rabbit 🟩flees 🟩past 🟧cracking 🟧stump.
+13. [0.80] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧clearing!
+14. [0.81] 🟥Storm 🟩rages 🟩around 🟩the 🟩fox 🟧halts 🟩under 🟧crawling 🟩shadow.
+15. [0.83] 🟩Sudden 🟧tremor 🟧snaps 🟧through 🟩lashing 🟩branch.
+16. [0.87] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧shapes.
+17. [0.83] 🟧Storm 🟩tears 🟩across 🟧broken 🟧stones 🟩gap.
+18. [0.87] 🟧Storm 🟧tears 🟩across 🟩hollow 🟩ridge.
+19. [0.83] 🟧Sudden 🟧rewind 🟩snaps 🟧through 🟩lashing 🟩branch.
+20. [0.89] 🟩The 🟩fox 🟧halts 🟩under 🟩crawling 🟧shadow.
+
+1. [0.81] 🟧Align 🟩the 🟧rabbit 🟧slips 🟩past 🟧crumbling 🟩ledge.
+2. [0.81] 🟩He 🟧believed 🟩the 🟧rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧shapes.
+3. [0.82] 🟧Dust 🟧arranged 🟩itself 🟩into 🟩the 🟩grass, 🟩gathering 🟩quiet 🟧pulse 🟧of 🟩position.
+4. [0.80] 🟩The 🟩caretaker 🟧believed 🟩the 🟧earth.
+5. [0.89] 🟩Sudden 🟩tremor 🟩snaps 🟧through 🟩lashing 🟩branch.
+6. [0.93] 🟧Storm 🟩tears 🟩across 🟩hollow 🟩trunk.
+7. [0.93] 🟩Storm 🟩rages 🟩around 🟩trembling 🟧clearing.
+8. [0.80] 🟧Storm 🟧tears 🟩across 🟩hollow 🟩ridge.
+9. [0.83] 🟩Sudden 🟧rewind 🟩snaps 🟧through 🟧lashing 🟩branch.
+10. [0.87] 🟧Storm 🟩rages 🟩around 🟩broken 🟧ridge.
+11. [0.81] 🟩The 🟧rabbit 🟧slips 🟩near 🟩rippling 🟩molten 🟧shapes.
+12. [0.80] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧ridge.
+13. [0.80] 🟩The 🟩raccoon 🟧drags 🟩rabbit 🟩slips 🟧near 🟧rippling 🟥through 🟩lashing 🟩branch.
+14. [0.80] 🟩Fallen 🟧trees 🟩block 🟩narrow 🟧path.
+15. [0.93] 🟧Storm 🟩rages 🟩around 🟩trembling 🟩clearing!
+16. [0.83] 🟧Storm 🟩rages 🟩around 🟩broken 🟧stones 🟩gap.
+17. [0.83] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟧churning 🟩insects.
+18. [0.80] 🟧Thunder 🟩rolls 🟩through 🟧swirling 🟧dark!
+19. [0.83] 🟧Sudden 🟧tremor 🟩snaps 🟧through 🟩swirling 🟩dark.
+20. [0.89] 🟧Sudden 🟩tremor 🟩snaps 🟧through 🟩swirling 🟩dark!
+
+1. [0.90] 🟩He 🟧believed 🟩the 🟩caretaker 🟧closed 🟩the 🟩sequence.
+2. [0.83] 🟧Every 🟩year, 🟩though 🟩the 🟩caretaker 🟧closed 🟩the 🟩valley.
+3. [0.81] 🟧Measure 🟩the 🟩observatory 🟧was 🟩part 🟩of 🟧position.
+4. [0.87] 🟩The 🟩caretaker 🟧closed 🟩the 🟩light.
+5. [0.86] 🟩The 🟧rabbit 🟧slips 🟩near 🟩rippling 🟩molten 🟩shapes.
+6. [0.80] 🟧Thunder 🟩rolls 🟩through 🟧lashing 🟩branch.
+7. [0.80] 🟩Storm 🟧rages 🟩around 🟩broken 🟧ridge.
+8. [0.87] 🟧Thunder 🟩rolls 🟩through 🟩swirling 🟧dark.
+9. [0.93] 🟧Storm 🟩rages 🟩around 🟩broken 🟩stones.
+10. [0.87] 🟩Storm 🟧tears 🟩across 🟧hollow 🟩ridge.
+11. [0.83] 🟩The 🟩rabbit 🟩flees 🟩past 🟧cracking 🟧stump.
+12. [0.87] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧clearing.
+13. [0.83] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩swirling 🟧dark.
+14. [0.83] 🟩The 🟩rabbit 🟧slips 🟩near 🟩rippling 🟥through 🟩swirling 🟩dark.
+15. [0.83] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩lashing 🟩branch.
+16. [0.89] 🟩The 🟩rabbit 🟩staggers 🟧under 🟧crawling 🟩shadow.
+17. [0.93] 🟧Storm 🟩rages 🟩around 🟩trembling 🟩ridge.
+18. [0.83] 🟩The 🟩rabbit 🟧crawls 🟧past 🟩crumbling 🟩ledge.
+19. [0.83] 🟧Sudden 🟩rewind 🟩snaps 🟧through 🟧lashing 🟩branch.
+20. [0.89] 🟩The 🟩fox 🟧halts 🟩under 🟧crawling 🟩shadow.
+
+1. [0.85] 🟩He 🟧believed 🟩the 🟩caretaker 🟧closed 🟩the 🟩movement 🟩of 🟧position.
+2. [0.89] 🟥Every 🟩year, 🟩though 🟩the 🟩structure 🟩was 🟩part 🟩of 🟩position.
+3. [0.81] 🟩He 🟧believed 🟩the 🟩caretaker 🟧closed 🟩the 🟧ground.
+4. [0.94] 🟩He 🟧believed 🟩the 🟩brightness 🟩of 🟩position.
+5. [0.81] 🟩The 🟩fox 🟩halts 🟥near 🟧rippling 🟩molten 🟩shapes.
+6. [1.00] 🟩The 🟩constellations 🟩adjust 🟩themselves 🟩with 🟩memory.
+7. [0.81] 🟩The 🟩world 🟧gathers 🟩them 🟩past 🟧cracking 🟧stump.
+8. [0.81] 🟩The 🟩rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧shapes.
+9. [0.89] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩lashing 🟩branch.
+10. [0.80] 🟧Storm 🟩tears 🟩across 🟩hollow 🟧forest.
+11. [0.89] 🟩Sudden 🟧rewind 🟩snaps 🟧through 🟩lashing 🟩branch.
+12. [0.81] 🟩The 🟩rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧pool.
+13. [0.80] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟧lashing 🟩branches 🟩loosen 🟩under 🟧crawling 🟧shadow.
+14. [0.83] 🟩The 🟩rabbit 🟧slips 🟩near 🟧fractured 🟧glow.
+15. [0.87] 🟧Storm 🟩rages 🟩around 🟩trembling 🟩ridge.
+16. [0.94] 🟩The 🟩rabbit 🟩staggers 🟧under 🟩crawling 🟩shadow.
+17. [0.83] 🟧Sudden 🟩tremor 🟩snaps 🟧through 🟧trembling 🟩trio!
+18. [0.83] 🟩The 🟩rabbit 🟩flees 🟩past 🟧cracking 🟧stump.
+19. [0.81] 🟧Branches 🟥whip 🟩past 🟧drifting 🟩seconds 🟩settled 🟩around 🟩trembling 🟩clearing!
+20. [0.83] 🟩The 🟩rabbit 🟧flees 🟩past 🟧crumbling 🟩ledge.
+
+1. [0.89] 🟩He 🟧believed 🟩the 🟩caretaker 🟧closed 🟩the 🟩corner 🟩of 🟧position.
+2. [0.81] 🟩He 🟧believed 🟩the 🟩fox 🟩halts 🟩under 🟥lighting.
+3. [1.00] 🟩The 🟩observatory 🟩was 🟩already 🟩imagined.
+4. [0.81] 🟩He 🟧believed 🟩the 🟩grass, 🟩gathering 🟩quiet 🟧pulse 🟧of 🟧position.
+5. [0.86] 🟩The 🟧rabbit 🟧slips 🟩near 🟩rippling 🟩molten 🟧shapes.
+6. [0.89] 🟩The 🟩fox 🟩halts 🟩under 🟧crawling 🟩shadow.
+7. [0.89] 🟩The 🟩observatory 🟧was 🟩part 🟩of 🟧position.
+8. [0.89] 🟩The 🟧rabbit 🟧flees 🟩past 🟩crumbling 🟩ledge.
+9. [0.87] 🟩Fallen 🟩trees 🟩block 🟩narrow 🟧path.
+10. [0.81] 🟩The 🟧rabbit 🟩slips 🟩near 🟧rippling 🟩molten 🟧pool.
+11. [0.80] 🟧Storm 🟩tears 🟩across 🟩the 🟩rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧pool.
+12. [0.87] 🟧Storm 🟩rages 🟩around 🟩her 🟩hand.
+13. [0.80] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧clearing!
+14. [0.83] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟧churning 🟩insects.
+15. [0.80] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧trio!
+16. [0.83] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩lashing 🟩branch.
+17. [0.80] 🟧Storm 🟩rages 🟩around 🟩trembling 🟧shapes.
+18. [0.86] 🟧Align 🟩the 🟩fox 🟩halts 🟩under 🟧crawling 🟩shadow.
+19. [0.87] 🟧Thunder 🟩rolls 🟩through 🟩lashing 🟩branch.
+20. [0.87] 🟧Thunder 🟩rolls 🟩through 🟩swirling 🟩dark!
+
+1. [0.93] 🟩He 🟧believed 🟩the 🟩observatory 🟩was.
+2. [0.89] 🟩He 🟧believed 🟩the 🟩thought 🟩of 🟧position.
+3. [0.94] 🟩The 🟩caretaker 🟧closed 🟩the 🟩cycle 🟩again.
+4. [0.80] 🟧Distant 🟧cracking 🟩echoes 🟩of 🟩position.
+5. [0.90] 🟧He 🟩believed 🟩the 🟩rafters 🟩like 🟩a 🟧memory.
+6. [0.93] 🟩The 🟩ledger 🟧dictated 🟩the 🟩air.
+7. [0.89] 🟩The 🟩observatory 🟩was 🟩part 🟩of 🟧position.
+8. [0.80] 🟧Storm 🟧rages 🟩around 🟩broken 🟧stones.
+9. [0.81] 🟩The 🟧rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧shapes.
+10. [0.92] 🟩The 🟩rabbit 🟩slips 🟩near 🟧rippling 🟧across 🟩the 🟩interval.
+11. [0.80] 🟥Storm 🟩tears 🟩across 🟩the 🟧rabbit 🟧slips 🟩near 🟩rippling 🟩molten 🟧shapes.
+12. [0.82] 🟩The 🟩one 🟩referred 🟩to 🟧the 🟩fox 🟩halts 🟧near 🟧rippling 🟩molten 🟧shapes.
+13. [0.83] 🟩The 🟩raccoon 🟧chokes 🟩under 🟧crawling 🟩shadow.
+14. [0.83] 🟩Dust 🟩drifts 🟩upward 🟩like 🟧tiny 🟧verdicts.
+15. [0.89] 🟩The 🟩rabbit 🟧crawls 🟧past 🟩dripping 🟩water.
+16. [0.83] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟩fading 🟧along 🟧hollow 🟩trunk.
+17. [0.83] 🟧Sudden 🟩rewind 🟩snaps 🟧through 🟩lashing 🟩branch.
+18. [0.93] 🟩The 🟩raccoon 🟩drags 🟩him 🟧beyond.
+19. [0.83] 🟧Sudden 🟧screech 🟩bursts 🟩from 🟩the 🟩fox 🟩halts 🟧near 🟧rotten 🟩log!
+20. [0.89] 🟩The 🟩fox 🟧halts 🟩under 🟧crawling 🟩shadow.
+
+1. [0.86] 🟧Measure 🟩the 🟧observatory 🟩was 🟩part 🟩of 🟩position.
+2. [0.83] 🟧Cold 🟧night 🟩pressed 🟩against 🟩the 🟩raccoon 🟧drags 🟩him.
+3. [0.90] 🟩He 🟩believed 🟩the 🟩caretaker 🟧closed 🟩the 🟩floor.
+4. [0.89] 🟧Dust 🟧arranged 🟩itself 🟩into 🟩the 🟩sound.
+5. [0.87] 🟩He 🟧believed 🟩though 🟩the 🟩ground.
+6. [0.89] 🟩He 🟧believed 🟩the 🟩temperature 🟩of 🟧position.
+7. [0.81] 🟧Measure 🟩the 🟩fox 🟧halts 🟩under 🟧crawling 🟩shadow.
+8. [0.89] 🟩The 🟩dusk 🟩folded 🟩itself 🟩into 🟧stillness.
+9. [0.81] 🟩The 🟧rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟩shapes.
+10. [0.89] 🟩Sudden 🟩screech 🟩bursts 🟩from 🟧churning 🟩insects.
+11. [0.83] 🟩The 🟩ledger 🟧dictated 🟩the 🟩rabbit 🟧slips 🟩near 🟧rippling 🟩molten 🟧pool.
+12. [0.81] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟩star 🟥that 🟩line.
+13. [0.89] 🟩The 🟩rabbit 🟧crawls 🟧past 🟩dripping 🟩water.
+14. [0.89] 🟩Sudden 🟧rewind 🟩snaps 🟧through 🟩grasping 🟩canopy.
+15. [0.92] 🟩Sudden 🟧screech 🟩bursts 🟩from 🟩fading 🟧along 🟩stones 🟩gap.
+16. [0.94] 🟩The 🟩rabbit 🟩slips 🟩near 🟩fractured 🟧glow.
+17. [0.80] 🟧Storm 🟧rages 🟩around 🟩trembling 🟧shapes.
+18. [0.80] 🟥Storm 🟩rages 🟩around 🟩trembling 🟩trio!
+19. [0.87] 🟧Storm 🟩rages 🟩around 🟩trembling 🟩clearing.
+20. [0.89] 🟩Sudden 🟧tremor 🟩snaps 🟧through 🟩lashing 🟩branch.
+
