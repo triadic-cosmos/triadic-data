@@ -1,0 +1,231 @@
+﻿<SOC> <PROPN> albert <PROPN> einstein <VERB-PAST> sit <ADV> alone <ADP> at <PRONA> his <NOUN> desk <SCONJ> as <NOUN> evening <ADV> slowly <VERB-PAST> settle <ADP> over <PROPN> bern <PERIOD> <EOL>
+<ADV> outside <COMMA> <DET> the <NOUN> street <NOUN-PLURAL> lamp <VERB-PRESENT> cast <DET> a <ADJ> warm <NOUN> glow <ADP> across <DET> the <ADJ> narrow <NOUN-PLURAL> street <COMMA> <CCONJ> but <ADV> inside <COMMA> <DET> the <NOUN> room <VERB-PAST> be <ADJ> quiet <PERIOD> <EOL>
+<NOUN-PLURAL> sheet <ADP> of <NOUN> paper <NOUN> lay <VERB-PAST> scatter <ADP> across <PRONA> his <NOUN> desk <COMMA> <VERB-PAST> cover <ADP> with <NOUN-PLURAL> note <COMMA> <VERB-PRESENT-3S> sketch <COMMA> <CCONJ> and <ADJ> unfinished <NOUN-PLURAL> thought <PERIOD> <EOL>
+<ADP> during <DET> the <NOUN> day <COMMA> <PRON> he <VERB-PAST> work <ADP> at <DET> the <NOUN> patent <NOUN> office <COMMA> <VERB-ING> examine <DET> the <NOUN-PLURAL> invention <ADP> of <NOUN-PLURAL> stranger <PERIOD> <EOL>
+<DET> the <NOUN> job <VERB-PAST> pay <DET> the <NOUN-PLURAL> bill <COMMA> <CCONJ> but <PRONA> his <NOUN> mind <VERB-PAST> be <ADV> often <ADV> elsewhere <PERIOD> <EOL>
+<DET> the <NOUN> moment <PRONA> his <NOUN> workday <VERB-PAST> end <COMMA> <PRONA> his <NOUN-PLURAL> thought <VERB-PAST> return <ADP> to <DET> the <NOUN-PLURAL> mystery <ADP> of <NOUN> space <COMMA> <NOUN> time <COMMA> <CCONJ> and <ADJ> light <PERIOD> <EOL>
+<ADP> for <NOUN-PLURAL> year <COMMA> <NUM> one <NOUN> question <VERB-PAST> have <VERB-PAST> occupy <PRON> him <PERIOD> <EOL>
+<PRON> what <ADV> truly <VERB-PAST> happen <SCONJ> when <NOUN> light <VERB-PAST> move <ADP> through <DET> the <NOUN> universe <QUESTION> <EOL>
+<SCONJ> while <ADJ> many <NOUN-PLURAL> physicist <VERB-PAST> rely <ADP> on <ADJ> elaborate <NOUN-PLURAL> experiment <COMMA> <PROPN> einstein <ADV> often <VERB-PAST> trust <PRONA> his <NOUN> imagination <PERIOD> <EOL>
+<PRON> he <VERB-PAST> picture <PRON> himself <VERB-ING> ride <ADP> alongside <DET> a <NOUN> beam <ADP> of <NOUN> light <COMMA> <SCONJ> as <SCONJ> if <PRON> it <VERB-PAST> be <DET> a <NOUN> train <VERB-ING> cross <DET> the <NOUN-PLURAL> heaven <PERIOD> <EOL>
+<NUM> one <NOUN> evening <COMMA> <PRONA> his <NOUN> attention <VERB-PAST> linger <ADP> on <DET> a <ADJ> simple <NOUN> thought <NOUN> experiment <PERIOD> <EOL>
+<PRON> he <VERB-PAST> imagine <DET> an <NOUN> object <VERB-ING> emit <NOUN> light <ADP> in <ADJ> opposite <NOUN-PLURAL> direction <PERIOD> <EOL>
+<SCONJ> as <PRON> he <VERB-PAST> follow <DET> the <NOUN> idea <ADP> to <PRONA> its <NOUN> conclusion <COMMA> <DET> an <ADJ> unexpected <NOUN> realization <VERB-PAST> begin <PART> to <VERB-PRESENT> take <NOUN> shape <PERIOD> <EOL>
+<SCONJ> if <ADJ> light <VERB-PAST> carry <NOUN> energy <COMMA> <CCONJ> and <NOUN> energy <VERB-PAST> be <DET> a <ADJ> real <ADJ> physical <NOUN> property <COMMA> <ADV> then <VERB-INGV> emit <NOUN> light <VERB-PRESENT-3S> must <ADV> somehow <VERB-PRESENT> affect <DET> the <NOUN> object <PRON> itself <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> rise <ADP> from <PRONA> his <NOUN> chair <CCONJ> and <VERB-PAST> pace <ADV> slowly <ADP> across <DET> the <NOUN> room <PERIOD> <EOL>
+<DET> the <NOUN> thought <VERB-PAST> refuse <PART> to <VERB-PRESENT> leave <PRON> him <PERIOD> <EOL>
+<PRON> it <VERB-PAST> feel <SCONJ> as <SCONJ> though <NOUN-PLURAL> piece <ADP> of <DET> a <NOUN> puzzle <COMMA> <VERB-PAST> scatter <ADP> across <NOUN-PLURAL> year <ADP> of <NOUN> reflection <COMMA> <VERB-PAST> be <ADV> finally <VERB-INGV> begin <PART> to <VERB-PRESENT> fit <ADV> together <PERIOD> <EOL>
+<NOUN> energy <VERB-PAST> be <ADV> perhaps <PART> not <ADV> merely <PRON> something <PRON> that <VERB-PRESENT-3S> matter <VERB-PAST> possess <PERIOD> <EOL>
+<ADV> perhaps <PRON> it <VERB-PAST> be <PRON> something <ADV> far <ADV> more <ADJ> fundamental <PERIOD> <EOL>
+<NOUN-PLURAL> hour <VERB-PAST> pass <SCONJ> as <PRON> he <VERB-PAST> explore <DET> the <NOUN-PLURAL> implication <PERIOD> <EOL>
+<DET> every <ADJ> few <NOUN-PLURAL> minute <PRON> he <VERB-PAST> return <ADP> to <PRONA> his <NOUN> desk <PART> to <VERB-PRESENT> write <DET> a <NOUN> note <COMMA> <ADV> only <PART> to <VERB-PRESENT> cross <PRON> it <ADP> out <NOUN-PLURAL> moment <ADV> later <PERIOD> <EOL>
+<CCONJ> yet <DET> the <NOUN> picture <VERB-PAST> become <ADJ> clearer <ADP> with <DET> each <VERB-ING> pass <NOUN> thought <PERIOD> <EOL>
+<NOUN> matter <CCONJ> and <NOUN> energy <VERB-PRESENT-3S> might <PART> not <VERB-PRESENT> be <ADJ> separate <NOUN-PLURAL> thing <ADV> at <ADV> all <PERIOD> <EOL>
+<PRON> they <VERB-PRESENT> could <VERB-PRESENT> be <ADJ> different <NOUN-PLURAL> expression <ADP> of <DET> the <ADJ> same <ADJ> underlying <NOUN> reality <PERIOD> <EOL>
+<ADP> near <NOUN> midnight <COMMA> <DET> a <NOUN> sense <ADP> of <NOUN> excitement <VERB-PAST> begin <PART> to <VERB-PRESENT> grow <ADP> within <PRON> him <PERIOD> <EOL>
+<VERB-ING> look <ADP> down <ADP> at <PRONA> his <NOUN-PLURAL> note <COMMA> <PRON> he <VERB-PAST> realize <PRON> he <VERB-PAST> have <VERB-PAST> reach <DET> a <ADJ> remarkable <NOUN> conclusion <PERIOD> <EOL>
+<ADV> even <DET> a <ADJ> tiny <NOUN> amount <ADP> of <NOUN> matter <VERB-PAST> represent <DET> an <ADJ> immense <NOUN> quantity <ADP> of <NOUN> energy <PERIOD> <EOL>
+<PRON> what <NOUN-PLURAL> people <VERB-PAST> regard <ADP> as <ADJ> solid <NOUN> mass <VERB-PAST> conceal <DET> a <ADJ> vast <NOUN> reservoir <ADP> of <NOUN> power <PERIOD> <EOL>
+<ADP> for <DET> a <NOUN> moment <PRON> he <VERB-PAST> forget <DET> the <ADJ> cold <NOUN> room <COMMA> <DET> the <ADJ> late <NOUN> hour <COMMA> <CCONJ> and <DET> the <NOUN> fatigue <ADP> in <PRONA> his <NOUN-PLURAL> eye <PERIOD> <EOL>
+<PRON> he <VERB-PAST> see <ADV> only <DET> the <NOUN> elegance <ADP> of <DET> the <NOUN> idea <ADP> before <PRON> him <PERIOD> <EOL>
+<PROPN> nature <COMMA> <PRON> which <ADV> so <ADV> often <VERB-PAST> appear <ADV> bewilderingly <ADJ> complex <COMMA> <VERB-PAST> seem <PART> to <VERB-PRESENT> reveal <DET> a <ADJ> hidden <NOUN> simplicity <PERIOD> <EOL>
+<DET> a <ADJ> faint <NOUN> smile <VERB-PAST> cross <PRONA> his <NOUN> face <PERIOD> <EOL>
+<PRON> he <VERB-PAST> know <DET> the <NOUN> work <VERB-PAST> be <PART> not <VERB-PAST> finish <PERIOD> <EOL>
+<NOUN-PLURAL> argument <VERB-PRESENT> would <VERB-PRESENT> need <NOUN> refining <PERIOD> <EOL>
+<NOUN-PLURAL> calculation <VERB-PRESENT> would <VERB-PRESENT> need <NOUN> checking <PERIOD> <EOL>
+<CCONJ> but <PRON> he <ADV> also <VERB-PAST> know <SCONJ> that <PRON> he <VERB-PAST> have <VERB-PAST> uncover <PRON> something <ADJ> profound <PERIOD> <EOL>
+<DET> the <NOUN> city <VERB-PAST> sleep <ADV> peacefully <ADV> outside <COMMA> <ADJ> unaware <ADP> of <DET> the <NOUN> discovery <VERB-ING> take <NOUN> shape <ADP> in <DET> a <ADJ> modest <NOUN> apartment <PERIOD> <EOL>
+<VERB-PERFECT> seat <ADP> at <PRONA> his <NOUN> desk <COMMA> <PROPN> einstein <VERB-PAST> sense <SCONJ> that <PRON> he <VERB-PAST> have <VERB-PAST> find <DET> a <ADJ> new <NOUN> way <ADP> of <VERB-INGV> look <ADP> at <DET> the <NOUN> universe <PERIOD> <EOL>
+<NOUN> matter <CCONJ> and <NOUN> energy <VERB-PAST> be <PART> not <NOUN-PLURAL> stranger <ADP> to <NUM> one <DET> another <PERIOD> <EOL>
+<PRON> they <VERB-PAST> have <ADV> always <VERB-PAST> be <NOUN> part <ADP> of <DET> the <ADJ> same <NOUN> story <PERIOD> <EOL>
+<DET> the <NOUN> insight <VERB-PRESENT-3S> would <ADV> eventually <VERB-PRESENT> travel <ADV> far <ADP> beyond <DET> the <NOUN-PLURAL> wall <ADP> of <PRONA> his <ADJ> small <NOUN> room <PERIOD> <EOL>
+<PRON> it <VERB-PRESENT-3S> would <VERB-PRESENT> reshape <NOUN-PLURAL> physic <COMMA> <VERB-PRESENT> alter <NOUN> humanity <PART> 's <NOUN> understanding <ADP> of <NOUN> nature <COMMA> <CCONJ> and <VERB-PRESENT> become <NUM> one <ADP> of <DET> the <ADV> most <ADJ> famous <ADJ> scientific <NOUN-PLURAL> idea <ADV> ever <VERB-PAST> conceive <PERIOD> <EOL>
+<CCONJ> yet <ADP> on <DET> that <ADJ> quiet <NOUN> night <ADP> in <PROPN> bern <COMMA> <PRON> it <VERB-PAST> be <ADV> simply <DET> a <NOUN> scientist <COMMA> <DET> a <NOUN> desk <VERB-PAST> cover <ADP> in <NOUN-PLURAL> paper <COMMA> <CCONJ> and <DET> a <ADJ> beautiful <NOUN> idea <ADV> slowly <VERB-INGV> reveal <PRON> itself <ADP> to <DET> the <NOUN> world <PERIOD> <EOL>
+<SOC> <PROPN> albert <PROPN> einstein <VERB-PAST> lean <ADV> back <ADP> in <PRONA> his <NOUN> chair <CCONJ> and <VERB-PAST> stare <ADP> through <DET> the <NOUN> window <ADP> of <PRONA> his <ADJ> small <NOUN> apartment <ADP> in <PROPN> bern <PERIOD> <EOL>
+<DET> the <NOUN> city <VERB-PAST> be <ADJ> quiet <ADP> beneath <DET> the <NOUN> evening <NOUN> sky <COMMA> <CCONJ> but <PRONA> his <NOUN> mind <VERB-PAST> be <PRON> anything <SCONJ> but <NOUN> calm <PERIOD> <EOL>
+<ADP> for <NOUN-PLURAL> year <COMMA> <DET> a <ADJ> single <NOUN> question <VERB-PAST> have <VERB-PAST> follow <PRON> him <SCONJ> wherever <PRON> he <VERB-PAST> go <PERIOD> <EOL>
+<PRON> what <VERB-PRESENT-3S> would <VERB-PRESENT> happen <SCONJ> if <PRON> he <VERB-PRESENT-3S> could <VERB-PRESENT> travel <ADP> alongside <DET> a <NOUN> beam <ADP> of <NOUN> light <QUESTION> <EOL>
+<DET> the <NOUN> thought <VERB-PAST> seem <ADJ> simple <COMMA> <ADV> almost <ADJ> childish <COMMA> <CCONJ> yet <PRON> it <VERB-PAST> refuse <PART> to <VERB-PRESENT> leave <PRON> him <PERIOD> <EOL>
+<SCONJ> since <PRONA> his <ADJ> teenage <NOUN-PLURAL> year <COMMA> <PRON> he <VERB-PAST> have <VERB-PAST> imagine <VERB-INGV> chase <DET> a <NOUN> ray <ADP> of <NOUN> light <ADP> through <NOUN> space <PERIOD> <EOL>
+<SCONJ> if <PRON> he <VERB-PRESENT-3S> could <VERB-PRESENT> catch <ADP> up <ADP> to <PRON> it <COMMA> <VERB-PRESENT-3S> would <DET> the <NOUN> light <VERB-PRESENT> appear <ADJ> frozen <ADP> beside <PRON> him <QUESTION> <EOL>
+<NOUN-PLURAL> would <PRON> it <VERB-PRESENT> stand <ADV> still <ADP> like <DET> a <VERB-PERFECT> paint <NOUN> image <VERB-PAST> suspend <ADP> in <DET> the <NOUN> air <QUESTION> <EOL>
+<PRON> the <ADV> more <PRON> he <VERB-PAST> think <ADP> about <PRON> it <COMMA> <PRON> the <ADV> more <ADJ> troubling <DET> the <NOUN> question <VERB-PAST> become <PERIOD> <EOL>
+<VERB-ING> accord <ADP> to <DET> the <ADJ> accepted <NOUN-PLURAL> law <ADP> of <NOUN-PLURAL> physic <COMMA> <DET> such <DET> a <NOUN> situation <VERB-PAST> seem <ADJ> possible <PERIOD> <EOL>
+<CCONJ> yet <PROPN> maxwell <PART> 's <NOUN-PLURAL> equation <COMMA> <PRON> which <VERB-PAST> describe <NOUN> electricity <CCONJ> and <NOUN> light <ADV> so <ADV> beautifully <COMMA> <VERB-PAST> suggest <PRON> something <ADV> very <ADJ> different <PERIOD> <EOL>
+<PROPN> light <ADV> always <VERB-PAST> seem <PART> to <VERB-PRESENT> move <ADP> at <PRONA> its <ADJ> own <NOUN> speed <COMMA> <ADV> regardless <ADP> of <NOUN> circumstance <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> feel <SCONJ> as <SCONJ> though <NUM> two <ADJ> great <NOUN-PLURAL> pillar <ADP> of <NOUN> science <VERB-PAST> be <ADP> in <ADJ> quiet <NOUN> conflict <PERIOD> <EOL>
+<ADP> during <DET> the <NOUN> day <COMMA> <PRON> he <VERB-PAST> work <ADP> among <NOUN> patent <NOUN-PLURAL> application <CCONJ> and <ADJ> technical <NOUN-PLURAL> diagram <PERIOD> <EOL>
+<NOUN-PLURAL> inventor <VERB-PAST> bring <PRON> him <NOUN-PLURAL> machine <COMMA> <VERB-PRESENT-3S> clock <COMMA> <ADJ> electrical <NOUN-PLURAL> system <COMMA> <CCONJ> and <ADJ> ingenious <NOUN-PLURAL> mechanism <PERIOD> <EOL>
+<ADJ> many <ADP> of <PRON> them <VERB-PAST> deal <ADP> with <VERB-INGV> measure <NOUN> time <PERIOD> <EOL>
+<ADV> unknowingly <COMMA> <PRON> they <VERB-PAST> feed <DET> the <NOUN-PLURAL> question <PRON> that <VERB-PAST> occupy <PRONA> his <NOUN-PLURAL> evening <PERIOD> <EOL>
+<ADV> again <CCONJ> and <ADV> again <COMMA> <PROPN> einstein <VERB-PAST> return <ADP> to <DET> the <NOUN> problem <PERIOD> <EOL>
+<ADV> perhaps <COMMA> <PRON> he <VERB-PAST> wonder <COMMA> <DET> the <NOUN> issue <VERB-PAST> be <PART> not <ADP> with <NOUN> light <PERIOD> <EOL>
+<ADV> perhaps <DET> the <NOUN> issue <VERB-PAST> be <ADP> with <NOUN> time <PRON> itself <PERIOD> <EOL>
+<DET> the <NOUN> idea <VERB-PAST> be <ADJ> unsettling <PERIOD> <EOL>
+<NOUN> time <VERB-PAST> be <VERB-PAST> suppose <PART> to <VERB-PRESENT> be <ADJ> universal <PERIOD> <EOL>
+<DET> every <NOUN> clock <VERB-PRESENT-3S> should <VERB-PRESENT> march <ADV> forward <ADP> in <ADJ> perfect <NOUN> step <ADP> with <DET> every <ADJ> other <NOUN> clock <PERIOD> <EOL>
+<PRON> it <VERB-PAST> be <NUM> one <ADP> of <DET> the <NOUN-PLURAL> assumption <PRON> that <NOUN-PLURAL> scientist <ADV> barely <VERB-PAST> question <PERIOD> <EOL>
+<CCONJ> yet <PROPN> einstein <VERB-PAST> begin <PART> to <VERB-PRESENT> question <PRON> it <PERIOD> <EOL>
+<PRON> he <VERB-PAST> imagine <NOUN-PLURAL> observer <VERB-ING> move <ADJ> relative <ADP> to <NUM> one <DET> another <PERIOD> <EOL>
+<PRON> he <VERB-PAST> imagine <NOUN-PLURAL> train <VERB-ING> race <ADP> along <NOUN-PLURAL> track <CCONJ> and <NOUN> lightning <VERB-ING> strike <ADJ> distant <NOUN-PLURAL> location <PERIOD> <EOL>
+<NOUN-PLURAL> observer <VERB-ING> watch <DET> the <ADJ> same <NOUN> event <VERB-PRESENT> could <VERB-PRESENT> disagree <ADP> about <PRON> what <VERB-PAST> happen <ADV> first <PERIOD> <EOL>
+<PRON> what <VERB-PAST> seem <ADJ> simultaneous <ADP> to <NUM> one <NOUN> person <VERB-PRESENT-3S> might <PART> not <VERB-PRESENT> appear <ADJ> simultaneous <ADP> to <PRON> another <PERIOD> <EOL>
+<ADP> at <ADV> first <DET> the <NOUN-PLURAL> implication <VERB-PAST> feel <ADJ> absurd <PERIOD> <EOL>
+<CCONJ> but <DET> each <NOUN> time <PRON> he <VERB-PAST> follow <DET> the <NOUN> logic <COMMA> <PRON> he <VERB-PAST> arrive <ADP> at <DET> the <ADJ> same <NOUN> conclusion <PERIOD> <EOL>
+<NOUN> nature <VERB-PAST> do <PART> not <VERB-PRESENT> seem <ADJ> interested <ADP> in <VERB-INGV> preserve <ADJ> absolute <NOUN> time <PERIOD> <EOL>
+<NUM> one <NOUN> evening <COMMA> <PRON> he <VERB-PAST> walk <ADP> through <DET> the <NOUN-PLURAL> street <ADP> of <PROPN> bern <ADP> with <PRONA> his <NOUN> friend <PROPN> michele <PROPN> besso <PERIOD> <EOL>
+<SCONJ> as <PRON> they <VERB-PAST> talk <COMMA> <PROPN> einstein <VERB-PAST> describe <DET> the <NOUN> problem <PRON> that <VERB-PAST> have <VERB-PAST> consume <PRON> him <ADP> for <NOUN-PLURAL> year <PERIOD> <EOL>
+<DET> the <NOUN> discussion <VERB-PAST> continue <ADV> late <ADP> into <DET> the <NOUN> evening <PERIOD> <EOL>
+<ADV> later <COMMA> <VERB-INGV> return <ADV> home <ADV> alone <COMMA> <PRON> he <VERB-PAST> feel <DET> a <ADJ> sudden <NOUN> clarity <VERB-ING> emerge <ADP> from <DET> the <NOUN> confusion <PERIOD> <EOL>
+<SCONJ> if <DET> the <NOUN> speed <ADP> of <NOUN> light <VERB-PAST> remain <DET> the <ADJ> same <ADP> for <DET> every <NOUN> observer <COMMA> <ADV> then <NOUN> space <CCONJ> and <NOUN> time <PRON> themselves <VERB-PRESENT> would <VERB-PRESENT> have <PART> to <VERB-PRESENT> adjust <PERIOD> <EOL>
+<PART> not <ADJ> light <PERIOD> <EOL>
+<PART> not <DET> the <NOUN-PLURAL> law <ADP> of <NOUN> nature <PERIOD> <EOL>
+<NOUN> space <CCONJ> and <NOUN> time <PERIOD> <EOL>
+<DET> the <NOUN> realization <VERB-PAST> be <VERB-INGV> breathtake <PERIOD> <EOL>
+<NOUN-PLURAL> length <VERB-PRESENT> could <VERB-PRESENT> vary <PERIOD> <EOL>
+<NOUN-PLURAL> duration <VERB-PRESENT> could <VERB-PRESENT> vary <PERIOD> <EOL>
+<NUM> two <NOUN-PLURAL> observer <VERB-PRESENT> could <VERB-PRESENT> measure <ADJ> different <NOUN-PLURAL> interval <CCONJ> and <PRON> both <VERB-PRESENT-3S> be <ADJ> correct <PERIOD> <EOL>
+<DET> the <NOUN> universe <VERB-PAST> be <ADJ> stranger <SCONJ> than <PRON> anyone <VERB-PAST> have <VERB-PAST> imagine <PERIOD> <EOL>
+<ADP> for <NOUN-PLURAL> week <PRON> he <VERB-PAST> work <ADV> tirelessly <COMMA> <VERB-INGV> fill <NOUN-PLURAL> page <ADP> with <NOUN-PLURAL> argument <CCONJ> and <VERB-PAST> think <NOUN-PLURAL> experiment <PERIOD> <EOL>
+<NOUN-PLURAL> train <COMMA> <VERB-PRESENT-3S> clock <COMMA> <VERB-PRESENT-3S> mirror <COMMA> <CCONJ> and <VERB-PRESENT-3S> flash <ADP> of <NOUN> light <VERB-PAST> become <NOUN-PLURAL> tool <ADP> for <VERB-INGV> explore <DET> the <ADJ> hidden <NOUN> structure <ADP> of <NOUN> reality <PERIOD> <EOL>
+<ADV> gradually <COMMA> <DET> an <ADJ> elegant <NOUN> framework <VERB-PAST> emerge <PERIOD> <EOL>
+<DET> the <NOUN-PLURAL> contradiction <VERB-PAST> vanish <PERIOD> <EOL>
+<DET> the <NOUN-PLURAL> piece <VERB-PRESENT> fit <ADV> together <PERIOD> <EOL>
+<PRON> what <VERB-PAST> have <ADV> once <VERB-PERFECT> seem <ADJ> impossible <ADV> now <VERB-PAST> appear <ADJ> inevitable <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> sit <ADV> quietly <ADP> at <PRONA> his <NOUN> desk <NUM> one <NOUN> night <COMMA> <VERB-ING> review <DET> the <NOUN-PLURAL> page <ADP> before <PRON> him <PERIOD> <EOL>
+<PRON> there <VERB-PAST> be <DET> no <ADJ> dramatic <NOUN> celebration <COMMA> <DET> no <NOUN> crowd <VERB-ING> await <DET> the <NOUN> discovery <PERIOD> <EOL>
+<ADV> only <DET> a <ADJ> young <NOUN> patent <NOUN> clerk <COMMA> <DET> a <NOUN> stack <ADP> of <NOUN-PLURAL> paper <COMMA> <CCONJ> and <DET> a <ADJ> profound <ADJ> new <NOUN> vision <ADP> of <DET> the <NOUN> universe <PERIOD> <EOL>
+<NOUN> time <VERB-PAST> be <PART> not <ADJ> absolute <PERIOD> <EOL>
+<NOUN> space <VERB-PAST> be <PART> not <ADJ> absolute <PERIOD> <EOL>
+<PRON> they <VERB-PAST> be <VERB-PAST> weave <ADV> together <ADP> into <PRON> something <ADJ> deeper <PERIOD> <EOL>
+<DET> the <ADJ> next <NOUN> year <COMMA> <PRONA> his <NOUN> work <VERB-PRESENT-3S> would <VERB-PRESENT> be <VERB-PAST> publish <CCONJ> and <VERB-PRESENT> begin <PRONA> its <ADJ> slow <NOUN> journey <ADP> through <DET> the <ADJ> scientific <NOUN> world <PERIOD> <EOL>
+<ADJ> many <NOUN-PLURAL> would <VERB-PRESENT> struggle <PART> to <VERB-PRESENT> believe <PRON> it <PERIOD> <EOL>
+<NOUN-PLURAL> other <VERB-PRESENT> would <VERB-PRESENT> spend <NOUN-PLURAL> year <VERB-ING> understand <PRONA> its <NOUN-PLURAL> consequence <PERIOD> <EOL>
+<CCONJ> but <ADP> on <DET> that <ADJ> quiet <NOUN> evening <ADP> in <PROPN> bern <COMMA> <NOUN> none <ADP> of <PRON> that <VERB-PAST> matter <PERIOD> <EOL>
+<PROPN> einstein <ADV> simply <VERB-PAST> sit <CCONJ> and <VERB-PAST> reflect <ADP> on <DET> the <ADJ> strange <NOUN> path <PRON> that <VERB-PAST> have <VERB-PAST> lead <PRON> him <ADV> there <PERIOD> <EOL>
+<DET> a <NOUN> question <PRON> that <VERB-PAST> have <VERB-PAST> begin <ADP> with <DET> a <NOUN> boy <VERB-ING> imagine <DET> a <NOUN> race <ADP> against <DET> a <NOUN> beam <ADP> of <NOUN> light <VERB-PAST> have <VERB-PAST> grow <ADP> into <DET> a <ADJ> new <NOUN> understanding <ADP> of <NOUN> reality <PRON> itself <PERIOD> <EOL>
+<CCONJ> and <DET> the <NOUN> universe <VERB-PRESENT-3S> would <ADV> never <VERB-PRESENT> look <DET> the <ADJ> same <ADV> again <PERIOD> <EOL>
+<SOC> <PROPN> albert <PROPN> einstein <VERB-PAST> stand <ADP> by <DET> the <NOUN> window <ADP> of <PRONA> his <NOUN> office <ADP> in <PROPN> berlin <COMMA> <VERB-ING> watch <NOUN> snow <NOUN> drift <ADV> quietly <ADP> through <DET> the <NOUN> winter <NOUN> air <PERIOD> <EOL>
+<ADJ> more <ADP> than <DET> a <NOUN> decade <VERB-PAST> have <VERB-PAST> pass <SCONJ> since <PRON> he <VERB-PAST> have <VERB-PAST> develop <ADJ> special <NOUN> relativity <COMMA> <CCONJ> yet <DET> another <NOUN> mystery <ADV> now <VERB-PAST> occupy <PRONA> his <NOUN-PLURAL> thought <PERIOD> <EOL>
+<ADJ> special <NOUN> relativity <VERB-PAST> have <VERB-PAST> transform <DET> the <NOUN> understanding <ADP> of <NOUN> space <CCONJ> and <NOUN> time <COMMA> <CCONJ> but <PRON> something <ADJ> important <VERB-PAST> be <ADV> still <VERB-INGV> miss <PERIOD> <EOL>
+<NOUN> gravity <PERIOD> <EOL>
+<DET> the <NOUN> force <PRON> that <VERB-PAST> govern <VERB-INGV> fall <NOUN-PLURAL> apple <COMMA> <VERB-ING> orbit <NOUN-PLURAL> planet <COMMA> <CCONJ> and <DET> the <NOUN> motion <ADP> of <NOUN-PLURAL> star <VERB-PAST> seem <ADV> strangely <ADJ> disconnected <ADP> from <DET> the <ADJ> elegant <NOUN-PLURAL> principle <PRON> he <VERB-PAST> have <VERB-PAST> discover <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> be <VERB-PAST> convince <SCONJ> that <NOUN> nature <VERB-PRESENT-3S> would <ADV> never <VERB-PRESENT> tolerate <DET> such <DET> a <NOUN> division <PERIOD> <EOL>
+<ADV> somewhere <COMMA> <VERB-PERFECT> hide <ADP> beneath <DET> the <NOUN-PLURAL> equation <COMMA> <DET> a <ADJ> deeper <NOUN> truth <VERB-PAST> wait <PART> to <VERB-PRESENT> be <VERB-PAST> uncover <PERIOD> <EOL>
+<ADP> for <NOUN-PLURAL> year <PRON> he <VERB-PAST> wrestle <ADP> with <DET> the <NOUN> problem <PERIOD> <EOL>
+<NUM> one <NOUN> afternoon <COMMA> <SCONJ> while <VERB-ING> reflect <ADP> on <DET> a <ADJ> simple <NOUN> thought <NOUN> experiment <COMMA> <PRON> he <VERB-PAST> recall <PRON> what <PRON> he <VERB-PRESENT-3S> would <ADV> later <VERB-PRESENT> describe <ADP> as <DET> the <ADJ> happiest <NOUN> idea <ADP> of <PRONA> his <NOUN> life <PERIOD> <EOL>
+<VERB-PRESENT> imagine <DET> a <NOUN> man <VERB-ING> fall <ADP> from <DET> a <NOUN> roof <PERIOD> <EOL>
+<SCONJ> as <DET> the <NOUN> man <VERB-PRESENT-3S> fall <COMMA> <PRON> anything <VERB-PAST> release <ADP> beside <PRON> him <VERB-PRESENT-3S> fall <ADP> at <ADV> exactly <DET> the <ADJ> same <NOUN> rate <PERIOD> <EOL>
+<ADP> for <DET> a <ADJ> brief <NOUN> moment <COMMA> <NOUN-PLURAL> object <VERB-PRESENT> appear <PART> to <VERB-PRESENT> float <ADP> beside <PRON> him <PERIOD> <EOL>
+<ADP> inside <DET> that <ADJ> tiny <VERB-ING> fall <NOUN> world <COMMA> <NOUN> gravity <VERB-PRESENT-3S> seem <PART> to <VERB-PRESENT> vanish <PERIOD> <EOL>
+<DET> the <NOUN> insight <VERB-PAST> strike <PROPN> einstein <ADP> with <ADJ> unusual <NOUN> force <PERIOD> <EOL>
+<ADV> perhaps <NOUN> gravity <VERB-PAST> be <PART> not <DET> a <NOUN> force <ADP> in <DET> the <ADJ> ordinary <NOUN> sense <ADV> at <ADV> all <PERIOD> <EOL>
+<ADV> perhaps <PRON> something <ADV> more <ADJ> profound <VERB-PAST> be <VERB-INGV> happen <PERIOD> <EOL>
+<DET> the <NOUN> idea <VERB-PAST> become <DET> an <NOUN> obsession <PERIOD> <EOL>
+<PRONA> his <VERB-PRESENT-3S> notebook <VERB-PAST> fill <ADP> with <NOUN-PLURAL> sketch <COMMA> <VERB-PRESENT-3S> calculation <COMMA> <CCONJ> and <VERB-PERFECT> abandon <VERB-PRESENT-3S> attempt <PERIOD> <EOL>
+<NOUN-PLURAL> day <VERB-PAST> turn <ADP> into <NOUN-PLURAL> month <PERIOD> <EOL>
+<NOUN-PLURAL> month <VERB-PAST> become <NOUN-PLURAL> year <PERIOD> <EOL>
+<NOUN> time <CCONJ> and <ADV> again <PRON> he <VERB-PAST> think <PRON> he <VERB-PAST> have <VERB-PAST> find <DET> the <NOUN> solution <COMMA> <ADV> only <PART> to <VERB-PRESENT> discover <NOUN-PLURAL> contradiction <VERB-ING> hide <ADP> in <DET> the <NOUN-PLURAL> detail <PERIOD> <EOL>
+<NOUN-PLURAL> friend <CCONJ> and <VERB-PRESENT-3S> colleague <VERB-PAST> watch <SCONJ> as <PRON> he <VERB-PAST> disappear <ADV> deeper <ADP> into <DET> the <NOUN> problem <PERIOD> <EOL>
+<ADV> sometimes <PRON> he <VERB-PRESENT-3S> would <VERB-PRESENT> pace <ADV> endlessly <ADP> around <PRONA> his <NOUN> room <PERIOD> <EOL>
+<ADV> sometimes <PRON> he <VERB-PRESENT-3S> would <VERB-PRESENT> stare <ADV> silently <ADP> at <DET> a <NOUN> page <ADP> for <NOUN-PLURAL> hour <PERIOD> <EOL>
+<ADP> at <ADJ> other <NOUN-PLURAL> time <PRON> he <VERB-PRESENT-3S> would <ADV> excitedly <VERB-PRESENT> explain <DET> a <ADJ> new <NOUN> breakthrough <COMMA> <ADV> only <PART> to <VERB-PRESENT> return <NOUN-PLURAL> week <ADV> later <VERB-INGV> admit <PRON> it <VERB-PAST> have <VERB-PAST> be <ADJ> wrong <PERIOD> <EOL>
+<CCONJ> yet <PRON> he <VERB-PAST> refuse <PART> to <VERB-PRESENT> abandon <DET> the <NOUN> search <PERIOD> <EOL>
+<ADV> gradually <DET> a <ADJ> new <NOUN> picture <ADP> of <DET> the <NOUN> universe <VERB-PAST> begin <PART> to <VERB-PRESENT> emerge <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> imagine <NOUN> space <PART> not <ADP> as <DET> an <ADJ> empty <NOUN> stage <SCONJ> upon <PRON> which <NOUN-PLURAL> event <VERB-PAST> unfold <COMMA> <CCONJ> but <ADP> as <PRON> something <ADJ> dynamic <CCONJ> and <ADJ> alive <PERIOD> <EOL>
+<ADJ> massive <NOUN-PLURAL> body <ADJ> such <ADP> as <NOUN-PLURAL> star <CCONJ> and <VERB-PRESENT-3S> planet <VERB-PAST> seem <PART> to <VERB-PRESENT> alter <DET> the <ADJ> very <NOUN> structure <ADP> of <DET> the <NOUN> space <ADP> around <PRON> them <PERIOD> <EOL>
+<DET> a <NOUN> planet <VERB-ING> orbit <DET> a <NOUN> star <ADV> no <ADV> longer <VERB-PAST> need <DET> an <ADJ> invisible <NOUN> force <VERB-ING> pull <PRON> it <ADV> inward <PERIOD> <EOL>
+<ADV> instead <COMMA> <PRON> it <VERB-PAST> follow <DET> the <ADJ> natural <NOUN-PLURAL> contour <ADP> of <DET> a <ADJ> cosmic <NOUN> landscape <DET> whose <NOUN> shape <VERB-PAST> have <VERB-PERFECT> be <VERB-PAST> alter <ADP> by <NOUN> mass <PRON> itself <PERIOD> <EOL>
+<DET> the <NOUN> image <VERB-PAST> fascinate <PRON> him <PERIOD> <EOL>
+<NOUN> space <CCONJ> and <NOUN> time <COMMA> <ADV> once <ADJ> separate <NOUN-PLURAL> concept <COMMA> <VERB-PAST> merge <ADP> into <DET> a <ADJ> single <NOUN> fabric <VERB-ING> stretch <ADP> across <DET> the <NOUN> universe <PERIOD> <EOL>
+<PROPN> matter <VERB-PAST> tell <DET> that <NOUN> fabric <SCONJ> how <PART> to <VERB-PRESENT> bend <PERIOD> <EOL>
+<DET> the <NOUN> bending <ADP> of <DET> the <NOUN> fabric <VERB-PAST> guide <DET> the <NOUN> motion <ADP> of <NOUN> matter <PERIOD> <EOL>
+<DET> the <NOUN> simplicity <ADP> of <DET> the <NOUN> idea <VERB-PAST> be <ADJ> beautiful <PERIOD> <EOL>
+<DET> the <NOUN-PLURAL> mathematic <COMMA> <ADV> however <COMMA> <VERB-PAST> be <DET> another <NOUN> story <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> find <PRON> himself <VERB-ING> confront <ADJ> unfamiliar <NOUN-PLURAL> branch <ADP> of <NOUN> geometry <CCONJ> and <NOUN> tensor <VERB-PRESENT-3S> calculus <PERIOD> <EOL>
+<ADJ> entire <NOUN-PLURAL> week <VERB-PAST> pass <ADP> with <ADJ> little <NOUN> progress <PERIOD> <EOL>
+<ADV> often <PRON> he <VERB-PAST> doubt <PRON> himself <PERIOD> <EOL>
+<DET> the <NOUN> mountain <ADP> before <PRON> him <VERB-PAST> seem <ADV> impossibly <ADJ> steep <PERIOD> <EOL>
+<CCONJ> yet <DET> each <NOUN> setback <VERB-PAST> reveal <DET> another <NOUN> piece <ADP> of <DET> the <NOUN> puzzle <PERIOD> <EOL>
+<ADV> slowly <COMMA> <ADV> patiently <COMMA> <PRON> he <VERB-PAST> climb <PERIOD> <EOL>
+<ADV> finally <COMMA> <ADP> after <NOUN-PLURAL> year <ADP> of <NOUN> struggle <COMMA> <DET> the <NOUN> theory <VERB-PAST> begin <PART> to <VERB-PRESENT> take <PRONA> its <ADJ> final <NOUN> form <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> sit <VERB-INGV> review <DET> the <NOUN-PLURAL> page <ADP> before <PRON> him <PERIOD> <EOL>
+<DET> the <NOUN-PLURAL> equation <ADV> now <VERB-PAST> possess <DET> a <NOUN> harmony <SCONJ> that <ADJ> earlier <NOUN-PLURAL> version <VERB-PAST> have <VERB-PAST> lack <PERIOD> <EOL>
+<ADV> more <ADV> importantly <COMMA> <PRON> they <VERB-PAST> explain <DET> a <ADJ> small <NOUN> anomaly <ADP> in <DET> the <NOUN> orbit <ADP> of <PROPN> mercury <PRON> that <VERB-PAST> have <VERB-PAST> puzzle <NOUN-PLURAL> astronomer <ADP> for <NOUN-PLURAL> decade <PERIOD> <EOL>
+<SCONJ> when <DET> the <NOUN> calculation <VERB-PAST> come <ADP> out <ADV> correctly <COMMA> <PRON> he <VERB-PRESENT-3S> could <ADV> hardly <VERB-PRESENT> contain <PRONA> his <NOUN> excitement <PERIOD> <EOL>
+<ADP> at <ADV> last <COMMA> <DET> the <NOUN-PLURAL> piece <VERB-PRESENT> fit <ADV> together <PERIOD> <EOL>
+<DET> the <NOUN> universe <VERB-PAST> be <PART> not <VERB-PAST> govern <ADP> by <NOUN> gravity <VERB-ING> act <ADP> through <ADJ> empty <NOUN> space <PERIOD> <EOL>
+<ADV> rather <COMMA> <NOUN> gravity <VERB-PAST> emerge <ADP> from <DET> the <NOUN> geometry <ADP> of <PROPN> spacetime <PRON> itself <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> lean <ADV> back <ADP> in <PRONA> his <NOUN> chair <COMMA> <ADJ> exhausted <CCONJ> but <ADV> deeply <ADJ> satisfied <PERIOD> <EOL>
+<DET> the <NOUN> journey <VERB-PAST> have <VERB-PAST> consume <NOUN-PLURAL> year <ADP> of <ADJ> relentless <NOUN> effort <COMMA> <ADJ> false <NOUN-PLURAL> start <COMMA> <CCONJ> and <NOUN> uncertainty <PERIOD> <EOL>
+<ADJ> many <NOUN-PLURAL> time <PRON> he <VERB-PAST> have <VERB-PAST> wonder <SCONJ> whether <PRON> he <VERB-PRESENT-3S> would <ADV> ever <VERB-PRESENT> reach <DET> the <NOUN> end <PERIOD> <EOL>
+<ADV> now <PRON> he <VERB-PAST> see <DET> the <NOUN> path <ADV> clearly <PERIOD> <EOL>
+<ADP> beyond <PRONA> his <NOUN> office <NOUN> window <COMMA> <PROPN> berlin <VERB-PAST> carry <ADP> on <ADP> as <ADJ> usual <PERIOD> <EOL>
+<NOUN-PLURAL> People <VERB-PAST> walk <DET> the <NOUN-PLURAL> street <COMMA> <VERB-PRESENT-3S> unaware <SCONJ> that <DET> a <ADJ> new <NOUN> vision <ADP> of <DET> the <PROPN> cosmos <VERB-PAST> have <ADV> just <VERB-PERFECT> be <VERB-PAST> complete <PERIOD> <EOL>
+<NOUN-PLURAL> star <COMMA> <VERB-PRESENT-3S> planet <COMMA> <VERB-PRESENT-3S> galaxy <COMMA> <CCONJ> and <ADV> even <VERB-PRESENT> light <PRON> itself <VERB-PRESENT> would <ADV> now <VERB-PRESENT> be <VERB-PAST> understand <ADP> in <DET> a <ADJ> different <NOUN> way <PERIOD> <EOL>
+<DET> a <VERB-ING> fall <NOUN> apple <CCONJ> and <DET> a <ADJ> wandering <NOUN> planet <VERB-PAST> be <ADV> no <ADV> longer <ADJ> separate <NOUN-PLURAL> mystery <PERIOD> <EOL>
+<PRON> they <VERB-PAST> be <NOUN-PLURAL> expression <ADP> of <DET> the <ADJ> same <ADJ> elegant <NOUN> principle <VERB-PAST> weave <ADP> into <DET> the <NOUN> fabric <ADP> of <NOUN> reality <PERIOD> <EOL>
+<ADP> for <PROPN> einstein <COMMA> <DET> the <NOUN> achievement <VERB-PAST> be <PART> not <ADV> merely <DET> a <ADJ> scientific <NOUN> triumph <PERIOD> <EOL>
+<PRON> it <VERB-PAST> be <DET> the <NOUN> reward <ADP> for <NOUN-PLURAL> year <ADP> of <VERB-INGV> refuse <PART> to <VERB-PRESENT> let <VERB-PRESENT> go <ADP> of <DET> a <NOUN> question <PRON> that <VERB-PAST> seem <ADJ> impossible <PART> to <VERB-PRESENT> answer <PERIOD> <EOL>
+<CCONJ> and <SCONJ> as <PRON> he <VERB-PAST> gaze <ADP> out <ADP> into <DET> the <ADJ> fading <NOUN> evening <NOUN> light <COMMA> <PRON> he <VERB-PAST> feel <DET> the <ADJ> rare <NOUN> satisfaction <PRON> that <VERB-PRESENT-3S> come <SCONJ> when <DET> a <NOUN> mystery <ADV> finally <VERB-PRESENT-3S> reveal <PRONA> its <NOUN> secret <PERIOD> <EOL>
+<SOC> <PROPN> albert <PROPN> einstein <VERB-PAST> sit <ADV> quietly <ADP> in <PRONA> his <NOUN> study <COMMA> <VERB-ING> stare <ADP> at <DET> a <NOUN> letter <VERB-ING> rest <ADP> on <PRONA> his <NOUN> desk <PERIOD> <EOL>
+<ADV> outside <COMMA> <DET> the <NOUN> world <VERB-PAST> be <VERB-INGV> change <PERIOD> <EOL>
+<DET> a <ADJ> new <NOUN> generation <ADP> of <NOUN-PLURAL> physicist <VERB-PAST> be <VERB-INGV> uncover <ADJ> strange <NOUN-PLURAL> phenomenon <ADV> deep <ADP> within <DET> the <NOUN> atom <COMMA> <CCONJ> and <ADP> with <DET> each <NOUN> discovery <COMMA> <PROPN> einstein <VERB-PAST> grow <ADV> increasingly <ADJ> uneasy <PERIOD> <EOL>
+<PRON> it <VERB-PAST> be <PART> not <SCONJ> that <PRON> he <VERB-PAST> doubt <PRONA> their <NOUN> intelligence <PERIOD> <EOL>
+<ADJ> many <ADP> of <PRON> them <VERB-PAST> be <ADJ> brilliant <PERIOD> <EOL>
+<PRON> some <VERB-PAST> have <ADV> even <VERB-PAST> build <SCONJ> upon <NOUN-PLURAL> idea <PRON> he <PRON> himself <VERB-PAST> have <VERB-PAST> help <VERB-PRESENT> create <PERIOD> <EOL>
+<PRON> what <VERB-PAST> trouble <PRON> him <VERB-PAST> be <DET> the <NOUN> picture <ADP> of <NOUN> reality <PRON> that <VERB-PAST> be <VERB-INGV> begin <PART> to <VERB-PRESENT> emerge <PERIOD> <EOL>
+<VERB-ING> accord <ADP> to <DET> the <ADJ> new <NOUN> quantum <NOUN> theory <COMMA> <NOUN> nature <VERB-PAST> be <VERB-PAST> govern <PART> not <ADP> by <NOUN> certainty <CCONJ> but <ADP> by <NOUN-PLURAL> probability <PERIOD> <EOL>
+<NOUN-PLURAL> particle <VERB-PAST> seem <PART> to <VERB-PRESENT> possess <DET> no <ADJ> definite <NOUN-PLURAL> property <SCONJ> until <PRON> they <VERB-PAST> be <VERB-PAST> measure <PERIOD> <EOL>
+<NOUN-PLURAL> event <PRON> that <ADV> once <VERB-PAST> appear <NOUN> concrete <ADV> now <VERB-PAST> dissolve <ADP> into <DET> a <NOUN> haze <ADP> of <NOUN-PLURAL> possibility <PERIOD> <EOL>
+<PROPN> einstein <VERB-PRESENT-3S> could <VERB-PRESENT> accept <ADJ> many <ADJ> surprising <NOUN-PLURAL> idea <PERIOD> <EOL>
+<ADV> after <ADV> all <COMMA> <PRON> he <VERB-PAST> have <VERB-PERFECT> show <DET> that <NOUN> time <VERB-PRESENT-3S> could <VERB-PRESENT> slow <COMMA> <NOUN> space <VERB-PRESENT-3S> could <VERB-PRESENT> bend <COMMA> <CCONJ> and <NOUN> mass <VERB-PRESENT-3S> could <VERB-PRESENT> become <NOUN> energy <PERIOD> <EOL>
+<CCONJ> but <PRON> this <VERB-PAST> be <ADJ> different <PERIOD> <EOL>
+<ADP> to <PRON> him <COMMA> <NOUN> nature <VERB-PAST> have <PART> to <VERB-PRESENT> possess <DET> an <ADJ> underlying <NOUN> reality <ADJ> independent <ADP> of <NOUN> observation <PERIOD> <EOL>
+<NUM> one <NOUN> afternoon <COMMA> <SCONJ> while <VERB-ING> discuss <NOUN> quantum <NOUN-PLURAL> mechanic <ADP> with <NOUN-PLURAL> colleague <COMMA> <PROPN> einstein <VERB-PAST> propose <DET> a <NOUN> challenge <PERIOD> <EOL>
+<PRON> he <VERB-PAST> imagine <NUM> two <NOUN-PLURAL> particle <VERB-PAST> create <ADV> together <ADP> in <DET> such <DET> a <NOUN> way <PRON> that <PRONA> their <NOUN-PLURAL> property <VERB-PRESENT> became <VERB-PAST> link <PERIOD> <EOL>
+<ADV> afterward <COMMA> <DET> the <NOUN-PLURAL> particle <VERB-PAST> travel <ADV> far <ADV> apart <COMMA> <ADV> perhaps <ADP> to <ADJ> opposite <NOUN-PLURAL> end <ADP> of <DET> the <NOUN> universe <PERIOD> <EOL>
+<ADV> now <VERB-PRESENT> suppose <NUM> one <NOUN> particle <VERB-PAST> be <VERB-PAST> measure <PERIOD> <EOL>
+<VERB-ING> accord <ADP> to <DET> the <VERB-ING> emerge <NOUN> interpretation <ADP> of <NOUN> quantum <NOUN-PLURAL> mechanic <COMMA> <DET> the <NOUN> state <ADP> of <DET> the <ADJ> distant <NOUN> particle <VERB-PRESENT-3S> would <ADV> instantly <VERB-PRESENT> become <VERB-PAST> know <ADV> as <ADV> well <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> frown <SCONJ> as <PRON> he <VERB-PAST> follow <DET> the <NOUN> logic <PERIOD> <EOL>
+<SCONJ> how <VERB-PRESENT-3S> could <PRON> this <VERB-PRESENT> be <QUESTION> <EOL>
+<DET> no <NOUN> signal <VERB-PRESENT-3S> could <VERB-PRESENT> travel <ADV> faster <ADP> than <ADJ> light <PERIOD> <EOL>
+<ADJ> special <NOUN> relativity <VERB-PAST> have <VERB-PAST> establish <SCONJ> that <NOUN> principle <NOUN-PLURAL> decade <ADV> earlier <PERIOD> <EOL>
+<CCONJ> yet <NOUN> quantum <NOUN> theory <VERB-PAST> seem <PART> to <VERB-PRESENT> imply <DET> a <ADJ> mysterious <NOUN> connection <VERB-ING> stretch <ADP> across <NOUN> space <PRON> itself <PERIOD> <EOL>
+<PRON> the <ADV> more <PRON> he <VERB-PAST> think <ADP> about <PRON> it <COMMA> <PRON> the <ADV> less <ADJ> comfortable <PRON> he <VERB-PAST> become <PERIOD> <EOL>
+<NUM> one <NOUN> evening <PRON> he <VERB-PAST> pace <ADV> slowly <ADP> through <PRONA> his <NOUN> office <COMMA> <VERB-ING> replay <DET> the <NOUN> argument <ADV> again <CCONJ> and <ADV> again <PERIOD> <EOL>
+<DET> the <NOUN-PLURAL> particle <VERB-PRESENT> might <VERB-PRESENT> be <VERB-PAST> separate <ADP> by <NOUN-PLURAL> mile <COMMA> <VERB-PRESENT-3S> planet <COMMA> <CCONJ> or <ADJ> entire <NOUN-PLURAL> galaxy <PERIOD> <EOL>
+<CCONJ> yet <ADV> somehow <DET> a <NOUN> measurement <VERB-PAST> perform <ADV> here <VERB-PAST> appear <VERB-PAST> connect <ADP> to <DET> a <NOUN> measurement <VERB-PAST> perform <ADV> there <PERIOD> <EOL>
+<PRON> it <VERB-PAST> feel <ADJ> impossible <PERIOD> <EOL>
+<NOUN> nature <COMMA> <PRON> he <VERB-PAST> believe <COMMA> <VERB-PRESENT-3S> should <PART> not <VERB-PRESENT> operate <ADP> through <ADJ> invisible <NOUN-PLURAL> influence <PRON> that <VERB-PAST> leap <ADV> instantaneously <ADP> across <DET> the <NOUN-PLURAL> cosmo <PERIOD> <EOL>
+<PRON> there <VERB-PAST> have <PART> to <VERB-PRESENT> be <PRON> something <ADJ> missing <PERIOD> <EOL>
+<ADV> together <ADP> with <PROPN> boris <PROPN> podolsky <CCONJ> and <PROPN> nathan <PROPN> rosen <COMMA> <PROPN> einstein <VERB-PAST> develop <DET> a <NOUN> thought <NOUN> experiment <VERB-PAST> design <PART> to <VERB-PRESENT> expose <PRON> what <PRON> he <VERB-PAST> believe <PART> to <VERB-PRESENT> be <DET> an <NOUN> incompleteness <ADP> in <NOUN> quantum <NOUN> theory <PERIOD> <EOL>
+<PRONA> their <NOUN> argument <VERB-PAST> suggest <SCONJ> that <ADJ> hidden <NOUN> information <VERB-PRESENT-3S> might <VERB-PRESENT> exist <ADP> beneath <DET> the <ADJ> probabilistic <NOUN> surface <VERB-PAST> describe <ADP> by <NOUN> quantum <NOUN-PLURAL> mechanic <PERIOD> <EOL>
+<DET> the <NOUN> paper <VERB-PAST> spark <NOUN> debate <ADP> throughout <DET> the <ADJ> scientific <NOUN> world <PERIOD> <EOL>
+<ADJ> many <NOUN-PLURAL> physicist <VERB-PAST> disagree <ADP> with <PROPN> einstein <PART> 's <NOUN> conclusion <PERIOD> <EOL>
+<CCONJ> yet <ADV> even <PRON> those <PRON> who <VERB-PAST> defend <NOUN> quantum <NOUN-PLURAL> mechanic <VERB-PAST> find <DET> the <NOUN-PLURAL> implication <ADV> deeply <ADJ> unsettling <PERIOD> <EOL>
+<NOUN-PLURAL> year <ADV> later <COMMA> <SCONJ> while <VERB-ING> describe <DET> the <NOUN> phenomenon <COMMA> <PROPN> einstein <VERB-PAST> give <PRON> it <DET> a <ADJ> memorable <NOUN> name <PERIOD> <EOL>
+<PRON> he <VERB-PAST> call <PRON> it <PERIOD> <EOL>
+<ADJ> spooky <NOUN> action <ADP> at <DET> a <NOUN> distance <PERIOD> <EOL>
+<DET> the <NOUN> phrase <VERB-PAST> capture <ADV> exactly <PRON> what <VERB-PAST> bother <PRON> him <PERIOD> <EOL>
+<DET> the <NOUN> universe <VERB-PRESENT-3S> should <PART> not <VERB-PRESENT> resemble <DET> a <NOUN> stage <SCONJ> where <ADJ> distant <NOUN-PLURAL> object <ADV> secretly <VERB-PAST> whisper <ADP> to <NUM> one <DET> another <ADP> across <ADJ> vast <NOUN> emptiness <PERIOD> <EOL>
+<PROPN> einstein <VERB-PAST> remain <ADJ> unconvinced <ADP> for <DET> the <NOUN> rest <ADP> of <PRONA> his <NOUN> life <PERIOD> <EOL>
+<PRON> he <VERB-PAST> continue <VERB-INGV> search <ADP> for <DET> a <ADJ> deeper <NOUN> theory <COMMA> <NUM> one <PRON> that <VERB-PRESENT-3S> would <VERB-PRESENT> restore <NOUN> locality <CCONJ> and <NOUN> determinism <ADP> to <DET> the <NOUN-PLURAL> foundation <ADP> of <NOUN-PLURAL> physic <PERIOD> <EOL>
+<CCONJ> yet <SCONJ> despite <PRONA> his <NOUN-PLURAL> objection <COMMA> <DET> the <NOUN> puzzle <VERB-PAST> refuse <PART> to <VERB-PRESENT> disappear <PERIOD> <EOL>
+<NOUN-PLURAL> decade <VERB-PAST> pass <PERIOD> <EOL>
+<ADJ> new <NOUN-PLURAL> generation <ADP> of <NOUN-PLURAL> scientist <VERB-PAST> develop <ADV> increasingly <ADJ> sophisticated <NOUN-PLURAL> experiment <PERIOD> <EOL>
+<PRON> they <VERB-PAST> test <DET> the <ADJ> strange <NOUN-PLURAL> correlation <PRON> that <PROPN> einstein <VERB-PAST> have <VERB-PAST> doubt <PERIOD> <EOL>
+<ADV> again <CCONJ> and <ADV> again <COMMA> <DET> the <NOUN-PLURAL> result <VERB-PAST> seem <PART> to <VERB-PRESENT> favor <NOUN> quantum <NOUN-PLURAL> mechanic <PERIOD> <EOL>
+<DET> the <NOUN> universe <VERB-PAST> appear <ADV> even <ADJ> stranger <SCONJ> than <PROPN> einstein <VERB-PAST> have <VERB-PAST> fear <PERIOD> <EOL>
+<NUM> one <NOUN> night <COMMA> <ADP> near <DET> the <NOUN> end <ADP> of <PRONA> his <NOUN> life <COMMA> <PROPN> einstein <VERB-PAST> sit <ADV> quietly <VERB-INGV> reflect <ADP> on <DET> the <NOUN-PLURAL> mystery <PRON> that <ADV> still <VERB-PAST> remain <PERIOD> <EOL>
+<PRON> he <VERB-PAST> have <VERB-PAST> transform <NOUN> humanity <PART> 's <NOUN> understanding <ADP> of <NOUN> space <COMMA> <NOUN> time <COMMA> <NOUN> gravity <COMMA> <CCONJ> and <NOUN> energy <PERIOD> <EOL>
+<CCONJ> yet <NOUN> nature <VERB-PAST> continue <PART> to <VERB-PRESENT> resist <ADJ> complete <NOUN> understanding <PERIOD> <EOL>
+<ADV> perhaps <PRON> that <VERB-PAST> be <DET> the <ADJ> true <NOUN> beauty <ADP> of <NOUN> science <PERIOD> <EOL>
+<DET> every <NOUN> answer <VERB-PAST> uncover <DET> a <ADJ> deeper <NOUN> question <PERIOD> <EOL>
+<PRON> he <VERB-PAST> look <ADV> once <ADV> more <ADP> at <DET> the <NOUN-PLURAL> paper <VERB-PAST> scatter <ADP> across <PRONA> his <NOUN> desk <PERIOD> <EOL>
+<ADV> somewhere <ADP> among <DET> those <NOUN-PLURAL> page <VERB-PAST> lie <DET> a <NOUN> challenge <PRON> that <ADJ> future <NOUN-PLURAL> scientist <VERB-PRESENT> would <VERB-PRESENT> continue <PART> to <VERB-PRESENT> wrestle <ADP> with <ADP> for <NOUN-PLURAL> generation <PERIOD> <EOL>
+<DET> the <NOUN> question <PRON> that <VERB-PAST> have <VERB-PAST> trouble <PRON> him <VERB-PAST> be <ADV> still <ADJ> alive <PERIOD> <EOL>
+<NOUN-PLURAL> could <NOUN> reality <ADV> truly <VERB-PRESENT> contain <NOUN-PLURAL> connection <PRON> that <VERB-PAST> span <DET> the <NOUN> universe <ADP> in <DET> an <NOUN> instant <QUESTION> <EOL>
+<PROPN> einstein <VERB-PAST> be <PART> not <ADJ> convinced <PERIOD> <EOL>
+<CCONJ> but <ADP> by <VERB-INGV> ask <DET> the <NOUN> question <ADV> so <ADV> clearly <COMMA> <PRON> he <VERB-PAST> have <VERB-PAST> help <VERB-PRESENT> create <NUM> one <ADP> of <DET> the <ADJ> greatest <ADJ> scientific <NOUN-PLURAL> mystery <ADP> of <DET> the <ADJ> modern <NOUN> age <PERIOD> <EOL>
+<CCONJ> and <ADV> long <SCONJ> after <PRON> he <VERB-PAST> be <VERB-PERFECT> go <COMMA> <NOUN-PLURAL> physicist <VERB-PRESENT> would <VERB-PRESENT> continue <VERB-INGV> follow <DET> the <NOUN> trail <PRON> he <VERB-PAST> have <VERB-PAST> help <VERB-PRESENT> illuminate <COMMA> <VERB-INGV> search <ADP> for <DET> a <ADJ> deeper <NOUN> understanding <ADP> of <DET> the <ADJ> hidden <NOUN> fabric <VERB-ING> connect <DET> all <NOUN-PLURAL> thing <PERIOD> <EOL>
