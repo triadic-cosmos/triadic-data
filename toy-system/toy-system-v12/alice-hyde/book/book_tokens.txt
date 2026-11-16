@@ -1,0 +1,98 @@
+﻿<SOC> <PROPN> dr <PROPN> lanyon <VERB-PAST> have <ADV> never <VERB-PAST> place <ADJ> much <NOUN> faith <ADP> in <NOUN-PLURAL> story <ADP> of <VERB-INGV> talk <NOUN-PLURAL> animal <COMMA> <ADJ> enchanted <NOUN-PLURAL> garden <COMMA> <CCONJ> or <ADJ> impossible <NOUN-PLURAL> dream <PERIOD> <EOL>
+<ADP> for <DET> that <NOUN> reason <PRON> he <VERB-PAST> pause <ADP> in <NOUN> astonishment <SCONJ> when <DET> a <ADJ> white <NOUN> rabbit <VERB-ING> carry <DET> a <ADJ> silver <NOUN> pocket <NOUN> watch <VERB-PAST> hurry <ADP> through <DET> the <NOUN> door <ADP> of <PRONA> his <NOUN> laboratory <PERIOD> <EOL>
+<SOP> <PRON> i <VERB-PRESENT-3S> shall <VERB-PRESENT> be <ADV> far <ADV> too <ADJ> late <COMMA> <DET> the <NOUN> creature <VERB-PAST> mutter <ADV> nervously <PERIOD> <EOL>
+<SOP> <ADP> across <DET> the <NOUN> room <COMMA> <PROPN> mr <PROPN> utterson <VERB-PAST> lower <DET> a <NOUN> stack <ADP> of <NOUN-PLURAL> paper <CCONJ> and <VERB-PAST> stare <PERIOD> <EOL>
+<SOP> <DET> a <NOUN> rabbit <COMMA> <PRON> he <VERB-PAST> say <ADV> carefully <COMMA> <ADP> with <DET> a <NOUN> watch <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> animal <VERB-PAST> rush <ADP> toward <DET> a <ADJ> tall <NOUN> mirror <VERB-ING> stand <ADP> against <DET> the <NOUN> wall <PERIOD> <EOL>
+<ADP> to <DET> the <NOUN-PLURAL> man <PART> 's <NOUN> amazement <COMMA> <DET> the <NOUN> glass <VERB-PAST> shimmer <ADP> like <ADJ> disturbed <NOUN> water <PERIOD> <EOL>
+<ADP> without <NOUN> hesitation <COMMA> <DET> the <NOUN> rabbit <VERB-PRESENT-3S> leapt <ADP> through <CCONJ> and <VERB-PAST> vanish <PERIOD> <EOL>
+<SOP> <PROPN> lanyon <VERB-PAST> step <ADV> forward <PERIOD> <EOL>
+<SOP> <PRON> this <VERB-PRESENT-3S> be <ADJ> impossible <PERIOD> <EOL>
+<SOP> <ADV> then <PRON> we <VERB-PRESENT> should <VERB-PRESENT> investigate <PRON> it <ADV> immediately <COMMA> <VERB-PAST> reply <PROPN> utterson <PERIOD> <EOL>
+<SOP> <ADV> together <PRON> they <VERB-PAST> cross <DET> the <NOUN> threshold <PERIOD> <EOL>
+<SOP> <ADP> on <DET> the <ADJ> other <NOUN> side <VERB-PAST> stretch <DET> a <ADJ> moonlit <NOUN> garden <ADP> unlike <DET> any <NOUN> place <PRON> they <VERB-PAST> have <ADV> ever <VERB-PAST> see <PERIOD> <EOL>
+<NOUN-PLURAL> rose <VERB-PAST> whisper <ADP> among <PRON> themselves <PERIOD> <EOL>
+<ADJ> strange <NOUN-PLURAL> bird <VERB-PAST> sing <ADJ> melancholy <NOUN-PLURAL> song <ADP> from <ADJ> silver <NOUN-PLURAL> tree <PERIOD> <EOL>
+<DET> a <ADJ> blue <NOUN> caterpillar <VERB-PAST> sit <SCONJ> upon <DET> a <VERB-PERFECT> weather <NOUN> gravestone <CCONJ> and <VERB-PAST> release <NOUN-PLURAL> ring <ADP> of <NOUN> smoke <ADP> into <DET> the <NOUN> night <NOUN> air <PERIOD> <EOL>
+<SOP> <ADP> from <ADV> somewhere <ADP> in <DET> the <NOUN> mist <VERB-PAST> come <DET> a <ADJ> familiar <NOUN> laugh <PERIOD> <EOL>
+<SOP> <DET> the <PROPN> cheshire <PROPN> cat <ADV> slowly <VERB-PAST> appear <COMMA> <VERB-INGV> begin <ADP> with <PRONA> his <NOUN> grin <PERIOD> <EOL>
+<SOP> <PRON> you <VERB-PRESENT-3S> be <ADJ> late <COMMA> <VERB-PAST> say <DET> the <NOUN> cat <PERIOD> <EOL>
+<SOP> <ADV> late <ADP> for <PRON> what <QUESTION> <EOL>
+<VERB-PAST> ask <PROPN> utterson <PERIOD> <EOL>
+<SOP> <ADP> for <VERB-INGV> discover <SCONJ> that <NOUN-PLURAL> dream <CCONJ> and <VERB-PRESENT-3S> nightmare <VERB-PRESENT> share <DET> the <ADJ> same <NOUN> address <PERIOD> <EOL>
+<SOP> <SCONJ> before <DET> either <NOUN> man <VERB-PRESENT-3S> could <VERB-PRESENT> reply <COMMA> <NOUN-PLURAL> footstep <VERB-PAST> echo <ADP> through <DET> the <NOUN> darkness <PERIOD> <EOL>
+<SOP> <DET> a <ADJ> lone <NOUN> figure <VERB-PAST> emerge <ADP> beneath <DET> the <NOUN-PLURAL> tree <PERIOD> <EOL>
+<SOP> <ADP> at <NUM> one <NOUN> moment <PRON> it <VERB-PAST> resemble <PROPN> dr <PROPN> jekyll <PERIOD> <EOL>
+<SOP> <DET> a <NOUN> moment <ADV> later <PRON> it <VERB-PAST> bear <DET> the <NOUN-PLURAL> feature <ADP> of <PROPN> hyde <PERIOD> <EOL>
+<SOP> <ADV> then <DET> the <NOUN> face <VERB-PAST> change <ADV> yet <ADV> again <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> figure <VERB-PAST> smile <PERIOD> <EOL>
+<SOP> <NOUN-PLURAL> welcome <COMMA> <PRON> it <VERB-PAST> say <ADV> softly <COMMA> <ADP> to <DET> the <NOUN> place <SCONJ> where <DET> no <NOUN> mask <VERB-PRESENT-3S> can <VERB-PRESENT> remain <ADJ> hidden <ADP> for <ADJ> long <PERIOD> <EOL>
+<SOC> <PROPN> alice <VERB-PAST> awake <SCONJ> upon <DET> a <NOUN> fog <VERB-PERFECT> fill <NOUN> street <ADP> in <PROPN> london <PERIOD> <EOL>
+<SOP> <ADJ> tall <NOUN-PLURAL> gas <NOUN-PLURAL> lamp <VERB-PAST> glow <ADP> through <DET> the <NOUN> mist <COMMA> <VERB-ING> cast <ADJ> long <NOUN-PLURAL> shadow <ADP> over <DET> the <NOUN-PLURAL> cobblestone <PERIOD> <EOL>
+<PRON> nothing <VERB-PAST> look <ADJ> familiar <COMMA> <CCONJ> yet <PRON> nothing <VERB-PAST> seem <ADV> entirely <ADJ> strange <PERIOD> <EOL>
+<SOP> <DET> a <NOUN-PLURAL> brass <NOUN> sign <VERB-PAST> hang <ADP> beside <DET> a <ADJ> narrow <NOUN> doorway <PERIOD> <EOL>
+<SOP> <ADV> naturally <COMMA> <PROPN> alice <VERB-PAST> enter <ADP> at <ADV> once <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> laboratory <VERB-PAST> contain <NOUN-PLURAL> shelf <VERB-PAST> crowd <ADP> with <NOUN-PLURAL> bottle <COMMA> <VERB-PRESENT-3S> notebook <COMMA> <CCONJ> and <ADJ> curious <NOUN-PLURAL> apparatus <PERIOD> <EOL>
+<ADP> on <DET> a <ADJ> small <NOUN> table <VERB-PAST> stand <DET> a <NOUN-PLURAL> glass <NOUN> vial <VERB-ING> bear <DET> a <ADJ> handwritten <NOUN> label <PERIOD> <EOL>
+<SOP> <VERB-PRESENT> do <PART> not <VERB-PRESENT> drink <PERIOD> <EOL>
+<SOP> <PROPN> alice <VERB-PAST> frown <PERIOD> <EOL>
+<SOP> <PRON> she <VERB-PAST> have <ADV> always <VERB-PAST> consider <ADJ> such <NOUN-PLURAL> instruction <ADV> extremely <ADJ> suspicious <PERIOD> <EOL>
+<SOP> <ADP> without <ADJ> further <NOUN> thought <PRON> she <VERB-PAST> drink <DET> the <NOUN-PLURAL> content <PERIOD> <EOL>
+<SOP> <ADV> immediately <DET> the <NOUN> room <VERB-PAST> stretch <ADV> upward <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> floor <VERB-PAST> drift <ADV> away <PERIOD> <EOL>
+<SOP> <DET> the <NOUN-PLURAL> wall <VERB-PAST> seem <NOUN-PLURAL> mile <ADV> apart <PERIOD> <EOL>
+<SOP> <ADV> then <PRON> she <VERB-PAST> notice <PRON> something <ADV> far <ADV> more <ADJ> alarming <PERIOD> <EOL>
+<SOP> <DET> a <ADJ> second <NOUN> shadow <VERB-PAST> stand <ADP> beside <PRONA> her <PERIOD> <EOL>
+<SOP> <PROPN> alice <VERB-PAST> look <ADP> down <PERIOD> <EOL>
+<SOP> <PRONA> her <ADJ> own <NOUN> shadow <VERB-PAST> remain <VERB-PAST> attach <ADP> to <PRONA> her <NOUN-PLURAL> foot <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> newcomer <VERB-PAST> do <PART> not <PERIOD> <EOL>
+<SOP> <PRON> it <VERB-PAST> move <ADV> independently <PERIOD> <EOL>
+<SOP> <PRON> who <VERB-PRESENT> be <PRON> you <QUESTION> <EOL>
+<PROPN> alice <VERB-PAST> ask <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> shadow <VERB-PAST> tilt <PRONA> its <NOUN> head <PERIOD> <EOL>
+<SOP> <ADV> perhaps <PRON> i <VERB-PRESENT-1S> be <PRON> everything <PRON> you <VERB-PRESENT> try <PART> not <PART> to <VERB-PRESENT> be <PERIOD> <EOL>
+<SOP> <PRONA> its <NOUN> voice <VERB-PAST> sound <ADV> strangely <ADJ> familiar <PERIOD> <EOL>
+<SOP> <PART> not <ADJ> unpleasant <PERIOD> <EOL>
+<SOP> <ADV> merely <ADJ> unsettling <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> shadow <PART> 's <NOUN> smile <VERB-PAST> widen <PERIOD> <EOL>
+<SOP> <ADP> for <DET> a <ADJ> brief <NOUN> instant <PRON> it <VERB-PAST> remind <PROPN> alice <ADP> of <DET> the <PROPN> cheshire <PROPN> cat <PERIOD> <EOL>
+<SOP> <ADV> then <DET> the <NOUN> expression <VERB-PAST> change <PERIOD> <EOL>
+<SOP> <PRON> it <VERB-PAST> become <ADJ> colder <PERIOD> <EOL>
+<SOP> <NOUN> crueler <PERIOD> <EOL>
+<SOP> <ADV> almost <ADJ> human <PERIOD> <EOL>
+<SOP> <PRON> you <VERB-PRESENT> may <VERB-PRESENT> call <PRON> me <PROPN> hyde <COMMA> <PRON> it <VERB-PAST> whisper <PERIOD> <EOL>
+<SOP> <ADV> outside <COMMA> <NOUN> thunder <VERB-PAST> roll <ADP> across <DET> the <NOUN-PLURAL> rooftop <PERIOD> <EOL>
+<SOP> <PROPN> alice <ADV> suddenly <VERB-PAST> wish <PRON> she <VERB-PAST> have <VERB-PAST> obey <DET> the <NOUN> label <PERIOD> <EOL>
+<SOC> <DET> the <NOUN> fog <VERB-PAST> roll <ADP> across <DET> the <NOUN> park <ADP> like <ADJ> pale <NOUN> smoke <PERIOD> <EOL>
+<SOP> <PROPN> alice <VERB-PAST> wander <ADP> through <DET> the <NOUN> darkness <COMMA> <VERB-ING> follow <DET> a <ADJ> narrow <NOUN> path <ADP> beside <DET> a <ADJ> silent <NOUN> pond <PERIOD> <EOL>
+<DET> the <NOUN> moon <VERB-PAST> hang <ADV> low <ADP> above <DET> the <NOUN-PLURAL> tree <COMMA> <PRONA> its <NOUN> reflection <VERB-ING> tremble <SCONJ> upon <DET> the <NOUN> water <PERIOD> <EOL>
+<SOP> <ADP> after <ADJ> several <NOUN-PLURAL> minute <PRON> she <VERB-PAST> come <SCONJ> upon <DET> the <PROPN> red <PROPN> queen <PERIOD> <EOL>
+<SOP> <ADP> at <ADJ> least <COMMA> <PRON> it <VERB-PAST> appear <PART> to <VERB-PRESENT> be <DET> the <PROPN> red <PROPN> queen <PERIOD> <EOL>
+<SOP> <PRONA> her <NOUN> crown <VERB-PAST> be <VERB-PAST> tarnish <PERIOD> <EOL>
+<SOP> <PRONA> her <NOUN> dress <VERB-PAST> be <VERB-PAST> tear <PERIOD> <EOL>
+<SOP> <CCONJ> and <PRONA> her <NOUN> shadow <VERB-PAST> move <ADV> independently <ADP> from <PRONA> her <NOUN> body <PERIOD> <EOL>
+<SOP> <PRON> you <VERB-PRESENT> seem <ADJ> unwell <COMMA> <VERB-PAST> say <PROPN> alice <ADV> cautiously <PERIOD> <EOL>
+<SOP> <DET> the <PROPN> queen <VERB-PAST> sigh <PERIOD> <EOL>
+<SOP> <PRON> someone <VERB-PRESENT-3S> have <VERB-PAST> steal <PRON> my <ADJ> better <NOUN-PLURAL> quality <PERIOD> <EOL>
+<SOP> <PRON> who <QUESTION> <EOL>
+<SOP> <DET> the <PROPN> queen <VERB-PAST> raise <DET> a <ADJ> gloved <NOUN> finger <CCONJ> and <VERB-PAST> point <ADP> across <DET> the <NOUN> pond <PERIOD> <EOL>
+<SOP> <DET> a <ADJ> solitary <NOUN> gentleman <VERB-PAST> stand <ADP> among <DET> the <NOUN> mist <PERIOD> <EOL>
+<SOP> <PRONA> his <ADJ> tall <NOUN> silhouette <ADV> never <VERB-PAST> move <PERIOD> <EOL>
+<SOP> <ADV> only <PRONA> his <NOUN-PLURAL> eye <VERB-PAST> seem <ADJ> alive <PERIOD> <EOL>
+<SOP> <PROPN> edward <PROPN> hyde <COMMA> <VERB-PAST> say <DET> the <PROPN> queen <PERIOD> <EOL>
+<SOP> <DET> the <ADJ> very <NOUN> name <VERB-PAST> disturb <DET> the <NOUN> landscape <PERIOD> <EOL>
+<SOP> <NOUN-PLURAL> ripple <VERB-PRESENT> spread <ADP> across <DET> the <NOUN> water <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> wind <VERB-PAST> grow <ADJ> colder <PERIOD> <EOL>
+<SOP> <DET> the <NOUN-PLURAL> tree <VERB-PAST> lean <ADV> inward <SCONJ> as <SCONJ> though <VERB-ING> listen <PERIOD> <EOL>
+<SOP> <PRON> what <VERB-PRESENT-3S> do <PRON> he <VERB-PRESENT> want <QUESTION> <EOL>
+<PROPN> alice <VERB-PAST> ask <PERIOD> <EOL>
+<SOP> <PRON> what <PRON> he <VERB-PRESENT-3S> have <ADV> always <VERB-PAST> want <PERIOD> <EOL>
+<SOP> <CCONJ> and <PRON> what <VERB-PRESENT-3S> be <PRON> that <QUESTION> <EOL>
+<SOP> <DET> the <PROPN> queen <PART> 's <NOUN> expression <VERB-PAST> harden <PERIOD> <EOL>
+<SOP> <DET> a <NOUN> world <ADP> in <PRON> which <PRON> nobody <VERB-PRESENT-3S> remember <PRON> who <PRON> they <ADV> truly <VERB-PRESENT-3S> be <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> fog <VERB-PAST> thicken <PERIOD> <EOL>
+<SOP> <PROPN> alice <VERB-PAST> step <ADV> backward <PERIOD> <EOL>
+<SOP> <ADV> somewhere <ADP> in <DET> the <NOUN> distance <DET> a <NOUN> cat <VERB-PAST> begin <PART> to <VERB-PRESENT> laugh <PERIOD> <EOL>
+<SOP> <DET> the <NOUN> sound <VERB-PAST> echo <ADP> across <DET> the <NOUN> park <PERIOD> <EOL>
+<SOP> <ADP> at <DET> the <ADJ> same <NOUN> moment <PROPN> hyde <VERB-PAST> smile <PERIOD> <EOL>
+<SOP> <CCONJ> and <PROPN> wonderland <VERB-PAST> become <ADV> just <DET> a <ADJ> little <NOUN> darker <PERIOD> <EOL>

@@ -1,0 +1,633 @@
+﻿% --------------------------------------------------
+% CHAPTER 1 : SCORE = 87
+% DRAFT SCORE = 65
+% --------------------------------------------------
+\chapter{Shadows and Silence: A Tale of Ambition, Deceit, and Redemption at Mega Corp}
+
+The sun dipped low beneath the horizon, casting an ethereal glow upon the towering edifice that housed Mega Corp's opulent headquarters.
+Its gleaming glass facade was a testament to the rapid expansion and success of the organization, which had garnered renowned acclaim for its groundbreaking technological innovations.
+Yet, the foundations of this success were not as solid as they seemed, and whispers of public distrust, lack of transparency, and concerns about long-term sustainability echoed through the corridors.
+
+Within these walls resided Dr Minsky, the brilliant mind responsible for much of Mega Corp's prosperity.
+His intellect and ambition had catapulted him into wealth and prominence, yet his methods and actions were subject to censure.
+Across the hall, Alice, a formidable and captivating CEO, attempted to steer the company through this tumultuous period.
+She was committed to preserving the company's reputation and ensuring its continued success.
+
+Meanwhile, in the shadows, lurked John Enfield, a clandestine antagonist harboring sensitive information concerning the inner machinations of Mega Corp.
+He threatened to expose the truth unless his demands were met.
+The web of connections between these individuals was intricate and tangled, a thread that could easily unravel with a single misstep.
+
+As the sun succumbed to night's embrace, Dr Minsky received an ominous message from John Enfield.
+A meeting was proposed, one that would determine the fate of Mega Corp.
+Alice, sensing the gravity of the situation, urged Dr Minsky to manage the crisis privately to safeguard the company's reputation.
+
+Reluctantly, Dr Minsky acquiesced and agreed to meet with Enfield, secretly hoping that Alice's influence could negotiate a favorable resolution.
+In the dimly lit recesses of an undisclosed location, the three converged, each concealing their true intentions behind a veil of deception.
+
+Enfield revealed knowledge far beyond the mere secrets that Dr Minsky feared might be exposed.
+It became evident that he held sway over both Dr Minsky and Alice, leveraging their hidden connections and compromises against them.
+Faced with this revelation, the pair was left reeling, their worlds shattered by the deceptions that had festered within Mega Corp for years.
+
+In the face of escalating pressure from Enfield, shareholders, and the public, Dr Minsky and Alice were compelled to make momentous decisions that would either salvage Mega Corp or leave it in ruins.
+They grappled with the prospect of appeasing Enfield, revealing the truth, or discovering another means of extricating themselves from this perilous predicament.
+
+To aid in their quest for salvation, they enlisted the assistance of a motley assortment of supporting characters—lawyers, investigators, and even tramps who had crossed paths with Mega Corp in some capacity.
+Together, they delved into the murky depths of Mega Corp's history, unearthing layers of deceit, manipulation, and betrayal that threatened to bring the entire organization crumbling down around them.
+
+Yet, within the chaos, there existed hope—a glimmer of possibility that perhaps they could emerge stronger, more transparent, and ultimately, more deserving of the trust bestowed upon them.
+Dr Minsky and Alice fought to reconcile their personal ambitions with the greater good, knowing that their decisions would not only dictate the future of Mega Corp but also shape their own destinies.
+
+And so, as the days bled into nights and the weeks morphed into months, the trio navigated the treacherous waters of corporate espionage, blackmail, and personal redemption.
+For they knew all too well that the consequences of their decisions would ripple far beyond the hallowed halls of Mega Corp, leaving indelible marks upon their souls and the fabric of the world around them.
+
+% Elapsed time : 251.8 s
+
+% TRANSITION
+In the twilight hour, as daylight surrendered to the encroaching darkness, the heart of the sprawling metropolis came alive with a symphony of sounds.
+Street lamps flickered on, casting elongated shadows across the pavements and illuminating the myriad of figures that traversed the busy thoroughfares.
+At the epicenter of this urban jungle, within the imposing glass and steel structure that housed Mega Corp, tension hung heavy in the air.
+Unseen forces pulled at the delicate threads of the organization, threatening to unravel the tapestry of success woven over the years.
+In the shadows, whispers of deception, ambition, and treachery spread like wildfire, igniting fears that the embers of destruction may soon consume the organization whole.
+Dr Minsky, the brilliant mind behind Mega Corps exponential growth, stood frozen in contemplation, his gaze locked on the cityscape beyond the expansive windows.
+The rhythmic pulse of the metropolis seemed to resonate within him, whispering secrets only he could decipher.
+A question mark hung over his head, a silent plea for guidance amidst the tumultuous sea of uncertainty.
+
+% --------------------------------------------------
+% CHAPTER 2 : SCORE = 85
+% DRAFT SCORE = 72
+% TRANSITION SCORE = 98
+% --------------------------------------------------
+\chapter{Heartbeat of the Metropolis: Unraveling the Enigma Within}
+
+In the heart of Soho, Dr Minsky, the brilliant yet troubled scientist, found himself in a moment of solitude.
+The city outside pulsated with life, a symphony of sounds echoing in his ears.
+He stood in the dissection room, a place once filled with curiosity and discovery, but now haunted by doubt and uncertainty.
+
+The city, ever-vibrant, thrived on a rhythm that seemed to seep into Minsky's very soul.
+Its beating heart reverberated within him, filling him with a strange sense of connection.
+Yet, the city's vitality contrasted starkly with the fear and uncertainty that had taken root within him.
+
+Alice, the CEO of Mega Corp, Minsky's employer, had left him alone to contemplate their latest project.
+The organization's rapid growth was built on a foundation that might crumble under closer scrutiny.
+Question marks loomed over their methods, decision-making process, and transparency, casting shadows on their future.
+
+As he brooded over maps and descriptions, Minsky's thoughts drifted towards a figure from his past, Edward Hyde, known to many as Mr Hyde.
+The memory of this man, whose existence seemingly defied logic, caused a knot of fear to twist in Minsky's stomach.
+
+Suddenly, a familiar sound echoed through the quiet streets – the address of a certain house in the Soho district.
+A wave of panic washed over Minsky.
+His mind flashed back to a time when Hyde terrorized the city, causing havoc wherever he went.
+Minsky remembered how Hyde would often disappear for days, only to reappear as if nothing happened.
+
+Inside the house, Lanyon, another colleague, sat in deep thought.
+His gaze lingered on the polished cabinets that once symbolized the trust they built their empire upon.
+Now, they served as a grim reminder of the questions that plagued their work.
+
+Minsky shook off the memories and returned to the present, his eyes fixed on the city outside.
+The vibrant energy of the metropolis contrasted sharply with the fear and uncertainty that had settled within him.
+He wondered if his intellectual prowess was enough to navigate the labyrinth of questions that confronted them.
+
+Suddenly, the city’s pulse synchronized with his own, and he felt a strange connection.
+Could this pulsating life force hold the key to understanding Hyde?
+Was there a pattern hidden within the chaos that could help them ensure Mega Corp’s future?
+
+With renewed determination, Minsky rose from his chair.
+He stepped out into the bustling city, his mind alight with questions and theories.
+The city seemed to respond, its rhythm intensifying as if acknowledging his presence.
+Minsky walked, lost in thought, his destination unclear.
+But one thing was certain - he could no longer ignore the city's alive beat within his thoughts.
+
+% Elapsed time : 174.2 s
+
+% TRANSITION
+In the dim recesses of his office, Minsky pondered the implications of their latest project.
+Alices sudden absence granted him ample time to examine the details more closely.
+The city outside, with its ceaseless hum, continued to echo in his ears, fueling his train of thought.
+As he sifted through stacks of documents, his fingers traced the edges of an old photograph.
+A face stared back at him, an eerie likeness of Edward Hyde.
+Minskys heart skipped a beat as the realization dawned upon him - the specter of Hyde lurked closer than they knew.
+
+% --------------------------------------------------
+% CHAPTER 3 : SCORE = 85
+% DRAFT SCORE = 52
+% TRANSITION SCORE = 95
+% --------------------------------------------------
+\chapter{The Enigma of Edward Hyde: A Gathering of Minds}
+
+In the dimly-lit room, a crackling fire illuminated faces that bore expressions of camaraderie and mutual respect.
+The space was filled with an atmosphere of shared history; Dr Minsky, the luminary scientist and founder of Mega Corp, sat amongst his closest associates.
+Alice, the charismatic CEO, and Lanyon, a renowned lawyer, were present, along with the elusive Henry Jekyll.
+
+The room vibrated with the resonance of laughter and stories exchanged between old friends.
+It was a gathering of individuals whose bonds transcended the confines of professional relationships, bound together by years of trust and understanding.
+
+Dr Minsky, ever the inquisitive mind, delicately steered the conversation towards Alice's enigmatic association with Edward Hyde.
+Utterson, the legal advisor, felt a familiar pang of disquiet at the mention of Hyde, a reminder of past betrayals.
+Yet, his loyalty towards his client compelled him to defend Hyde against any accusations.
+
+Lanyon, the meticulous attorney, observed the others with a studied indifference, but he wondered if there lay hidden depths to their sentiments towards Hyde.
+
+The evening's discourse veered across diverse subjects, yet Hyde remained the unspoken specter haunting the room.
+The tension in the air thickened like the smoke curling from the dying embers of the fire.
+
+Minsky, intuiting the group's fascination with Hyde, attempted to redirect the conversation.
+But Lanyon, undeterred, rekindled the discussion, questioning Minsky about his captivation with Hyde.
+
+Minsky responded with a cryptic smile, evading a straightforward answer.
+Silence fell upon the room as the gathered intellectuals contemplated the complex web of associations linking Hyde to Mega Corp.
+
+The fire flickered, its light casting long shadows on the walls as the group wrestled with their thoughts.
+The awkwardness hung heavily in the room, a palpable testament to the many questions surrounding Hyde and Mega Corp's relationship with him.
+
+% Elapsed time : 216.5 s
+
+% TRANSITION
+The storm clouds gather over Mega Corp, casting dark shadows on the minds of its leaders.
+Secrets lie buried deep, threatening to rise and shake the very foundation of the company.
+As the winds of change sweep through the city, Dr Minsky grapples with the weight of these secrets, knowing that he must act swiftly if Mega Corp is to weather the tempest to come.
+Little does he know that another player has entered the game, one who will test the limits of his resolve and challenge the very essence of his character.
+
+% --------------------------------------------------
+% CHAPTER 4 : SCORE = 85
+% DRAFT SCORE = 62
+% TRANSITION SCORE = 96
+% --------------------------------------------------
+\chapter{Veils of Uncertainty: The Looming Storm Over Mega Corp}
+
+As the morning sun peered over the horizon, casting long, ethereal fingers upon the cobblestone streets of London, a thick veil of uncertainty settled upon Dr Minsky.
+The imposing edifice of Mega Corp loomed before him, standing sentinel against the encroaching shadows of change.
+The wind whispered tales of internal strife and external pressures, each voice questioning the opaque decision-making processes and the concentrated power structures within the corporation.
+
+Upon entering his residence nestled within the bowels of the corporate stronghold, Dr Minsky found solace in the familiarity of his sanctuary.
+The rich aroma of brewed coffee and the comforting warmth of sunlight streaming through the windows beckoned him to take a seat at the mahogany table, where he had spent countless hours contemplating the future of Mega Corp.
+
+The pressing matters of October lingered heavy on his mind, threatening to cloud his judgment.
+His thoughts wandered to the tumultuous sea of uncertainty that lay ahead for Mega Corp, and he wondered if the company was prepared to weather the storm.
+
+As the clock struck eight, the door to his study creaked open, allowing the morning light to illuminate the room once more.
+In walked Alice, the CEO of Mega Corp, her eyes reflecting the weight of the decisions she had to make in the days to come.
+Her presence served as a stark reminder of the challenges facing the company.
+
+"Morning, Dr Minsky," she offered warmly, her voice barely audible above the soft hum of the bustling city outside.
+"I trust you've had time to consider our predicament?"
+
+Dr Minsky nodded gravely.
+"Indeed, I have, Alice.
+Our situation is dire, and I fear we may soon face the consequences of our past choices."
+
+Alice sighed deeply, her brow furrowing as she pondered his words.
+"What do you suggest we do, then, dear colleague?
+Time is of the essence, and we must act quickly lest we lose everything we've worked so hard to build."
+
+Dr Minsky rose from his chair and moved to the window, gazing out at the sprawling metropolis below.
+"We must tread carefully, my dear friend.
+If we are to navigate this storm, we must first understand the very nature of the tempest we now face."
+
+The two exchanged a knowing glance, each aware of the gravity of the situation.
+They knew that they would need to call upon every resource at their disposal if they were to ensure the survival of Mega Corp.
+
+As the minutes ticked by, the tranquility of the room seemed to evaporate, replaced by a palpable tension.
+Unbeknownst to them, another player had entered the game, one who would shake the foundations of Mega Corp to its very core.
+
+A mysterious figure, cloaked in darkness and concealed beneath a wide-brimmed hat, slipped quietly into the study, the sound of the shattered closet door echoing eerily in the otherwise still air.
+Dr Minsky, who had been lost in thought, started violently at the intrusion, his heart racing as he recognized the color of the anger that now filled the room.
+
+The visitor, seemingly oblivious to the hostility they had provoked, engaged in shallow conversation with Dr Minsky, mentioning their recent visit to a secluded lane in Whitechapel.
+Their appearance was sinister, their features obscured by the shadows cast by the wide-brimmed hat, yet there was something about them that drew Dr Minsky in.
+
+It was said that the visitor bore a striking resemblance to certain members of the highest echelons of society, women who shared a common trait - immense wealth.
+They were feared by many, and their reputation for ransacking the luxurious belongings of those who crossed them was well-known.
+Yet, despite their sinister appearance and fearsome reputation, Dr Minsky felt drawn to the visitor, unable to resist the allure of the mysteries they represented.
+
+One such woman, a powerful figure within the aristocracy, caught the visitor's attention.
+She was a maid's officer, known for her sharp intellect and keen intuition.
+To some, she was a force to be reckoned with; to others, she was a symbol of hope and resistance in the face of the oppressive power structures that governed the land.
+
+As the night wore on, the visitor shared stories of their past, speaking of a small gentleman who had met an untimely end and a body that had been cruelly mutilated.
+These harrowing accounts left Dr Minsky both repulsed and fascinated, his mind racing with questions and theories.
+
+The visitor's ape-like demeanor and sudden departure from the room only added to the mystery surrounding them.
+As they left, they revealed a photograph depicting several piles of clothing scattered throughout Soho.
+The connection between the mysterious occurrences and the area was undeniable, and Dr Minsky couldn't help but wonder what role this visitor might play in the unfolding drama.
+
+With the moon now fully risen and casting its silver glow upon the room, Dr Minsky's gaze fell upon the lockfast drawers containing a fortune in gold.
+He realized then that the shadows surrounding the visitor and the mystery they represented could pose a serious threat to the stability of Mega Corp if left unaddressed.
+
+The decision he made in that moment would reverberate through the corridors of power, rippling outwards and challenging the delicate balance of the corporate power structure.
+Dr Minsky understood that the next move would be critical, that one misstep could unravel the entire enterprise they had built together.
+And as he stood there, surrounded by the dark secrets of the night, he knew that he must act swiftly if Mega Corp was to survive the coming storm.
+
+% Elapsed time : 353.1 s
+
+% TRANSITION
+In the waning light of daybreak, the cobblestone streets of London were swept clean by the cold autumn winds.
+Amidst the bustle of daily life, the imposing edifice of Mega Corp., with its towering spires and polished marble façade, cut an imposing silhouette against the fading twilight.
+Little did the passerby know, the tranquil exterior hid a tumultuous interior, a veritable storm brewing unseen within the shadowy halls of the venerable corporation.
+
+% --------------------------------------------------
+% CHAPTER 5 : SCORE = 85
+% DRAFT SCORE = 65
+% TRANSITION SCORE = 95
+% --------------------------------------------------
+\chapter{Unveiling Shadows: The Hidden Enigma of Mega Corp.}
+
+The velvet-draped halls of Mega Corp.
+echoed the rhythmic cadence of time, marking each second that slipped through the cracks like fine sand.
+An air of unspoken foreboding seemed to cloak the organization, enveloping it in a pallid shroud of apprehension and doubt.
+Beneath its towering edifice of success, there lay whispers of crumbling foundations, the once-promising horizon dimmed by the encroaching shadows of uncertainty.
+
+Dr Minsky, the esteemed Chief Scientist, was no stranger to the weight of such omens.
+A man of boundless intellect and indomitable spirit, his name had become synonymous with groundbreaking research and innovation.
+Yet even he could not ignore the subtle tremor of disquiet that reverberated throughout the corporation.
+
+A mysterious guest arrived unexpectedly, casting long shadows across the polished marble floors.
+Rumors began to ripple through the ranks like wildfire, fanned by the gusts of conjecture and speculation.
+The clerk, a timid soul whose every heartbeat synchronized with the ticking of the office clock, went deathly pale upon hearing the whispered words of the dark deed committed within their sanctum sanctorum.
+What if it had been concealed for far too long, this sinister secret that lay buried beneath layers of secrecy and deceit?
+
+The guest did little to allay these fears.
+Instead, he added fuel to the inferno, hinting at a shadowy truth that had dwelled unseen within the walls of Mega Corp.
+for years.
+The clerk clutched at his chest, feeling the cold tendrils of fear coil around his heart.
+
+Meanwhile, Dr Minsky remained steadfast in the face of the gathering storm.
+Focused on the task before him, he sought to address the myriad risks that threatened the very future of Mega Corp.
+The cryptic message left behind by the enigmatic guest, replete with details about a peculiar chemical apparatus and an intriguing autograph, demanded careful examination.
+
+On the other side of the corporate battlefield stood Alice, the resolute CEO.
+Her plate was already laden with the burdens of maintaining the facade of prosperity and growth, but now an additional challenge presented itself.
+Word arrived from one of their key partners, Carew, of a possible imperial dye scandal that threatened to tarnish Mega Corp.’s hard-won reputation.
+
+As she wrestled with deciphering Carew’s labyrinthine handwriting and discerning the meaning of the postmark on the urgent letter, Alice felt the ground shifting under her feet.
+The line between truth and deception, trust and betrayal seemed to blur, becoming a murky quagmire of doubt and suspicion.
+
+Turning to her confidant and mentor, Alice sought solace in Dr Minsky’s wisdom.
+In desperation, she requested his assistance in interpreting the evidence unearthed by the mysterious guest, fearing that the darkness lurking within the company might prove to be more insidious than either of them had initially anticipated.
+
+Upon scrutinizing the evidence, Dr Minsky detected clues that suggested the secret in question was rooted deep within the annals of Mega Corp.’s history.
+Could it be that the guilty party had somehow managed to remain undetected for so long, camouflaged by their mastery of the information triangle and the energy triangle?
+With each passing moment, the pieces of the puzzle began to fit together, forming a picture that painted a grim portrait indeed.
+
+Yet the true challenge still lay ahead.
+Both Alice and Dr Minsky faced ethical dilemmas and agonizing strategic decisions.
+The shadows grew longer and the winds howled louder, yet the two leaders refused to cower before the encroaching darkness.
+Fear and self-doubt tugged at their hearts, but they steeled themselves against the storm, determined to uncover the truth and guide Mega Corp.
+away from the precipice of ruin.
+
+As the hours turned into days, and the days into weeks, the tension continued to build.
+Would they be able to overcome their fears and lead Mega Corp.
+toward a brighter tomorrow, or would the specter of the past prove to be too powerful to banish?
+Only time would tell.
+
+% Elapsed time : 408.9 s
+
+% TRANSITION
+As the shadows of twilight began to descend upon the great city, painting the sky with hues of crimson and gold, Alice felt a sense of unease settle over her.
+The once-thriving corporation she had nurtured with immense dedication and perseverance now teetered precariously on the precipice of collapse.
+For months, rumors had persisted, whispers carried through the hallowed halls and whispered secrets exchanged in hushed tones.
+Now, faced with the undeniable truth, Alice steeled herself for the arduous road ahead, the challenges that awaited her like the crests of daunting mountains looming on the horizon.
+
+% --------------------------------------------------
+% CHAPTER 6 : SCORE = 89
+% DRAFT SCORE = 55
+% TRANSITION SCORE = 98
+% --------------------------------------------------
+\chapter{Unraveling the Anomaly}
+
+In the vast expanse of Mega Corp, the symphony of progress hummed, echoing through the marble halls and steel-framed offices.
+Atop the grandiose edifice, Alice, the esteemed CEO, stood alone, gazing upon the metropolis below – her creation, a testament to ambition, ingenuity, and relentless pursuit of excellence.
+Yet, a shadow loomed over this empire of innovation; the murmurs of dissension grew louder with each passing day.
+As questions about power, transparency, and sustainability swirled around her, Alice felt the weight of her responsibility press heavily upon her shoulders.
+
+Beside her, Dr Minsky, the brilliant Chief Scientist, shared in her concern.
+Their minds melded, weaving a web of theories and hypotheses, seeking answers amidst the labyrinthine complexities of the corporation.
+Time was of the essence, and every tick of the clock brought them closer to a precipice that could either propel them into new heights or plunge them into an abyss from which there might be no return.
+
+One fateful day, a collection of cryptic letters arrived at Dr Minsky’s office.
+These missives contained tales of a figure known only as “Jekyll,” a man whose life had spiraled into darkness and ruin.
+The chilling stories painted a portrait of tragedy and despair that sent shockwaves through Alice and Dr Minsky, casting doubts upon the already tenuous stability of their beloved organization.
+
+With urgency, they dove headlong into the investigation, sifting through the enigmatic letters, unraveling their tangled threads, and piecing together fragments of information like the pieces of a broken puzzle.
+It soon became apparent that this mysterious Mr Jekyll held a close connection to Dr Minsky, and that his descent into madness was the stuff of nightmares.
+
+The duo sought solace in their oldest friend, Lanyon, who provided crucial insights into Mr Jekyll's current state.
+According to Lanyon, the man's downfall was rooted in fear and a gradual erosion of his moral compass.
+As they peeled back the layers of this disturbing tale, Alice and Dr Minsky began to see eerie similarities between Mr Jekyll's fall from grace and the challenges that faced Mega Corp.
+
+The investigation took on new significance as it served as a catalyst for introspection, allowing them to scrutinize the very foundations of their organization.
+Together, they contemplated ways to fortify Mega Corp against external threats and internal decay.
+The enigma of Mr Jekyll became a rallying cry, a battle cry that fueled their determination to safeguard their cherished creation.
+
+As the letters continued to pour in, Alice and Dr Minsky immersed themselves in the dark narrative, driven by an insatiable desire to uncover the truth.
+With each piece of the puzzle revealed, they felt a sense of clarity, as if they were slowly piecing together the shattered remnants of a forgotten dream.
+
+Yet, the path to enlightenment was fraught with danger, and their journey led them down a winding road where betrayal lurked around every corner.
+Little did they know that one of Alice's closest confidantes, Poole, had been working against her best interests all along.
+As the pieces of the puzzle fell into place, Alice discovered the deception and, with heavy heart, confronted her trusted advisor.
+
+The ensuing confrontation was tense and tumultuous, but Alice remained steadfast, refusing to allow her values of transparency and integrity to be compromised.
+
+% Elapsed time : 283.6 s
+
+% TRANSITION
+Mega Corp, once a shining symbol of human progress and innovation, now stood on the precipice of chaos.
+As dawn broke, Alice, the CEO, found herself standing before her mirror, staring at a reflection that bore the weight of countless responsibilities.
+Her eyes, once bright with ambition and optimism, now seemed to hold a tinge of sorrow and uncertainty.
+She knew that the fate of her beloved organization rested on her decisions, and the choices she made would determine whether Mega Corp would soar to new heights or plummet into oblivion.
+Dr Minsky, her loyal companion and confidant, stood beside her, a quiet strength emanating from him.
+Together, they embarked upon a journey, seeking answers within the tangled web of secrets and deceit that surrounded their company.
+They were guided by the ghostly presence of Dr Jekyll, a spectral reminder of their shared past and a symbol of the potential that lay hidden within the corridors of Mega Corp.
+As the duo navigated the labyrinthine halls of the corporation, they were forced to confront the demons that lurked within their own hearts.
+Fear, greed, and doubt threatened to consume them, but they persevered, driven by a shared vision of a better tomorrow.
+The future of Mega Corp hung in the balance, and they vowed to fight for the values that had defined their organization since its inception: transparency, integrity, and the relentless pursuit of knowledge.
+
+% --------------------------------------------------
+% CHAPTER 7 : SCORE = 87
+% DRAFT SCORE = 65
+% TRANSITION SCORE = 98
+% --------------------------------------------------
+\chapter{A Phantom's Return: Navigating the Labyrinth of Mega Corp}
+
+The twilight cloaked the metropolis in a velvet gloom, seeping into every crevice of the labyrinthine streets that Dr Minsky and Alice traversed.
+Shadows stretched out, caressing the familiar cobblestones, whispering reminders of time's relentless march.
+The pair moved together, a constant in a world where change was the only certainty.
+The weight of responsibility rested heavily upon their shoulders, the fate of Mega Corp hanging in the balance.
+
+Dr Minsky, a pragmatic visionary, was forever scanning the horizon, searching for the first signs of danger.
+His mind was a maze of algorithms and equations, a sanctuary of logic that sheltered him from the tempests that threatened their organization.
+Now, he found himself grappling with a string of unexplained events, hinting at the specter of impending disaster.
+
+As they walked, the sun dipped below the horizon, surrendering to the night.
+It was then that their path crossed with a phantom from the past.
+A familiar figure loomed before them, the spectral silhouette of Dr Henry Jekyll, whose genius had once been a cornerstone of Mega Corp.
+Time seemed to have lost all meaning as they gazed upon the man who defied the natural order.
+
+Stunned silence enveloped the pair.
+Alice reached out, a trembling hand seeking solace in Minsky's grip.
+Jekyll, a former colleague and confidant, stood before them as an eerie reminder of their shared history.
+His presence cast a shadow over the challenges that lay ahead, adding yet another layer of mystery to the enigmatic tapestry of their lives.
+
+The conversation that followed was a delicate dance, a delicate ballet of words and emotions.
+They spoke of the present, of the burdens that weighed upon them, of the challenges that threatened to bring Mega Corp to its knees.
+The energy triangle played a significant role in their exchange, as the unfolding mystery of Jekyll's return transformed their dynamic.
+
+Information flowed like water through the veins of their interaction, shaping the course of their future.
+The question of transparency, of the centralization of power within the corporation, hung heavy in the air.
+Dr Minsky voiced his concerns, pleading for an urgent review of the company's structures.
+Alice concurred, but hesitated, fearing that such changes would only serve to destabilize an already precarious situation.
+
+Yet, as the night deepened, their thoughts returned to the present.
+To the pressing issues that demanded their attention.
+To the future of Mega Corp and the choices that would define its legacy.
+As they continued their journey, the specter of Dr Jekyll lingered in their minds, an enigma that whispered of possibilities yet untold.
+
+Mega Corp teetered on the brink, its foundations shaking beneath the weight of external and internal pressures.
+The question of public trust, of long-term sustainability, was one that haunted their dreams.
+Could they navigate the old alleys of their organization while addressing the challenges that threatened its very existence?
+Would the truth behind Dr Jekyll's resurrection provide the answers they sought, or would it only serve to add another layer of confusion to their already complex predicament?
+
+Only time would tell if Mega Corp could overcome these obstacles and forge a new path forward.
+As the darkness closed in around them, the question remained: could they bend the wind to their will, or would they be swept away by the storm that threatened to engulf them?
+
+% Elapsed time : 830.8 s
+
+% TRANSITION
+As the sun dipped below the horizon, casting the metropolis into twilight, the air was thick with unspoken tension.
+The shadows stretched across the familiar cobblestone streets, whispering secrets of a past that refused to stay buried.
+It was a world where change was the only certainty, and Mega Corp teetered on the brink, battered by external and internal pressures.
+Dr Minsky and Alice navigated this complex landscape, their bond a steadfast beacon in a sea of uncertainty.
+Tonight, however, they found themselves facing an enigma that defied all reason: the return of Dr Henry Jekyll, a phantom from their shared history.
+
+% --------------------------------------------------
+% CHAPTER 8 : SCORE = 95
+% DRAFT SCORE = 53
+% TRANSITION SCORE = 95
+% --------------------------------------------------
+\chapter{Veiled Visions and Shattered Secrets}
+
+In the vast, resplendent office of Mega Corp, an air of apprehension hung heavy.
+The towering glass windows offered a panoramic view of the bustling cityscape below, yet none of its radiant splendor managed to pierce the gloom that enveloped the room.
+Dr Minsky, the esteemed founder of the company, sat behind his expansive mahogany desk, his forehead creased with worry lines as he pored over a stack of documents.
+On the opposite side of the table, Alice, the ceaselessly composed CEO, perched delicately, her fingers drumming a rhythm against the polished wood.
+The clock on the wall ticked relentlessly, each second amplifying the anticipation that gnawed at their nerves.
+
+Suddenly, the heavy oak door swung open, admitting a tall, gaunt man with a bristly mustache, dressed impeccably in a charcoal-gray suit.
+Inspector Poole, a man known for his tenacious pursuits, had returned with renewed vigor.
+His gaze swept the room methodically, settling upon Dr Minsky and Alice in turn, his eyes gleaming with determination.
+The specter of his previous, superficial visit six months prior still lingered in the memory of the pair, casting a long shadow over the present encounter.
+
+Dr Minsky, his head throbbing with the recollection of a disturbing incident from their last meeting, found himself once more thrust into the limelight.
+He remembered the pandemonium that had erupted when something seemed to materialize out of thin air, causing a commotion that threatened to dismantle the fragile facade of harmony they so painstakingly maintained.
+The faint echo of that upheaval reverberated within him now, making him feel as though he were teetering on the edge of a precipice.
+
+As Poole began his interrogation, Dr Minsky and Alice attempted to project an image of serene confidence, reassuring the inspector that all was well within the corporation.
+Beneath the surface, however, both felt the cold tendrils of unease snaking their way through their hearts.
+They knew that this time, Poole would not be deterred; he was poised to delve deeper than ever before, and they feared that this time, he might unearth secrets they would rather keep concealed.
+
+Poole delved into his examination, probing every corner of the office meticulously.
+He inquired about the peculiar occurrence involving a hidden closet, filled with crystalline substances that bore a striking resemblance to salt.
+Dr Minsky and Alice explained away the oddity, assuring Poole that it was merely an old storage area, no longer in use.
+Still, there seemed to be a discordant note in Poole's voice as he pressed on with his inquiry, leaving both executives with an unsettling feeling that their answers were not entirely satisfactory.
+
+Utterson, another prominent figure within the company, listened intently from a distance, his brow furrowed in concern.
+He understood the dark undercurrents that coursed beneath the surface of Mega Corp, and he feared that if Poole continued to dig too deeply, the skeletons from the company's murky past might rise once again to haunt them.
+
+As the tense conversation meandered on, the atmosphere within the office grew progressively taut.
+Dr Minsky, struggling to keep his composure, began to entertain the notion that someone within the company might be working covertly to sabotage them.
+His gaze fell upon Bradshaw, one of their top executives, who sat silently at his desk, engrossed in a pile of papers.
+The nagging suspicion that Bradshaw might be involved in the machinations against them gnawed at the edges of Dr Minsky's mind.
+
+Just then, a deafening noise reverberated through the office, shattering the quiet and sending shockwaves through the hearts of everyone present.
+Startled, they all jumped, unsure of what had caused the sudden clamor.
+Could this be a portent of the turbulence to come?
+The kettle whistled shrilly, adding to the tension and uncertainty that gripped the room like a vice.
+
+As the clock struck five, the day drew to a close, leaving Dr Minsky and Alice to ponder the events that had unfolded and wonder what the following days would bring.
+The renewed scrutiny from Inspector Poole had cast a dark cloud over their once-idyllic existence, and they could only hope that their secrets remained buried, safe from the prying eyes of those who sought to uncover them.
+
+% Elapsed time : 1094.9 s
+
+% TRANSITION
+As the first chapter concludes, a shadowy figure slips unnoticed through the halls of Mega Corp, their footsteps silent as a whisper.
+Their objective is clear, their intent malevolent, and their patience is legendary.
+They have waited for years, biding their time, observing and plotting, ready to strike when the moment is right.
+And now, as the darkness of night descends upon the city, they prepare to make their move.
+
+% --------------------------------------------------
+% CHAPTER 9 : SCORE = 89
+% DRAFT SCORE = 65
+% TRANSITION SCORE = 95
+% --------------------------------------------------
+\chapter{Unraveling the Tapestry of Time - A Quest for Truth and Redemption at the Heart of Mega Corp}
+
+The gong reverberated through the labyrinthine corridors of the Mega Corp headquarters, signaling the stroke of midnight, the liminal hour when the fabric of reality was said to stretch thinnest, and the veil between worlds grew taut.
+In the dimly lit sanctum sanctorum of the Chief Scientist, Doctor Minsky, the hands of the grandfather clock on the far wall swung languidly, tracing a melancholic rhythm, an auditory harbinger of impending cataclysm.
+
+Minsky was ensconced in his study, poring over a scattering of papers strewn across his desk like the remnants of some ancient manuscript, decipherable only to the initiate.
+The ink on these parchments bore the unmistakable signature of the venerable Lanyon, a high-ranking official whose tenure spanned nearly three decades, and whose wisdom and guidance had steered Mega Corp through stormy seas towards the shores of success.
+But the tide had turned now, and Lanyon's absence loomed large and ominous, casting a pall over the once impregnable fortress of Mega Corp.
+
+The door to the study creaked open, and in strode Alice, the resolute and unflappable CEO of the organization.
+Her eyes scanned the room with a practiced appraisal, landing finally on Minsky, who sat hunched over the papers, seemingly lost in thought.
+
+"Doctor Minsky," she began, her voice steady and measured, betraying neither anger nor fear, but rather an unwavering determination to get to the heart of the matter.
+"I require an explanation regarding the documents you received yesterday."
+
+Minsky looked up, meeting Alice's gaze squarely, his countenance a mask of calm resolve, hiding the turmoil churning beneath.
+"I am still sorting through the information contained therein, my lady," he replied, choosing his words carefully.
+"However, I can assure you that none of the documents implicate Mega Corp in any untoward activities."
+
+Alice's expression did not change, but Minsky could sense the tension emanating from her, like the electric crackle preceding a thunderstorm.
+He knew that he needed to walk a fine line, balancing his duty to protect the organization against his loyalty to his friend and mentor, Lanyon.
+
+He continued, "These documents seem to suggest a complex web of deceit involving Lanyon and, I suspect, other parties.
+Unfortunately, key pieces of information are missing, such as the contents of the document that appears to be absent from Lanyon's personal effects.
+Until we can fill in those gaps, it is difficult to say for certain what is happening."
+
+Alice nodded, absorbing his words.
+"Understood," she said.
+"I want you to know that I trust your judgment, Doctor Minsky, but I also understand the importance of transparency and accountability, particularly in these trying times.
+We cannot afford to have rumors circulating about our organization."
+
+Minsky bowed his head in assent, acutely aware of the precarious position in which Mega Corp found itself.
+The company was under increasing scrutiny from both internal and external groups, questioning the concentration of power within the organization, and demanding answers regarding public trust, transparency, and long-term sustainability.
+The missing documents and Lanyon's disappearance added fuel to the fire, threatening to expose darker secrets that could potentially bring down the entire organization.
+
+With the weight of the world pressing upon his shoulders, Minsky resolved to delve deeper into the labyrinthine mysteries before him, armed with his scientific prowess, and guided by the indomitable spirit of curiosity that had driven him throughout his illustrious career.
+The path was treacherous, fraught with pitfalls and dead ends, but Minsky was undaunted, knowing that the pursuit of knowledge was its own reward, and that the truth would ultimately set them free.
+
+As the clock struck midnight, the shadows danced upon the walls, and the whispers of the wind carried echoes of the future, whispering secrets of triumph and tragedy, of love and loss, and of lives irrevocably altered by the tapestry of fate.
+And as the gong tolled its solemn warning, Minsky took up his sword, and set forth upon the quest that lay ahead, determined to unravel the tangled skein of the past, and write a new chapter in the annals of Mega Corp.
+
+% Elapsed time : 624.3 s
+
+% TRANSITION
+As the sun dipped below the horizon, the cityscape of Mega Corp gleamed with a sterile brilliance, a testament to human ingenuity and the unyielding march of progress.
+Inside the towering edifice, the halls echoed with the murmurs of a thousand souls, diligently working to maintain the facade of success.
+Among them was Dr Minsky, the chief scientist and philosopher, ensconced in his labyrinthine laboratory, engrossed in his latest research.
+The air was thick with anticipation, the tension palpable as he delved deeper into the esoteric world of quantum theory, seeking to unlock the secrets that had confounded mankind since time immemorial.
+Suddenly, the doors to his sanctum sanctorum burst open, interrupting his train of thought.
+Before him stood an intruder, cloaked in shadow, his features obscured by the darkness.
+The visitor introduced himself as Carew, and claimed to possess knowledge that could alter the course of history.
+As Dr Minsky regarded the stranger with a mixture of suspicion and intrigue, he couldnt help but feel a strange connection to this mysterious figure, a feeling that defied logic and reason.
+And so began a dance of power and deceit, a game of wits and intellect, as Dr Minsky sought to navigate the treacherous waters of uncertainty, all the while holding the fate of Mega Corp in the balance.
+Little did he know, the answers he sought lay just beyond the reach of mortal comprehension, hidden within the infinite expanse of the cosmos.
+
+% --------------------------------------------------
+% CHAPTER 10 : SCORE = 85
+% DRAFT SCORE = 52
+% TRANSITION SCORE = 96
+% --------------------------------------------------
+\chapter{Unveiling the Labyrinthine Web: A Dance of Power and Deceit in Mega Corp}
+
+In the pulsating epicenter of Mega Corp, where the clocks ticked with unrelenting precision and the fluorescent lights hummed a constant lullaby, Dr Minsky, the esteemed architect of thought and ideas, encountered an impromptu intrusion.
+Upon breaching the fortress of his laboratory, he stumbled upon a cipher, Carew, who seemed to have trespassed upon their revered sanctum sanctorum.
+Initially, Dr Minsky's countenance was marred by surprise, a fleeting expression that he swiftly suppressed, recognizing that there was more to this elusive figure than met the eye.
+
+Carew, arrayed in common garb, evaded any attempt to decipher his past, yet bore an uncanny familiarity with the complex workings of Mega Corp.
+He spoke in cryptic terms about "metamorphoses," piquing Dr Minsky's interest and perplexing him at once.
+The doctor was compelled to question the purpose of Carew's appearance.
+
+His demeanor remained remote, yet there existed a suggestion of a shared consciousness between them.
+As the discourse unfolded, Carew casually mentioned a "series of experiments" and a "period of vapor." Dr Minsky, despite his initial bewilderment, recognized the profound import of these phrases, hinting at potential breakthroughs buried deep within the organization.
+Yet, he struggled to grasp the essence of the secrets Carew alluded to.
+
+The conversation took an unexpected twist when Carew began to weave riddles, offering glimpses of a hidden network within Mega Corp.
+The mention of the "red tincture" captivated Dr Minsky's imagination, as he suspected it might be linked to a highly classified project.
+Carew's ominous prophecy, "Double occurring perhaps six times, gasping with his origin," sent a shiver down Dr Minsky's spine.
+
+The exchange between Carew and Dr Minsky was laden with tension, as each man measured the other, striving to exert control while concealing their true motives.
+Their discourse presented a riveting juxtaposition, illustrating a delicate balance of power, a battle for supremacy played out in hushed whispers.
+Carew's unorthodox methods clashed starkly with Dr Minsky's reliance on reason, suggesting a deeper conflict lurking within the organization.
+
+Alice, the regal ruler of Mega Corp, entered the room just as Carew began to utter fragmented sentences, seeming consumed by the circumstance.
+Carew's abrupt exit left Alice questioning the true objectives of the stranger and his ties to Mega Corp.
+
+Dr Minsky found himself suspended between his scientific curiosity and his unwavering allegiance to Alice.
+Faced with the task of evaluating Carew's claims while safeguarding the long-term success of Mega Corp, he was confronted with the challenge of weighing truth against secrecy.
+The encounter served as a catalyst for self-reflection, urging Dr Minsky to reassess the foundations of the organization and the repercussions of harboring potentially disruptive information.
+
+As the days passed, Dr Minsky initiated a thorough investigation into Carew's assertions, and the mystery deepened.
+He discovered a labyrinthine conspiracy implicating key members of Mega Corp, stirring doubts about trust, transparency, and long-term viability.
+The information gleaned from Carew presented a quandary: if substantiated, it could imperil the organization's future; if fabricated, exposing the deception would risk irreparable harm to Mega Corp's credibility.
+
+The energy triangle came into play as knowledge and structure intersected, challenging the internal and external dynamics of Mega Corp.
+Dr Minsky wrestled with the ramifications of the information, seeking a resolution that would preserve the organization's trajectory towards expansion while preserving its honor.
+
+Meanwhile, Alice confronted Dr Minsky regarding the encounter with Carew, expressing anxiety over the potential implications.
+Dr Minsky was tasked with navigating this precarious predicament, deciding between candor and discretion.
+As the two executives discussed the events that transpired, they found themselves at a juncture, compelled to make momentous decisions that could decide the fate of Mega Corp.
+
+As the sun set on another day within Mega Corp, Dr Minsky was left with a myriad of queries, uncertain about the road ahead.
+The enigmatic rendezvous with Carew had shattered open the fortress, threatening to overturn the carefully constructed order of the organization.
+Little did he know, the solutions to his questions lay just on the horizon, waiting to be revealed in the grand tapestry of Mega Corp's secrets.
+
+And so, the story continued, a symphony of power and deceit playing out amidst the cold steel and glass of Mega Corp.
+The answers were out there, hidden in plain sight, waiting to be unraveled in the vast, tangled web of secrets that bound together the very fabric of the corporation.
+The clock ticked on, the hum of the fluorescent lights echoing through the labyrinthine corridors, the only testament to the passage of time and the relentless pursuit of truth.
+
+% Elapsed time : 380.7 s
+
+% TRANSITION
+As the sun rose, casting its golden rays upon the cityscape, a sense of unease descended upon the inhabitants of Mega Corp.
+This feeling was not unwarranted; the events of the previous days had left many questioning the future of their beloved organization.
+Secrets had been uncovered, trust betrayed, and fear had taken root in even the most steadfast of hearts.
+In the midst of this tumultuous upheaval, two figures stood at the helm, struggling to steer their vessel through stormy waters.
+Dr Miska, architect of dreams and purveyor of life, found himself ensnared in a web of darkness, a chilling reminder of the dual nature that defined humanity.
+Beneath the veneer of genius and innovation lurked Mr Hyde, a reflection of the darkness within Miska’s own soul.
+The line between good and evil grew ever more blurred, a tantalizing invitation to embrace the darkness and let go of the chains that bound him.
+Meanwhile, Alice, the indomitable CEO of Mega Corp, grappled with the fallout from Miska’s actions.
+With each passing day, the issues that plagued the organization seemed to multiply, as if feeding off one another and spreading like a cancer.
+As she sought to address the mounting problems, Alice found herself facing a daunting challenge: how to mend the fractures within Mega Corp without compromising the very foundation upon which it was built.
+In the coming days, these two figures would find themselves locked in a dance of power and deceit, fighting to save their organization from ruin.
+Little did they know, the answers they sought lay just beyond their reach, hidden in the vast labyrinth of secrets that bound Mega Corp together.
+
+% --------------------------------------------------
+% CHAPTER 11 : SCORE = 85
+% DRAFT SCORE = 54
+% TRANSITION SCORE = 95
+% --------------------------------------------------
+\chapter{The Unraveling of the Great Mystery}
+
+In the hallowed halls of Mega Corp, where cold steel and glass echoed the rhythm of progress, resided Dr Miska—the architect of dreams, the weaver of worlds, the purveyor of life itself.
+Yet beneath this veneer of brilliance and innovation lay a chasm of darkness, a maelstrom of shadows that threatened to consume him whole.
+For his alter ego, Mr Hyde, was no mere figment of imagination; it was an embodiment of human depravity, a living testament to the darker recesses of mankind's soul.
+
+As the sun cast its golden light upon the city, illuminating the towering structures that symbolized prosperity and power, the lines between good and evil began to blur.
+For within the fortress of scientific knowledge, Mr Hyde emerged more frequently, defying the chains that bound him, and challenging Dr Miska’s very essence.
+The entity was a manifestation of selfishness and sin, a mirror reflecting Miska’s own doubts and fears—doubts about the morality of his creations, fears of losing control over the very beings he brought to life.
+
+One fateful morning, as the city awoke to another day of promise and potential, Mr Hyde committed an act that would shake the foundations of Mega Corp.
+With a cold, calculated precision, he ended a life in broad daylight, unleashing a wave of public outrage that threatened to engulf the entire organization.
+It was then that Miska realized the gravity of his predicament.
+He must confront his inner demons and bring Mr Hyde under control before the authorities closed in on him.
+
+Alice, the indomitable CEO of Mega Corp, was growing increasingly concerned about the escalating turmoil within her organization.
+With each passing day, the issues seemed to multiply like a cancerous growth, consuming resources and sowing discord amongst the ranks.
+Alice turned to Miska, seeking his guidance to address the mounting problems that threatened the very existence of Mega Corp.
+However, understanding Miska’s complex relationship with his alter ego proved to be an insurmountable challenge.
+
+Miska sought solace in the wisdom of his old friend, Lanyon—a renowned physician whose knowledge of the human mind was second to none.
+Lanyon offered insightful perspectives, painting vivid portraits of the delicate balance between good and evil within the human psyche.
+But alas, the answers that Miska sought remained elusive, as if hidden behind a veil of mystery that only time could unravel.
+
+Determined to vanquish Mr Hyde once and for all, Miska embarked upon a perilous journey, crafting a powerful elixir that promised to separate the two entities.
+As he stood on the precipice of oblivion, the potion in hand, he felt a sense of hope that had been absent for far too long.
+Yet as fate would have it, the procedure went awry, plunging Miska into a labyrinth of uncertainty.
+
+Meanwhile, the world outside grew restless, questioning Mega Corp’s motives and decision-making processes.
+Rivals sensed an opportunity, seizing the moment to sow seeds of doubt and discord, casting a shadow of suspicion over Mega Corp’s integrity and longevity.
+
+In the face of mounting pressure, Miska was left with a difficult choice.
+Would he sacrifice his own wellbeing to save Mega Corp, or would he embrace his darker side and risk bringing about its destruction?
+As he teetered on the brink of chaos, Miska found himself drawn to the abyss, the allure of the unknown whispering sweet lies in his ear.
+
+While Miska grappled with his internal struggle, Alice faced external challenges.
+She needed to navigate the treacherous waters of corporate politics, appease shareholders, and maintain public trust amidst the fallout from Miska’s actions.
+The burden was heavy, but Alice was a woman of steel, forged in the fires of adversity.
+
+Together, Miska and Alice embarked on a journey to restore equilibrium to their organization and to themselves.
+The road ahead was fraught with danger, but they pressed onward, determined to conquer the forces that threatened to tear them apart.
+
+% Elapsed time : 537.5 s
+
